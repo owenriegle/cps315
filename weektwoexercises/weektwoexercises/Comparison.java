@@ -5,6 +5,32 @@ import java.io.FileNotFoundException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+class Person implements Comparable<Person> {
+    String name;
+    double height;
+    double weight;
+
+    public Person(String name, double height, double weight) {
+        this.name = name;
+        this.height = height;
+        this.weight = weight;
+    }
+
+    public double getBMI() {
+        return (weight * 703.0) / (height * height);
+    }
+
+    public String toString() {
+        java.text.DecimalFormat df = new java.text.DecimalFormat("#.##");
+        return (name + ":  ht = " + height + "; wt = " + weight + "; bmi = " + df.format(getBMI()));
+    }
+
+    @Override
+    public int compareTo(Person p) {
+        return this.name.compareTo(p.name);
+    }
+}
+
 public class Comparison {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File("namesWithHeightWeight.csv"));
@@ -13,10 +39,15 @@ public class Comparison {
 
         LinkedList<Person> people = new LinkedList<>();
 
-        while (scanner.hasNext()) {
-            String lastName = scanner.next().strip();
-            String firstName = scanner.next().strip();
-            Person person = new Person((firstName + " " + lastName), scanner.nextDouble(), scanner.nextDouble());
+        System.out.println(scanner.nextLine());
+
+        while (scanner.hasNextLine()) {
+            String line = scanner.nextLine();
+            String[] vals = line.split(",");
+            String name = vals[1] + " " + vals[0];
+            double height = Double.parseDouble(vals[2]);
+            double weight = Double.parseDouble(vals[3]);
+            Person person = new Person(name, height, weight);
             people.add(person);
         }
 

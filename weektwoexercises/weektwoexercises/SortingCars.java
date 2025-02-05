@@ -5,6 +5,36 @@ import java.io.FileNotFoundException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+class Car implements Comparable<Car> {
+    String model;
+    String origin;
+    int year;
+    int cylinders;
+    int horsepower;
+    double mpg;
+    int weight;
+
+    public Car(String model, String origin, int year, int cylinders, int horsepower, double mpg, int weight) {
+        this.model = model;
+        this.origin = origin;
+        this.year = year;
+        this.cylinders = cylinders;
+        this.horsepower = horsepower;
+        this.mpg = mpg;
+        this.weight = weight;
+    }
+
+    public String toString() {
+        return ("Model name: " + model + ";  Origin: " + origin + "; Year: " + year + "; Cylinders: " + cylinders
+                + "; Horsepower: " + horsepower + "; MPG: " + mpg + "; Weight: " + weight);
+    }
+
+    @Override
+    public int compareTo(Car o) {
+        return this.model.compareTo(o.model);
+    }
+}
+
 public class SortingCars {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File("cars_data.csv"));
@@ -13,10 +43,17 @@ public class SortingCars {
 
         LinkedList<Car> cars = new LinkedList<>();
 
-        while (scanner.hasNext()) {
-            System.out.println(scanner.nextLine());
-            cars.add(new Car(scanner.next(), scanner.next(), scanner.nextInt(), scanner.nextInt(), scanner.nextInt(),
-                    scanner.nextDouble(), scanner.nextInt()));
+        while (scanner.hasNextLine()) {
+            String line = scanner.nextLine();
+            String[] vals = line.split(",");
+            String model = vals[0];
+            String origin = vals[1];
+            int year = Integer.parseInt(vals[2]);
+            int cylinders = Integer.parseInt(vals[3]);
+            int horsepower = Integer.parseInt(vals[4]);
+            double mpg = Double.parseDouble(vals[5]);
+            int weight = Integer.parseInt(vals[6]);
+            cars.add(new Car(model, origin, year, cylinders, horsepower, mpg, weight));
         }
 
         System.out.println("\n---Printing list of cars");
