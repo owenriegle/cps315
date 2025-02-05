@@ -1,0 +1,3139 @@
+state,county,region,metro,population,income_per_cap,unemployment,land_area
+Alabama,Autauga,South,Metro,55221,24974,7.6,594.44
+Alabama,Baldwin,South,Metro,195121,27317,7.5,1589.78
+Alabama,Barbour,South,Nonmetro,26932,16824,17.6,884.88
+Alabama,Bibb,South,Metro,22604,18431,8.3,622.58
+Alabama,Blount,South,Metro,57710,20532,7.7,644.78
+Alabama,Bullock,South,Nonmetro,10678,17580,18,622.81
+Alabama,Butler,South,Nonmetro,20354,18390,10.9,776.83
+Alabama,Calhoun,South,Metro,116648,21374,12.3,605.87
+Alabama,Chambers,South,Nonmetro,34079,21071,8.9,596.53
+Alabama,Cherokee,South,Nonmetro,26008,21811,7.9,553.7
+Alabama,Chilton,South,Metro,43819,21399,9.1,692.85
+Alabama,Choctaw,South,Nonmetro,13395,20755,13.6,913.5
+Alabama,Clarke,South,Nonmetro,25070,20064,19.4,1238.47
+Alabama,Clay,South,Nonmetro,13537,18905,9.4,603.96
+Alabama,Cleburne,South,Nonmetro,15002,20151,8.3,560.1
+Alabama,Coffee,South,Nonmetro,50884,24936,7.1,678.97
+Alabama,Colbert,South,Metro,54444,22546,9,592.62
+Alabama,Conecuh,South,Nonmetro,12865,15968,22.6,850.16
+Alabama,Coosa,South,Nonmetro,11027,17519,17,650.93
+Alabama,Covington,South,Nonmetro,37886,20977,11.2,1030.46
+Alabama,Crenshaw,South,Nonmetro,13938,20585,9.7,608.84
+Alabama,Cullman,South,Nonmetro,80965,20881,7.3,734.84
+Alabama,Dale,South,Nonmetro,49866,22566,10.9,561.15
+Alabama,Dallas,South,Nonmetro,42154,17808,16.4,978.7
+Alabama,DeKalb,South,Nonmetro,71068,18411,7.7,777.09
+Alabama,Elmore,South,Metro,80763,24381,8.3,618.49
+Alabama,Escambia,South,Nonmetro,37935,17045,15.6,945.08
+Alabama,Etowah,South,Metro,103766,20500,9,534.99
+Alabama,Fayette,South,Nonmetro,16896,19545,10,627.66
+Alabama,Franklin,South,Nonmetro,31634,18595,9.8,633.82
+Alabama,Geneva,South,Metro,26815,20224,11.2,574.41
+Alabama,Greene,South,Nonmetro,8697,13611,20.4,647.11
+Alabama,Hale,South,Metro,15256,18877,13.3,643.94
+Alabama,Henry,South,Metro,17252,22931,8.1,561.75
+Alabama,Houston,South,Metro,103534,23925,8.3,579.82
+Alabama,Jackson,South,Nonmetro,52860,20066,10.1,1077.87
+Alabama,Jefferson,South,Metro,659026,27240,9.1,1111.28
+Alabama,Lamar,South,Nonmetro,14133,20130,10.2,604.85
+Alabama,Lauderdale,South,Metro,92737,24215,7.1,667.7
+Alabama,Lawrence,South,Metro,33586,21369,9.8,690.68
+Alabama,Lee,South,Metro,150982,24356,7.3,607.54
+Alabama,Limestone,South,Metro,88805,25569,7.8,559.94
+Alabama,Lowndes,South,Metro,10742,18429,13.2,715.91
+Alabama,Macon,South,Nonmetro,20018,17374,16.9,608.89
+Alabama,Madison,South,Metro,346438,32131,8.5,801.59
+Alabama,Marengo,South,Nonmetro,20306,21471,11.4,976.88
+Alabama,Marion,South,Nonmetro,30387,20042,9.9,742.29
+Alabama,Marshall,South,Nonmetro,94318,21363,8.4,565.84
+Alabama,Mobile,South,Metro,414251,22953,9.8,1229.44
+Alabama,Monroe,South,Nonmetro,22217,15863,20.7,1025.68
+Alabama,Montgomery,South,Metro,228138,25138,8.8,784.25
+Alabama,Morgan,South,Metro,119786,24449,9.9,579.34
+Alabama,Perry,South,Nonmetro,10038,14804,11.2,719.66
+Alabama,Pickens,South,Metro,19856,17957,13.8,881.41
+Alabama,Pike,South,Nonmetro,33155,19415,10.2,672.09
+Alabama,Randolph,South,Nonmetro,22648,19363,10.3,580.55
+Alabama,Russell,South,Metro,58302,19882,11.1,641.14
+Alabama,St. Clair,South,Metro,85864,24168,8.4,631.9
+Alabama,Shelby,South,Metro,203530,33494,5.5,784.93
+Alabama,Sumter,South,Nonmetro,13341,12887,16.8,903.89
+Alabama,Talladega,South,Nonmetro,81437,19598,13.8,736.78
+Alabama,Tallapoosa,South,Nonmetro,41153,21177,9,716.52
+Alabama,Tuscaloosa,South,Metro,200458,23124,7.6,1321.76
+Alabama,Walker,South,Metro,65923,20166,11.4,791.19
+Alabama,Washington,South,Nonmetro,16997,19743,20,1080.21
+Alabama,Wilcox,South,Nonmetro,11235,14170,20.8,888.5
+Alabama,Winston,South,Nonmetro,24130,18808,9.6,612.98
+Alaska,Aleutians East Borough,West,Nonmetro,3304,28608,2.9,6981.94
+Alaska,Aleutians West Census Area,West,Nonmetro,5684,31754,2.1,4390.28
+Alaska,Anchorage Municipality,West,Metro,299107,36920,6.7,1704.68
+Alaska,Bethel Census Area,West,Nonmetro,17776,17746,17.6,40570
+Alaska,Bristol Bay Borough,West,Nonmetro,970,38267,5.4,503.84
+Alaska,Denali Borough,West,Nonmetro,2060,35315,2.3,12751.41
+Alaska,Dillingham Census Area,West,Nonmetro,4979,22257,12.5,18568.78
+Alaska,Fairbanks North Star Borough,West,Metro,99705,33244,7.9,7338.21
+Alaska,Haines Borough,West,Nonmetro,2560,33902,3,2318.6
+Alaska,Hoonah-Angoon Census Area,West,Nonmetro,2128,30943,13.1,7524.92
+Alaska,Juneau City and Borough,West,Nonmetro,32531,39979,5.2,2701.93
+Alaska,Kenai Peninsula Borough,West,Nonmetro,57221,31537,9.4,16075.33
+Alaska,Ketchikan Gateway Borough,West,Nonmetro,13699,32021,7.9,4858.41
+Alaska,Kodiak Island Borough,West,Nonmetro,13973,30657,6.3,6549.58
+Alaska,Lake and Peninsula Borough,West,Nonmetro,1474,23041,9.8,23652.01
+Alaska,Matanuska-Susitna Borough,West,Metro,96178,29913,9.8,24607.9
+Alaska,Nome Census Area,West,Nonmetro,9854,19804,16.5,22961.76
+Alaska,North Slope Borough,West,Nonmetro,9667,51085,9.3,88695.41
+Alaska,Northwest Arctic Borough,West,Nonmetro,7732,21101,21.9,35572.58
+Alaska,Petersburg Borough,West,Nonmetro,3221,34884,8.4,3281.98
+Alaska,Prince of Wales-Hyder Census Area,West,Nonmetro,6376,25205,13.9,3922.87
+Alaska,Sitka City and Borough,West,Nonmetro,8943,33890,3.8,2870.34
+Alaska,Skagway Municipality,West,Nonmetro,999,38696,7.8,452.33
+Alaska,Southeast Fairbanks Census Area,West,Nonmetro,7029,30079,9.4,24768.81
+Alaska,Valdez-Cordova Census Area,West,Nonmetro,9617,33293,10.7,34239.88
+Alaska,Wrangell City and Borough,West,Nonmetro,2387,30089,7.5,2541.48
+Alaska,Yakutat City and Borough,West,Nonmetro,643,33159,7.9,7649.46
+Alaska,Yukon-Koyukuk Census Area,West,Nonmetro,5644,20698,18.2,145504.79
+Arizona,Apache,West,Nonmetro,72124,13011,18.2,11197.52
+Arizona,Cochise,West,Metro,129647,23506,8.7,6165.69
+Arizona,Coconino,West,Metro,136701,24308,8.8,18618.89
+Arizona,Gila,West,Nonmetro,53165,20583,12.8,4757.93
+Arizona,Graham,West,Nonmetro,37407,17481,14.1,4622.6
+Arizona,Greenlee,West,Nonmetro,9023,21994,10,1843.13
+Arizona,La Paz,West,Nonmetro,20335,20439,11.2,4499.63
+Arizona,Maricopa,West,Metro,4018143,27832,7.7,9200.14
+Arizona,Mohave,West,Metro,203362,20974,13.2,13311.08
+Arizona,Navajo,West,Nonmetro,107656,16486,19.8,9950.42
+Arizona,Pima,West,Metro,998537,25729,10,9187.04
+Arizona,Pinal,West,Metro,389772,21130,10.6,5365.61
+Arizona,Santa Cruz,West,Nonmetro,47073,17795,11.3,1236.92
+Arizona,Yavapai,West,Metro,215996,25418,10,8123.5
+Arizona,Yuma,West,Metro,202987,19102,13.1,5513.99
+Arkansas,Arkansas,South,Nonmetro,18731,22473,8.3,988.77
+Arkansas,Ashley,South,Nonmetro,21229,19891,11.8,925.35
+Arkansas,Baxter,South,Nonmetro,41040,22475,7.6,554.28
+Arkansas,Benton,South,Metro,238198,27934,4.2,847.36
+Arkansas,Boone,South,Nonmetro,37227,21946,8.4,590.23
+Arkansas,Bradley,South,Nonmetro,11206,20252,9.4,649.23
+Arkansas,Calhoun,South,Nonmetro,5245,20537,7.2,628.58
+Arkansas,Carroll,South,Nonmetro,27635,20195,6.2,630.09
+Arkansas,Chicot,South,Nonmetro,11353,19053,11.5,644.3
+Arkansas,Clark,South,Nonmetro,22751,19555,8.4,866.07
+Arkansas,Clay,South,Nonmetro,15400,19166,9.5,639.47
+Arkansas,Cleburne,South,Nonmetro,25711,24912,10.2,553.69
+Arkansas,Cleveland,South,Metro,8510,21905,9.7,597.78
+Arkansas,Columbia,South,Nonmetro,24327,20045,10.1,766.05
+Arkansas,Conway,South,Nonmetro,21110,21897,8.1,552.25
+Arkansas,Craighead,South,Metro,101409,23091,7.5,707.21
+Arkansas,Crawford,South,Metro,61748,20849,7.9,593.09
+Arkansas,Crittenden,South,Metro,49765,19682,9.9,609.76
+Arkansas,Cross,South,Nonmetro,17467,19543,8.6,616.38
+Arkansas,Dallas,South,Nonmetro,7868,17868,8.3,667.39
+Arkansas,Desha,South,Nonmetro,12379,17788,17.7,768.15
+Arkansas,Drew,South,Nonmetro,18740,17481,14.3,828.36
+Arkansas,Faulkner,South,Metro,119343,24603,6.6,647.88
+Arkansas,Franklin,South,Nonmetro,17866,19550,11,608.86
+Arkansas,Fulton,South,Nonmetro,12224,19163,7.6,618.19
+Arkansas,Garland,South,Metro,96954,24070,9.2,677.78
+Arkansas,Grant,South,Metro,18054,23686,9.4,631.81
+Arkansas,Greene,South,Nonmetro,43382,20689,9,577.7
+Arkansas,Hempstead,South,Nonmetro,22336,17049,7.9,727.52
+Arkansas,Hot Spring,South,Nonmetro,33316,18956,7.6,615.2
+Arkansas,Howard,South,Nonmetro,13555,21273,8.5,588.55
+Arkansas,Independence,South,Nonmetro,36952,20242,6.9,763.95
+Arkansas,Izard,South,Nonmetro,13480,18995,10,580.58
+Arkansas,Jackson,South,Nonmetro,17597,17797,7.9,633.94
+Arkansas,Jefferson,South,Metro,73548,19885,11.2,870.75
+Arkansas,Johnson,South,Nonmetro,25930,19341,6.2,659.8
+Arkansas,Lafayette,South,Nonmetro,7270,20904,12.5,528.27
+Arkansas,Lawrence,South,Nonmetro,17029,17312,6.9,587.61
+Arkansas,Lee,South,Nonmetro,9966,14298,17.3,602.62
+Arkansas,Lincoln,South,Metro,14062,14377,14.2,561.52
+Arkansas,Little River,South,Metro,12720,19858,8.8,532.25
+Arkansas,Logan,South,Nonmetro,22001,20011,8.1,708.13
+Arkansas,Lonoke,South,Metro,70691,23555,5.9,770.73
+Arkansas,Madison,South,Metro,15702,20693,7.3,834.26
+Arkansas,Marion,South,Nonmetro,16458,17779,10.9,597.01
+Arkansas,Miller,South,Metro,43652,21104,9.6,625.58
+Arkansas,Mississippi,South,Nonmetro,44864,19073,12,900.57
+Arkansas,Monroe,South,Nonmetro,7713,17470,12.8,607.12
+Arkansas,Montgomery,South,Nonmetro,9197,19975,4.3,779.88
+Arkansas,Nevada,South,Nonmetro,8793,17277,9.5,617.84
+Arkansas,Newton,South,Nonmetro,8052,18038,4.4,820.9
+Arkansas,Ouachita,South,Nonmetro,25044,19810,8.3,732.78
+Arkansas,Perry,South,Metro,10300,22328,6.8,551.4
+Arkansas,Phillips,South,Nonmetro,20391,16700,18.1,695.66
+Arkansas,Pike,South,Nonmetro,11087,19294,6.6,600.62
+Arkansas,Poinsett,South,Metro,24210,17202,10,758.39
+Arkansas,Polk,South,Nonmetro,20364,19004,9,857.68
+Arkansas,Pope,South,Nonmetro,62830,20047,7.6,812.55
+Arkansas,Prairie,South,Nonmetro,8402,19329,6.2,647.96
+Arkansas,Pulaski,South,Metro,390463,27708,7.5,759.76
+Arkansas,Randolph,South,Nonmetro,17695,19011,5.4,652.19
+Arkansas,St. Francis,South,Nonmetro,27345,15971,11.7,634.77
+Arkansas,Saline,South,Metro,113833,26050,5.3,723.6
+Arkansas,Scott,South,Nonmetro,10870,17833,10.9,892.32
+Arkansas,Searcy,South,Nonmetro,7965,18533,5.9,666.1
+Arkansas,Sebastian,South,Metro,127273,23182,6.1,531.91
+Arkansas,Sevier,South,Nonmetro,17268,17371,9.3,565.13
+Arkansas,Sharp,South,Nonmetro,17055,16848,8.8,604.44
+Arkansas,Stone,South,Nonmetro,12512,18944,7,606.41
+Arkansas,Union,South,Nonmetro,40633,21779,9.7,1039.21
+Arkansas,Van Buren,South,Nonmetro,17002,19047,11.2,708.14
+Arkansas,Washington,South,Metro,216432,24638,6.2,941.97
+Arkansas,White,South,Nonmetro,78660,22547,7.1,1035.08
+Arkansas,Woodruff,South,Nonmetro,6983,18377,12.4,586.79
+Arkansas,Yell,South,Nonmetro,21835,18288,8.3,929.98
+California,Alameda,West,Metro,1584983,37285,8.3,739.02
+California,Alpine,West,Nonmetro,1131,21415,10.7,738.33
+California,Amador,West,Nonmetro,36995,27473,14,594.58
+California,Butte,West,Metro,222564,24259,12.1,1636.46
+California,Calaveras,West,Nonmetro,44767,29553,12.1,1020.01
+California,Colusa,West,Nonmetro,21396,21897,10.4,1150.73
+California,Contra Costa,West,Metro,1096068,39313,8.8,715.94
+California,Del Norte,West,Nonmetro,27788,19560,11.5,1006.37
+California,El Dorado,West,Metro,182093,35588,11.1,1707.88
+California,Fresno,West,Metro,956749,20408,13.2,5957.99
+California,Glenn,West,Nonmetro,28029,21313,12.6,1313.95
+California,Humboldt,West,Nonmetro,135034,23367,10.5,3567.99
+California,Imperial,West,Metro,178206,16143,17.4,4176.6
+California,Inyo,West,Nonmetro,18373,27850,6.8,10180.88
+California,Kern,West,Metro,865736,20644,12.7,8131.92
+California,Kings,West,Metro,150998,18707,13,1389.42
+California,Lake,West,Nonmetro,64158,21407,14.6,1256.46
+California,Lassen,West,Nonmetro,32645,19274,10.9,4541.18
+California,Los Angeles,West,Metro,10038388,28337,10,4057.88
+California,Madera,West,Metro,153187,17970,7.5,2137.07
+California,Marin,West,Metro,258349,60236,5.7,520.31
+California,Mariposa,West,Nonmetro,17789,28316,11.6,1448.82
+California,Mendocino,West,Nonmetro,87544,24059,12.2,3506.34
+California,Merced,West,Metro,263885,18204,16.2,1934.97
+California,Modoc,West,Nonmetro,9184,21001,8.6,3917.77
+California,Mono,West,Nonmetro,14146,29437,13.4,3048.98
+California,Monterey,West,Metro,428441,24994,8.4,3280.6
+California,Napa,West,Metro,140295,36475,7.5,748.36
+California,Nevada,West,Nonmetro,98570,32442,9.8,957.77
+California,Orange,West,Metro,3116069,34817,7.6,790.57
+California,Placer,West,Metro,366280,36022,8.3,1407.01
+California,Plumas,West,Nonmetro,18966,30842,15.2,2553.04
+California,Riverside,West,Metro,2298032,23783,12.9,7206.48
+California,Sacramento,West,Metro,1465832,27315,11.8,964.64
+California,San Benito,West,Metro,57557,27239,12.2,1388.71
+California,San Bernardino,West,Metro,2094769,21352,12.6,20056.94
+California,San Diego,West,Metro,3223096,31266,8.7,4206.63
+California,San Francisco,West,Metro,840763,52220,6.8,46.87
+California,San Joaquin,West,Metro,708554,22645,13.7,1391.32
+California,San Luis Obispo,West,Metro,276517,31060,6.6,3298.57
+California,San Mateo,West,Metro,748731,48278,6.7,448.41
+California,Santa Barbara,West,Metro,435850,30589,8,2735.09
+California,Santa Clara,West,Metro,1868149,43880,7.7,1290.1
+California,Santa Cruz,West,Metro,269278,33241,7.6,445.17
+California,Shasta,West,Metro,178942,24107,10.3,3775.4
+California,Sierra,West,Nonmetro,3021,29986,8,953.21
+California,Siskiyou,West,Nonmetro,43895,22561,12.7,6277.89
+California,Solano,West,Metro,425753,29185,11.4,821.77
+California,Sonoma,West,Metro,495078,34235,8.1,1575.85
+California,Stanislaus,West,Metro,527367,21922,15.2,1494.83
+California,Sutter,West,Metro,95247,23689,13.2,602.41
+California,Tehama,West,Nonmetro,63152,21263,13.2,2949.71
+California,Trinity,West,Nonmetro,13373,22975,9,3179.25
+California,Tulare,West,Metro,454033,17876,12,4824.22
+California,Tuolumne,West,Nonmetro,54079,27054,12.9,2220.88
+California,Ventura,West,Metro,840833,33435,8.6,1843.13
+California,Yolo,West,Metro,207320,28116,9,1014.69
+California,Yuba,West,Metro,73437,20471,14.8,631.84
+Colorado,Adams,West,Metro,471206,25039,7.9,1167.65
+Colorado,Alamosa,West,Nonmetro,16269,19524,10.4,722.64
+Colorado,Arapahoe,West,Metro,608310,34190,7.2,798.1
+Colorado,Archuleta,West,Nonmetro,12174,28884,8.2,1350.18
+Colorado,Baca,West,Nonmetro,3701,21361,4.5,2554.97
+Colorado,Bent,West,Nonmetro,5895,13544,8.3,1512.86
+Colorado,Boulder,West,Metro,310032,39074,6.1,726.29
+Colorado,Broomfield,West,Metro,60699,40135,5.5,33.03
+Colorado,Chaffee,West,Nonmetro,18309,28064,5.9,1013.4
+Colorado,Cheyenne,West,Nonmetro,2002,23553,9.3,1778.28
+Colorado,Clear Creek,West,Metro,9136,42812,5.4,395.23
+Colorado,Conejos,West,Nonmetro,8249,18844,9.7,1287.39
+Colorado,Costilla,West,Nonmetro,3581,21809,14,1226.95
+Colorado,Crowley,West,Nonmetro,5551,10742,27,787.42
+Colorado,Custer,West,Nonmetro,4303,22661,14,738.63
+Colorado,Delta,West,Nonmetro,30214,24417,11.7,1142.05
+Colorado,Denver,West,Metro,649654,35218,6.3,153
+Colorado,Dolores,West,Nonmetro,1862,20199,4.6,1067.05
+Colorado,Douglas,West,Metro,306974,45500,4.1,840.25
+Colorado,Eagle,West,Nonmetro,52576,38193,4.4,1684.53
+Colorado,Elbert,West,Metro,23855,38021,6.7,1850.85
+Colorado,El Paso,West,Metro,655024,29659,8.4,2126.8
+Colorado,Fremont,West,Nonmetro,46809,18619,9.2,1533.07
+Colorado,Garfield,West,Nonmetro,57076,27574,6.9,2947.56
+Colorado,Gilpin,West,Metro,5605,38361,4.9,149.9
+Colorado,Grand,West,Nonmetro,14411,31432,5.7,1846.33
+Colorado,Gunnison,West,Nonmetro,15651,25584,7.8,3239.1
+Colorado,Hinsdale,West,Nonmetro,874,33816,3,1117.25
+Colorado,Huerfano,West,Nonmetro,6502,23467,15,1591
+Colorado,Jackson,West,Nonmetro,1335,27938,1.5,1613.72
+Colorado,Jefferson,West,Metro,552344,37065,5.9,764.21
+Colorado,Kiowa,West,Nonmetro,1463,22731,2,1767.77
+Colorado,Kit Carson,West,Nonmetro,7980,21769,5.9,2160.82
+Colorado,Lake,West,Nonmetro,7362,24399,5.7,376.91
+Colorado,La Plata,West,Nonmetro,53182,31822,5.2,1692.08
+Colorado,Larimer,West,Metro,318227,31304,6.7,2596
+Colorado,Las Animas,West,Nonmetro,14503,22935,9.2,4772.67
+Colorado,Lincoln,West,Nonmetro,5478,15203,6.3,2577.63
+Colorado,Logan,West,Nonmetro,21928,23916,9,1838.55
+Colorado,Mesa,West,Metro,147834,26569,8.7,3328.97
+Colorado,Mineral,West,Nonmetro,733,32271,1.6,875.67
+Colorado,Moffat,West,Nonmetro,13117,24624,5.9,4743.29
+Colorado,Montezuma,West,Nonmetro,25700,23470,9.5,2029.53
+Colorado,Montrose,West,Nonmetro,40815,23144,10.2,2240.7
+Colorado,Morgan,West,Nonmetro,28359,22101,6.2,1280.43
+Colorado,Otero,West,Nonmetro,18572,19228,10.7,1261.96
+Colorado,Ouray,West,Nonmetro,4580,33392,6.7,541.59
+Colorado,Park,West,Metro,16189,31734,5.6,2193.85
+Colorado,Phillips,West,Nonmetro,4371,24967,5.3,687.93
+Colorado,Pitkin,West,Nonmetro,17420,55519,7.7,970.7
+Colorado,Prowers,West,Nonmetro,12235,20087,9.7,1638.4
+Colorado,Pueblo,West,Metro,161519,22191,10.8,2386.1
+Colorado,Rio Blanco,West,Nonmetro,6712,27274,4.2,3220.93
+Colorado,Rio Grande,West,Nonmetro,11745,22269,8.1,911.96
+Colorado,Routt,West,Nonmetro,23606,36472,4,2362.03
+Colorado,Saguache,West,Nonmetro,6238,21711,9.7,3168.53
+Colorado,San Juan,West,Nonmetro,606,23143,13.8,387.49
+Colorado,San Miguel,West,Nonmetro,7676,40149,5.8,1286.61
+Colorado,Sedgwick,West,Nonmetro,2365,22857,6.4,548.04
+Colorado,Summit,West,Nonmetro,28940,35753,4.7,608.36
+Colorado,Teller,West,Metro,23340,32707,8.2,557.06
+Colorado,Washington,West,Nonmetro,4795,24817,5.1,2518.03
+Colorado,Weld,West,Metro,270948,26751,6.6,3987.24
+Colorado,Yuma,West,Nonmetro,10185,23246,2.5,2364.41
+Connecticut,Fairfield,Northeast,Metro,939983,50137,9,624.89
+Connecticut,Hartford,Northeast,Metro,896943,35611,9.3,735.1
+Connecticut,Litchfield,Northeast,Nonmetro,186304,38530,7.1,920.56
+Connecticut,Middlesex,Northeast,Metro,165165,41277,6,369.3
+Connecticut,New Haven,Northeast,Metro,862224,32852,9.5,604.51
+Connecticut,New London,Northeast,Metro,273185,34208,8.3,664.88
+Connecticut,Tolland,Northeast,Metro,151948,35446,6.8,410.21
+Connecticut,Windham,Northeast,Metro,117470,28140,9.3,512.91
+Delaware,Kent,South,Metro,169509,25404,8.4,586.18
+Delaware,New Castle,South,Metro,549643,32894,7.4,426.29
+Delaware,Sussex,South,Metro,207302,28558,8,936.08
+Florida,Alachua,South,Metro,254218,25498,7.9,875.02
+Florida,Baker,South,Metro,27135,20471,8.9,585.23
+Florida,Bay,South,Metro,175353,25246,8.6,758.46
+Florida,Bradford,South,Nonmetro,27223,19739,12.4,293.96
+Florida,Brevard,South,Metro,553591,27571,10.9,1015.66
+Florida,Broward,South,Metro,1843152,28381,10,1209.79
+Florida,Calhoun,South,Nonmetro,14615,16536,10,567.33
+Florida,Charlotte,South,Metro,165783,26984,10.8,680.28
+Florida,Citrus,South,Metro,139654,23979,13.1,581.7
+Florida,Clay,South,Metro,197417,26464,10.7,604.36
+Florida,Collier,South,Metro,341091,38297,7.8,1998.32
+Florida,Columbia,South,Nonmetro,67806,20563,14.8,797.57
+Florida,DeSoto,South,Nonmetro,34957,16441,9.4,637.06
+Florida,Dixie,South,Nonmetro,16091,17850,7.2,705.05
+Florida,Duval,South,Metro,890673,26543,10,762.19
+Florida,Escambia,South,Metro,306327,24161,9.4,656.46
+Florida,Flagler,South,Metro,100783,24360,9.3,485.46
+Florida,Franklin,South,Nonmetro,11628,20868,9.4,534.73
+Florida,Gadsden,South,Metro,46424,17834,11.2,516.33
+Florida,Gilchrist,South,Metro,16992,21436,10.4,349.68
+Florida,Glades,South,Nonmetro,13272,17879,12.9,806.01
+Florida,Gulf,South,Metro,15785,19631,10.2,564.01
+Florida,Hamilton,South,Nonmetro,14395,14742,15.8,513.79
+Florida,Hardee,South,Nonmetro,27468,16298,11,637.78
+Florida,Hendry,South,Nonmetro,38363,16980,11.9,1152.75
+Florida,Hernando,South,Metro,174809,21586,13.7,472.54
+Florida,Highlands,South,Metro,98328,21117,13.3,1016.62
+Florida,Hillsborough,South,Metro,1302884,27764,9,1020.21
+Florida,Holmes,South,Nonmetro,19635,16468,15.4,478.78
+Florida,Indian River,South,Metro,142866,31882,12.2,502.87
+Florida,Jackson,South,Nonmetro,48900,17196,13.2,917.76
+Florida,Jefferson,South,Metro,14198,21080,9.4,598.1
+Florida,Lafayette,South,Nonmetro,8801,19404,14.6,543.41
+Florida,Lake,South,Metro,310561,24236,9.7,938.38
+Florida,Lee,South,Metro,663675,28010,10.1,784.51
+Florida,Leon,South,Metro,282940,26522,10.6,666.85
+Florida,Levy,South,Nonmetro,39821,20299,11.1,1118.21
+Florida,Liberty,South,Nonmetro,8295,16972,10.2,835.56
+Florida,Madison,South,Nonmetro,18729,16274,11.8,695.95
+Florida,Manatee,South,Metro,343729,27958,8.6,742.93
+Florida,Marion,South,Metro,336811,21675,12,1584.55
+Florida,Martin,South,Metro,151586,34742,9.7,543.46
+Florida,Miami-Dade,South,Metro,2639042,23850,10,1897.72
+Florida,Monroe,South,Nonmetro,75901,36208,6,983.28
+Florida,Nassau,South,Metro,75880,28670,9.8,648.64
+Florida,Okaloosa,South,Metro,192237,28902,6.9,930.25
+Florida,Okeechobee,South,Nonmetro,39255,16931,11.8,768.91
+Florida,Orange,South,Metro,1229039,25411,9.1,903.43
+Florida,Osceola,South,Metro,300870,19165,9.8,1327.45
+Florida,Palm Beach,South,Metro,1378806,33650,9.5,1969.76
+Florida,Pasco,South,Metro,479288,24455,9.4,746.89
+Florida,Pinellas,South,Metro,931477,30170,8.4,273.8
+Florida,Polk,South,Metro,626676,21196,10.6,1797.84
+Florida,Putnam,South,Nonmetro,72696,18082,12.6,727.62
+Florida,St. Johns,South,Metro,210495,37581,6.7,600.66
+Florida,St. Lucie,South,Metro,288006,23657,12.4,571.93
+Florida,Santa Rosa,South,Metro,161021,27892,7.9,1011.61
+Florida,Sarasota,South,Metro,392038,34479,8.2,555.87
+Florida,Seminole,South,Metro,437346,29162,9.4,309.22
+Florida,Sumter,South,Metro,108501,30145,9,546.93
+Florida,Suwannee,South,Nonmetro,43595,18573,11.1,688.55
+Florida,Taylor,South,Nonmetro,22685,15811,9,1043.31
+Florida,Union,South,Nonmetro,15191,12291,11.7,243.56
+Florida,Volusia,South,Metro,503719,24026,9.1,1101.03
+Florida,Wakulla,South,Metro,31128,20823,9.3,606.42
+Florida,Walton,South,Metro,59487,27393,7.9,1037.63
+Florida,Washington,South,Nonmetro,24629,18164,11.5,582.8
+Georgia,Appling,South,Nonmetro,18417,19178,7.9,507.08
+Georgia,Atkinson,South,Nonmetro,8294,17022,7.3,339.38
+Georgia,Bacon,South,Nonmetro,11222,18349,4.4,258.58
+Georgia,Baker,South,Metro,3292,20959,7.1,341.94
+Georgia,Baldwin,South,Nonmetro,45795,18611,8.4,257.84
+Georgia,Banks,South,Nonmetro,18336,19211,8.5,232.09
+Georgia,Barrow,South,Metro,72012,21411,10.1,160.31
+Georgia,Bartow,South,Metro,101336,22592,8.8,459.54
+Georgia,Ben Hill,South,Nonmetro,17477,15316,9.7,250.12
+Georgia,Berrien,South,Nonmetro,19019,16523,13.8,451.9
+Georgia,Bibb,South,Metro,154816,21591,12.4,249.76
+Georgia,Bleckley,South,Nonmetro,12746,19503,4.8,215.87
+Georgia,Brantley,South,Metro,18452,17276,10.9,442.36
+Georgia,Brooks,South,Metro,15637,19744,17,493.05
+Georgia,Bryan,South,Metro,33151,26934,9,435.97
+Georgia,Bulloch,South,Nonmetro,72386,18719,9.1,672.81
+Georgia,Burke,South,Metro,23007,17546,8.2,826.97
+Georgia,Butts,South,Metro,23445,19433,10.3,184.39
+Georgia,Calhoun,South,Nonmetro,6489,14242,7.7,280.37
+Georgia,Camden,South,Nonmetro,51445,23856,8.5,613.03
+Georgia,Candler,South,Nonmetro,11031,16897,8.1,243.04
+Georgia,Carroll,South,Metro,112595,21320,12.1,499.08
+Georgia,Catoosa,South,Metro,65375,22642,8.1,162.16
+Georgia,Charlton,South,Nonmetro,13130,18036,13.8,773.58
+Georgia,Chatham,South,Metro,279290,25690,9.7,426.44
+Georgia,Chattahoochee,South,Metro,11914,19487,16.5,248.74
+Georgia,Chattooga,South,Nonmetro,25241,16333,10,313.34
+Georgia,Cherokee,South,Metro,225944,30595,6.3,421.67
+Georgia,Clarke,South,Metro,120905,19276,9.2,119.2
+Georgia,Clay,South,Nonmetro,3104,12790,19.2,195.38
+Georgia,Clayton,South,Metro,267234,18107,14.1,141.57
+Georgia,Clinch,South,Nonmetro,6791,17127,10.7,800.22
+Georgia,Cobb,South,Metro,719133,33778,8,339.55
+Georgia,Coffee,South,Nonmetro,43003,17540,8.3,575.1
+Georgia,Colquitt,South,Nonmetro,46024,17353,8.3,544.15
+Georgia,Columbia,South,Metro,136204,30603,7.1,290.09
+Georgia,Cook,South,Nonmetro,17033,18790,6.6,227.16
+Georgia,Coweta,South,Metro,133416,28106,7,440.89
+Georgia,Crawford,South,Metro,12539,20904,11,324.89
+Georgia,Crisp,South,Nonmetro,23314,19439,15.5,272.58
+Georgia,Dade,South,Metro,16445,21547,6.1,173.98
+Georgia,Dawson,South,Metro,22673,28832,8.5,210.83
+Georgia,Decatur,South,Nonmetro,27378,18310,6.5,597.14
+Georgia,DeKalb,South,Metro,716331,29486,11.3,267.58
+Georgia,Dodge,South,Nonmetro,21180,17887,9.8,495.89
+Georgia,Dooly,South,Nonmetro,14293,14295,11.7,391.94
+Georgia,Dougherty,South,Metro,93310,18999,18,328.69
+Georgia,Douglas,South,Metro,136520,23158,10.5,200.07
+Georgia,Early,South,Nonmetro,10579,18116,9.4,512.59
+Georgia,Echols,South,Metro,4048,16954,10.1,414.89
+Georgia,Effingham,South,Metro,54630,25123,6,477.7
+Georgia,Elbert,South,Nonmetro,19537,19841,10.8,351.06
+Georgia,Emanuel,South,Nonmetro,22731,17096,13.2,680.6
+Georgia,Evans,South,Nonmetro,10814,19625,10.3,182.85
+Georgia,Fannin,South,Nonmetro,23742,20534,12,386.72
+Georgia,Fayette,South,Metro,108655,36362,7.6,194.34
+Georgia,Floyd,South,Metro,96169,21218,10.9,509.91
+Georgia,Forsyth,South,Metro,196236,35696,6.2,224.02
+Georgia,Franklin,South,Nonmetro,22110,17743,8.4,261.5
+Georgia,Fulton,South,Metro,983903,37926,9.9,526.64
+Georgia,Gilmer,South,Nonmetro,28673,21766,10,426.54
+Georgia,Glascock,South,Nonmetro,3087,18921,7.1,143.74
+Georgia,Glynn,South,Metro,81743,26541,9.3,419.75
+Georgia,Gordon,South,Nonmetro,55889,19707,8.3,355.81
+Georgia,Grady,South,Nonmetro,25243,16953,10.5,454.53
+Georgia,Greene,South,Nonmetro,16331,28209,6.8,387.44
+Georgia,Gwinnett,South,Metro,859234,25831,8.3,430.38
+Georgia,Habersham,South,Nonmetro,43527,19026,7.7,276.74
+Georgia,Hall,South,Metro,187916,24292,7.5,392.78
+Georgia,Hancock,South,Nonmetro,8881,12358,14.6,471.84
+Georgia,Haralson,South,Metro,28565,20740,12.3,282.17
+Georgia,Harris,South,Metro,32776,30386,8,463.87
+Georgia,Hart,South,Nonmetro,25498,20733,6.2,232.39
+Georgia,Heard,South,Metro,11617,19222,12.1,296.03
+Georgia,Henry,South,Metro,211512,24996,10.3,322.13
+Georgia,Houston,South,Metro,147570,24368,9.7,375.54
+Georgia,Irwin,South,Nonmetro,9408,17576,6.8,354.34
+Georgia,Jackson,South,Nonmetro,61420,23504,7.9,339.66
+Georgia,Jasper,South,Metro,13593,20570,12.7,368.17
+Georgia,Jeff Davis,South,Nonmetro,14990,18446,6.6,330.74
+Georgia,Jefferson,South,Nonmetro,16374,16048,17,526.49
+Georgia,Jenkins,South,Nonmetro,8922,17366,10.3,347.28
+Georgia,Johnson,South,Nonmetro,9794,16954,9,303.01
+Georgia,Jones,South,Metro,28738,26005,9.5,393.93
+Georgia,Lamar,South,Metro,18114,19217,15.6,183.5
+Georgia,Lanier,South,Metro,10403,16688,14.6,185.26
+Georgia,Laurens,South,Nonmetro,47886,19194,6.6,807.3
+Georgia,Lee,South,Metro,28946,27999,7.2,355.78
+Georgia,Liberty,South,Metro,64427,19785,12.9,489.8
+Georgia,Lincoln,South,Metro,7720,22373,9.3,210.38
+Georgia,Long,South,Metro,16588,18166,15.6,400.29
+Georgia,Lowndes,South,Metro,113203,19173,13,496.07
+Georgia,Lumpkin,South,Nonmetro,30921,21963,8.2,282.93
+Georgia,McDuffie,South,Metro,21582,19065,9.5,257.46
+Georgia,McIntosh,South,Metro,14007,23887,8.8,424.3
+Georgia,Macon,South,Nonmetro,14045,13431,18.7,400.64
+Georgia,Madison,South,Metro,28232,20857,8.7,282.31
+Georgia,Marion,South,Metro,8739,19077,14.3,366
+Georgia,Meriwether,South,Metro,21297,18059,12.8,501.22
+Georgia,Miller,South,Nonmetro,5936,18904,6.5,282.42
+Georgia,Mitchell,South,Nonmetro,22982,15297,13.5,512.09
+Georgia,Monroe,South,Metro,26915,25539,10.5,395.66
+Georgia,Montgomery,South,Nonmetro,8968,17402,6.7,239.52
+Georgia,Morgan,South,Metro,17900,24435,6.9,347.35
+Georgia,Murray,South,Metro,39401,17043,11.1,344.47
+Georgia,Muscogee,South,Metro,200285,23318,11,216.39
+Georgia,Newton,South,Metro,102645,21717,11.8,272.16
+Georgia,Oconee,South,Metro,34400,33528,5,184.29
+Georgia,Oglethorpe,South,Metro,14688,21848,5.3,439.01
+Georgia,Paulding,South,Metro,147400,24930,8.7,312.22
+Georgia,Peach,South,Metro,27086,20689,11.3,150.27
+Georgia,Pickens,South,Metro,29740,27720,8.3,232.06
+Georgia,Pierce,South,Nonmetro,18934,21619,8.9,316.49
+Georgia,Pike,South,Metro,17812,23150,10.4,216.09
+Georgia,Polk,South,Nonmetro,41215,20293,10.2,310.33
+Georgia,Pulaski,South,Metro,11590,17656,7.4,249.03
+Georgia,Putnam,South,Nonmetro,21247,25864,6.3,344.64
+Georgia,Quitman,South,Nonmetro,2326,17334,11.2,151.24
+Georgia,Rabun,South,Nonmetro,16266,22869,7.3,369.99
+Georgia,Randolph,South,Nonmetro,7315,26031,10.4,428.24
+Georgia,Richmond,South,Metro,201291,20659,12,324.33
+Georgia,Rockdale,South,Metro,86901,22614,11.2,129.79
+Georgia,Schley,South,Nonmetro,5074,19858,12.4,166.91
+Georgia,Screven,South,Nonmetro,14206,18597,9.8,645.1
+Georgia,Seminole,South,Nonmetro,8769,19891,9.4,235.23
+Georgia,Spalding,South,Metro,63873,19588,12.4,196.47
+Georgia,Stephens,South,Nonmetro,25620,20001,10.6,179.13
+Georgia,Stewart,South,Nonmetro,5868,13721,14.5,458.73
+Georgia,Sumter,South,Nonmetro,31429,17404,14.4,482.7
+Georgia,Talbot,South,Nonmetro,6490,18971,10.6,391.39
+Georgia,Taliaferro,South,Nonmetro,1721,14805,12.1,194.61
+Georgia,Tattnall,South,Nonmetro,25302,14957,7.9,479.4
+Georgia,Taylor,South,Nonmetro,8401,16857,20.6,376.69
+Georgia,Telfair,South,Nonmetro,16416,12155,4.4,437.3
+Georgia,Terrell,South,Metro,9213,16242,14.4,335.44
+Georgia,Thomas,South,Nonmetro,44824,20471,10.5,544.6
+Georgia,Tift,South,Nonmetro,40787,20078,5.8,258.92
+Georgia,Toombs,South,Nonmetro,27210,19564,9.6,364.01
+Georgia,Towns,South,Nonmetro,10800,19978,10,166.56
+Georgia,Treutlen,South,Nonmetro,6762,21127,5.4,199.44
+Georgia,Troup,South,Nonmetro,68867,21559,11.9,413.99
+Georgia,Turner,South,Nonmetro,8338,18227,12.5,285.39
+Georgia,Twiggs,South,Metro,8509,17768,6.7,358.4
+Georgia,Union,South,Nonmetro,21725,21872,13,321.93
+Georgia,Upson,South,Nonmetro,26528,19069,11.1,323.44
+Georgia,Walker,South,Metro,68285,21430,8.4,446.38
+Georgia,Walton,South,Metro,86201,23625,7.9,325.68
+Georgia,Ware,South,Nonmetro,35723,18100,7.2,892.46
+Georgia,Warren,South,Nonmetro,5561,18174,16.4,284.3
+Georgia,Washington,South,Nonmetro,20785,18285,12.2,678.45
+Georgia,Wayne,South,Nonmetro,30046,18291,11.3,641.78
+Georgia,Webster,South,Nonmetro,2720,18767,5.8,209.12
+Georgia,Wheeler,South,Nonmetro,7956,8292,10,295.48
+Georgia,White,South,Nonmetro,27791,21718,6.8,240.69
+Georgia,Whitfield,South,Metro,103456,20353,10.3,290.46
+Georgia,Wilcox,South,Nonmetro,8972,13521,6.7,377.71
+Georgia,Wilkes,South,Nonmetro,9991,18392,8.9,469.49
+Georgia,Wilkinson,South,Nonmetro,9386,18037,7.3,447.31
+Georgia,Worth,South,Metro,21156,18762,9.8,570.7
+Hawaii,Hawaii,West,Nonmetro,191482,24548,8.1,4028.42
+Hawaii,Honolulu,West,Metro,984178,31041,5.6,600.74
+Hawaii,Kalawao,West,Metro,85,46769,0,11.99
+Hawaii,Kauai,West,Nonmetro,69691,27441,5.4,619.96
+Hawaii,Maui,West,Metro,160863,29664,6.9,1161.52
+Idaho,Ada,West,Metro,417501,28851,6.6,1052.58
+Idaho,Adams,West,Nonmetro,3880,21219,11.3,1363.06
+Idaho,Bannock,West,Metro,83604,21598,7.2,1111.99
+Idaho,Bear Lake,West,Nonmetro,5939,22959,3.3,974.79
+Idaho,Benewah,West,Nonmetro,9088,20937,10.1,776.62
+Idaho,Bingham,West,Nonmetro,45407,20164,7.1,2093.98
+Idaho,Blaine,West,Nonmetro,21309,34208,4.1,2643.59
+Idaho,Boise,West,Metro,6885,27276,10.5,1899.24
+Idaho,Bonner,West,Nonmetro,41066,23981,6.2,1734.57
+Idaho,Bonneville,West,Metro,107788,23926,5.6,1866.08
+Idaho,Boundary,West,Nonmetro,10961,20795,4.7,1268.56
+Idaho,Butte,West,Metro,2653,21982,6.8,2231.67
+Idaho,Camas,West,Nonmetro,1052,24588,5.8,1074.49
+Idaho,Canyon,West,Metro,198921,17915,9.4,587.37
+Idaho,Caribou,West,Nonmetro,6808,25172,1.5,1764.15
+Idaho,Cassia,West,Nonmetro,23369,18227,5.7,2565.08
+Idaho,Clark,West,Nonmetro,901,15151,3.9,1764.19
+Idaho,Clearwater,West,Nonmetro,8560,20079,7.3,2457.27
+Idaho,Custer,West,Nonmetro,4234,22861,3.3,4920.94
+Idaho,Elmore,West,Nonmetro,26175,21326,8.4,3074.74
+Idaho,Franklin,West,Metro,12914,18855,5,663.65
+Idaho,Fremont,West,Nonmetro,12945,20302,6,1863.53
+Idaho,Gem,West,Metro,16731,19726,14.2,560.9
+Idaho,Gooding,West,Nonmetro,15233,19688,3.8,728.97
+Idaho,Idaho,West,Nonmetro,16312,19611,6.4,8477.35
+Idaho,Jefferson,West,Metro,26792,19501,6.1,1093.5
+Idaho,Jerome,West,Nonmetro,22653,17708,6.6,597.19
+Idaho,Kootenai,West,Metro,145046,25744,7.9,1244.13
+Idaho,Latah,West,Nonmetro,38339,22766,7.6,1076
+Idaho,Lemhi,West,Nonmetro,7790,22134,6.1,4563.39
+Idaho,Lewis,West,Nonmetro,3812,21152,6.5,478.8
+Idaho,Lincoln,West,Nonmetro,5260,17204,6,1201.41
+Idaho,Madison,West,Nonmetro,37916,14653,10.2,469.21
+Idaho,Minidoka,West,Nonmetro,20279,20674,4.8,757.59
+Idaho,Nez Perce,West,Metro,39779,25177,6.1,848.09
+Idaho,Oneida,West,Nonmetro,4245,20089,6.7,1200.06
+Idaho,Owyhee,West,Metro,11364,16854,11.7,7665.51
+Idaho,Payette,West,Nonmetro,22700,20689,10.1,406.87
+Idaho,Power,West,Nonmetro,7731,18877,9.4,1404.24
+Idaho,Shoshone,West,Nonmetro,12571,21254,11.8,2629.67
+Idaho,Teton,West,Nonmetro,10285,24118,8.5,449.46
+Idaho,Twin Falls,West,Nonmetro,80004,21553,5.9,1921.21
+Idaho,Valley,West,Nonmetro,9720,23962,5.7,3664.52
+Idaho,Washington,West,Nonmetro,10025,18343,9.7,1452.98
+Illinois,Adams,North Central,Nonmetro,67081,24380,6.8,855.2
+Illinois,Alexander,North Central,Metro,7364,14729,13.9,235.51
+Illinois,Bond,North Central,Metro,17313,22867,6.4,380.28
+Illinois,Boone,North Central,Metro,53851,26170,9.7,280.72
+Illinois,Brown,North Central,Nonmetro,6859,21065,5.4,305.61
+Illinois,Bureau,North Central,Nonmetro,34115,27304,7.6,869.03
+Illinois,Calhoun,North Central,Metro,4999,26407,5.4,253.83
+Illinois,Carroll,North Central,Nonmetro,14926,26493,8.1,444.81
+Illinois,Cass,North Central,Nonmetro,13254,24262,8.5,375.82
+Illinois,Champaign,North Central,Metro,205766,26078,6.5,996.27
+Illinois,Christian,North Central,Nonmetro,34200,23263,5.4,709.38
+Illinois,Clark,North Central,Nonmetro,16159,25744,8.5,501.42
+Illinois,Clay,North Central,Nonmetro,13582,22797,6.7,468.32
+Illinois,Clinton,North Central,Metro,37929,28839,4.9,474.09
+Illinois,Coles,North Central,Nonmetro,53037,23525,9.7,508.29
+Illinois,Cook,North Central,Metro,5236393,31013,10.7,945.33
+Illinois,Crawford,North Central,Nonmetro,19541,26351,6.8,443.63
+Illinois,Cumberland,North Central,Nonmetro,10943,22596,7.4,346.02
+Illinois,DeKalb,North Central,Metro,104345,24025,10.4,631.31
+Illinois,De Witt,North Central,Metro,16388,29100,7.7,397.51
+Illinois,Douglas,North Central,Nonmetro,19826,25455,6.1,416.67
+Illinois,DuPage,North Central,Metro,930412,39336,7,327.5
+Illinois,Edgar,North Central,Nonmetro,17992,25389,9.6,623.37
+Illinois,Edwards,North Central,Nonmetro,6649,22885,8.3,222.42
+Illinois,Effingham,North Central,Nonmetro,34332,26775,5.4,478.78
+Illinois,Fayette,North Central,Nonmetro,22136,21472,10.4,716.48
+Illinois,Ford,North Central,Metro,13835,26010,8.6,485.62
+Illinois,Franklin,North Central,Nonmetro,39694,21625,10,408.89
+Illinois,Fulton,North Central,Nonmetro,36323,22651,7.9,865.6
+Illinois,Gallatin,North Central,Nonmetro,5385,22125,7.5,323.07
+Illinois,Greene,North Central,Nonmetro,13502,22105,9.4,543.02
+Illinois,Grundy,North Central,Metro,50277,29622,7.8,418.04
+Illinois,Hamilton,North Central,Nonmetro,8322,24110,4.5,434.67
+Illinois,Hancock,North Central,Nonmetro,18738,25085,6.8,793.73
+Illinois,Hardin,North Central,Nonmetro,4228,21415,18.1,177.53
+Illinois,Henderson,North Central,Nonmetro,7042,26603,7,378.87
+Illinois,Henry,North Central,Metro,49883,27402,5.8,822.99
+Illinois,Iroquois,North Central,Nonmetro,29053,25565,7.5,1117.32
+Illinois,Jackson,North Central,Metro,59534,21147,10.4,584.08
+Illinois,Jasper,North Central,Nonmetro,9635,25303,5.5,494.51
+Illinois,Jefferson,North Central,Nonmetro,38578,22975,9.2,571.17
+Illinois,Jersey,North Central,Metro,22625,25901,8,369.27
+Illinois,Jo Daviess,North Central,Nonmetro,22397,29362,5.6,601.09
+Illinois,Johnson,North Central,Nonmetro,12829,20014,10.3,343.92
+Illinois,Kane,North Central,Metro,524886,31056,7.6,520.06
+Illinois,Kankakee,North Central,Metro,112221,24449,9.8,676.56
+Illinois,Kendall,North Central,Metro,120036,31053,6,320.34
+Illinois,Knox,North Central,Nonmetro,52112,22241,7.4,716.4
+Illinois,Lake,North Central,Metro,702898,39299,7.9,443.67
+Illinois,LaSalle,North Central,Nonmetro,112579,25755,9.8,1135.12
+Illinois,Lawrence,North Central,Nonmetro,16665,14468,6.1,372.18
+Illinois,Lee,North Central,Nonmetro,35027,25363,7.5,724.9
+Illinois,Livingston,North Central,Nonmetro,37689,25769,6.3,1044.29
+Illinois,Logan,North Central,Nonmetro,29956,21786,7.8,618.06
+Illinois,McDonough,North Central,Nonmetro,32009,21664,9.4,589.41
+Illinois,McHenry,North Central,Metro,307357,33735,8,603.17
+Illinois,McLean,North Central,Metro,173114,31305,5.5,1183.38
+Illinois,Macon,North Central,Metro,109193,26895,10.5,580.69
+Illinois,Macoupin,North Central,Metro,46844,25962,9.6,862.91
+Illinois,Madison,North Central,Metro,267356,28337,8.9,715.58
+Illinois,Marion,North Central,Nonmetro,38665,22808,9.6,572.36
+Illinois,Marshall,North Central,Metro,12173,27739,6.5,386.79
+Illinois,Mason,North Central,Nonmetro,14126,24173,9.5,539.24
+Illinois,Massac,North Central,Nonmetro,15016,22927,8.8,237.22
+Illinois,Menard,North Central,Metro,12611,30578,5.7,314.44
+Illinois,Mercer,North Central,Metro,16107,26823,6.2,561.2
+Illinois,Monroe,North Central,Metro,33539,32889,5.2,385.01
+Illinois,Montgomery,North Central,Nonmetro,29348,19866,5.4,703.69
+Illinois,Morgan,North Central,Nonmetro,35129,24586,8.3,568.79
+Illinois,Moultrie,North Central,Nonmetro,14927,25053,4.9,335.94
+Illinois,Ogle,North Central,Nonmetro,52397,27451,8,758.57
+Illinois,Peoria,North Central,Metro,187112,28610,8.7,619.21
+Illinois,Perry,North Central,Nonmetro,21810,21720,8,441.76
+Illinois,Piatt,North Central,Metro,16495,32724,6.3,439.2
+Illinois,Pike,North Central,Nonmetro,16144,21594,5.6,831.38
+Illinois,Pope,North Central,Nonmetro,4331,21131,10,368.77
+Illinois,Pulaski,North Central,Nonmetro,5871,18923,16.2,199.19
+Illinois,Putnam,North Central,Nonmetro,5822,29918,9.9,160.16
+Illinois,Randolph,North Central,Nonmetro,33069,22895,6.7,575.5
+Illinois,Richland,North Central,Nonmetro,16127,23498,5.4,359.99
+Illinois,Rock Island,North Central,Metro,147161,26391,7.9,427.64
+Illinois,St. Clair,North Central,Metro,267029,26738,8.9,657.76
+Illinois,Saline,North Central,Nonmetro,24783,21175,13,379.82
+Illinois,Sangamon,North Central,Metro,199016,31024,7.9,868.3
+Illinois,Schuyler,North Central,Nonmetro,7311,24077,5.3,437.27
+Illinois,Scott,North Central,Nonmetro,5198,24978,9.4,250.91
+Illinois,Shelby,North Central,Nonmetro,22115,23697,6.2,758.52
+Illinois,Stark,North Central,Metro,5859,27148,7.7,288.08
+Illinois,Stephenson,North Central,Nonmetro,46625,24253,9.9,564.52
+Illinois,Tazewell,North Central,Metro,135697,29718,5.5,648.97
+Illinois,Union,North Central,Nonmetro,17551,23140,7,413.46
+Illinois,Vermilion,North Central,Metro,80368,22233,10.7,898.37
+Illinois,Wabash,North Central,Nonmetro,11652,24155,8.7,223.25
+Illinois,Warren,North Central,Nonmetro,17701,22876,9.2,542.41
+Illinois,Washington,North Central,Nonmetro,14457,28683,5.5,562.57
+Illinois,Wayne,North Central,Nonmetro,16555,23869,5.3,713.81
+Illinois,White,North Central,Nonmetro,14464,25534,8.8,494.77
+Illinois,Whiteside,North Central,Nonmetro,57525,25490,8.1,684.25
+Illinois,Will,North Central,Metro,683995,31310,7.8,836.91
+Illinois,Williamson,North Central,Metro,67121,24669,7,420.15
+Illinois,Winnebago,North Central,Metro,290439,25198,11.5,513.36
+Illinois,Woodford,North Central,Metro,39106,30804,5.9,527.8
+Indiana,Adams,North Central,Nonmetro,34642,21274,6.2,339.03
+Indiana,Allen,North Central,Metro,363453,25770,8,657.31
+Indiana,Bartholomew,North Central,Metro,79488,27987,5.4,406.91
+Indiana,Benton,North Central,Metro,8752,22526,5.3,406.42
+Indiana,Blackford,North Central,Nonmetro,12476,20534,9.8,165.08
+Indiana,Boone,North Central,Metro,60511,38038,3.7,422.91
+Indiana,Brown,North Central,Metro,15011,29903,6.2,311.98
+Indiana,Carroll,North Central,Metro,20014,25365,8.2,372.22
+Indiana,Cass,North Central,Nonmetro,38476,22125,8.7,412.16
+Indiana,Clark,North Central,Metro,113181,25470,6.8,372.86
+Indiana,Clay,North Central,Metro,26686,21856,7.8,357.54
+Indiana,Clinton,North Central,Nonmetro,32835,22337,7.3,405.07
+Indiana,Crawford,North Central,Nonmetro,10591,18835,6.6,305.64
+Indiana,Daviess,North Central,Nonmetro,32411,21101,5.4,429.49
+Indiana,Dearborn,North Central,Metro,49679,27907,8.1,305.03
+Indiana,Decatur,North Central,Nonmetro,26240,23346,6.3,372.57
+Indiana,DeKalb,North Central,Nonmetro,42449,24016,7.5,362.82
+Indiana,Delaware,North Central,Metro,117335,21179,10.1,392.12
+Indiana,Dubois,North Central,Nonmetro,42291,25972,3.3,427.27
+Indiana,Elkhart,North Central,Metro,200685,21817,7.4,463.17
+Indiana,Fayette,North Central,Nonmetro,23773,20508,12.1,215.01
+Indiana,Floyd,North Central,Metro,75900,28116,7.3,147.94
+Indiana,Fountain,North Central,Nonmetro,16888,24619,8.6,395.66
+Indiana,Franklin,North Central,Nonmetro,22935,24032,6.4,384.43
+Indiana,Fulton,North Central,Nonmetro,20527,22807,6,368.39
+Indiana,Gibson,North Central,Nonmetro,33668,24682,4.3,487.49
+Indiana,Grant,North Central,Nonmetro,68896,20440,8.8,414.07
+Indiana,Greene,North Central,Nonmetro,32815,22767,7,542.5
+Indiana,Hamilton,North Central,Metro,296635,41316,4.3,394.27
+Indiana,Hancock,North Central,Metro,71328,29058,5.5,306.02
+Indiana,Harrison,North Central,Metro,39230,24460,7.9,484.52
+Indiana,Hendricks,North Central,Metro,153435,30364,5.3,406.91
+Indiana,Henry,North Central,Nonmetro,49146,21286,10.6,391.88
+Indiana,Howard,North Central,Metro,82765,24297,9.2,293.06
+Indiana,Huntington,North Central,Nonmetro,36863,22606,7.4,382.65
+Indiana,Jackson,North Central,Nonmetro,43471,22421,7.3,509.31
+Indiana,Jasper,North Central,Metro,33448,24614,6.3,559.63
+Indiana,Jay,North Central,Nonmetro,21255,19591,8.2,383.91
+Indiana,Jefferson,North Central,Nonmetro,32453,22139,9.2,360.63
+Indiana,Jennings,North Central,Nonmetro,28113,21434,9.7,376.58
+Indiana,Johnson,North Central,Metro,145645,28889,6.3,320.43
+Indiana,Knox,North Central,Nonmetro,38062,21928,6.1,516.03
+Indiana,Kosciusko,North Central,Nonmetro,77983,26011,6.5,531.38
+Indiana,LaGrange,North Central,Nonmetro,38084,20413,5.5,379.62
+Indiana,Lake,North Central,Metro,491596,24756,10.5,498.96
+Indiana,LaPorte,North Central,Metro,111280,23499,9.8,598.3
+Indiana,Lawrence,North Central,Nonmetro,45814,23404,6.3,449.17
+Indiana,Madison,North Central,Metro,130280,22236,9.3,451.92
+Indiana,Marion,North Central,Metro,926335,24330,10.1,396.3
+Indiana,Marshall,North Central,Nonmetro,46962,22895,8.3,443.63
+Indiana,Martin,North Central,Nonmetro,10262,22939,6.1,335.74
+Indiana,Miami,North Central,Nonmetro,36211,21745,9.4,373.84
+Indiana,Monroe,North Central,Metro,142404,24266,6.9,394.51
+Indiana,Montgomery,North Central,Nonmetro,38172,22911,6.9,504.61
+Indiana,Morgan,North Central,Metro,69403,26175,7.3,403.97
+Indiana,Newton,North Central,Metro,14057,23154,8.9,401.76
+Indiana,Noble,North Central,Nonmetro,47546,23477,8.8,410.84
+Indiana,Ohio,North Central,Metro,6033,23848,7.7,86.14
+Indiana,Orange,North Central,Nonmetro,19725,19660,6.8,398.39
+Indiana,Owen,North Central,Metro,21192,21842,8,385.29
+Indiana,Parke,North Central,Nonmetro,17107,20592,7.8,444.66
+Indiana,Perry,North Central,Nonmetro,19414,20964,5.6,381.73
+Indiana,Pike,North Central,Nonmetro,12687,23169,5.1,334.24
+Indiana,Porter,North Central,Metro,166570,29922,7.3,418.15
+Indiana,Posey,North Central,Metro,25567,29821,5.3,409.57
+Indiana,Pulaski,North Central,Nonmetro,13047,22798,7,433.65
+Indiana,Putnam,North Central,Metro,37650,22983,7.3,480.53
+Indiana,Randolph,North Central,Nonmetro,25596,23000,7.8,452.38
+Indiana,Ripley,North Central,Nonmetro,28612,23534,7.4,446.43
+Indiana,Rush,North Central,Nonmetro,16991,23186,6.9,408.12
+Indiana,St. Joseph,North Central,Metro,267246,24395,8.5,457.85
+Indiana,Scott,North Central,Metro,23783,21385,11,190.4
+Indiana,Shelby,North Central,Metro,44441,24645,8.3,411.15
+Indiana,Spencer,North Central,Nonmetro,20856,24936,5.6,396.74
+Indiana,Starke,North Central,Nonmetro,23117,20899,11.5,309.13
+Indiana,Steuben,North Central,Nonmetro,34267,24576,6.9,308.94
+Indiana,Sullivan,North Central,Metro,21111,19715,6.8,447.14
+Indiana,Switzerland,North Central,Nonmetro,10500,19516,9.6,220.63
+Indiana,Tippecanoe,North Central,Metro,180952,23529,6.5,499.81
+Indiana,Tipton,North Central,Nonmetro,15573,25868,6.2,260.54
+Indiana,Union,North Central,Metro,7299,21487,7.7,161.22
+Indiana,Vanderburgh,North Central,Metro,181305,24961,6.2,233.48
+Indiana,Vermillion,North Central,Metro,15860,22022,6.5,256.88
+Indiana,Vigo,North Central,Metro,108268,21626,8.9,403.31
+Indiana,Wabash,North Central,Nonmetro,32358,22674,7,412.43
+Indiana,Warren,North Central,Nonmetro,8367,27731,5.5,364.68
+Indiana,Warrick,North Central,Metro,60995,30507,5,384.82
+Indiana,Washington,North Central,Metro,27930,20483,10.1,513.73
+Indiana,Wayne,North Central,Nonmetro,67866,22093,9,401.74
+Indiana,Wells,North Central,Metro,27796,24253,4.1,368.09
+Indiana,White,North Central,Nonmetro,24388,24944,6,505.13
+Indiana,Whitley,North Central,Metro,33330,26383,5.3,335.57
+Iowa,Adair,North Central,Nonmetro,7426,25990,3.2,569.27
+Iowa,Adams,North Central,Nonmetro,3892,26428,3.2,423.44
+Iowa,Allamakee,North Central,Nonmetro,14060,26077,6,639.08
+Iowa,Appanoose,North Central,Nonmetro,12669,23653,6.6,497.29
+Iowa,Audubon,North Central,Nonmetro,5869,29882,2.6,442.96
+Iowa,Benton,North Central,Metro,25803,29990,4.7,716.27
+Iowa,Black Hawk,North Central,Metro,132496,25382,6.6,565.77
+Iowa,Boone,North Central,Nonmetro,26401,26935,4.7,571.57
+Iowa,Bremer,North Central,Metro,24539,30504,3.9,435.48
+Iowa,Buchanan,North Central,Nonmetro,20998,29045,3.9,571.02
+Iowa,Buena Vista,North Central,Nonmetro,20507,24511,3.7,574.92
+Iowa,Butler,North Central,Nonmetro,14966,26498,4,580.13
+Iowa,Calhoun,North Central,Nonmetro,9914,26524,4,569.97
+Iowa,Carroll,North Central,Nonmetro,20629,27100,3.3,569.44
+Iowa,Cass,North Central,Nonmetro,13590,25868,3.2,564.27
+Iowa,Cedar,North Central,Nonmetro,18375,27879,3,579.44
+Iowa,Cerro Gordo,North Central,Nonmetro,43481,28270,4.4,568.31
+Iowa,Cherokee,North Central,Nonmetro,11853,27934,3.7,576.91
+Iowa,Chickasaw,North Central,Nonmetro,12244,26981,3.8,504.38
+Iowa,Clarke,North Central,Nonmetro,9280,22586,5,431.17
+Iowa,Clay,North Central,Nonmetro,16537,27138,3.8,567.24
+Iowa,Clayton,North Central,Nonmetro,17806,26124,4.2,778.54
+Iowa,Clinton,North Central,Nonmetro,48365,27255,4.8,694.92
+Iowa,Crawford,North Central,Nonmetro,17252,23344,4.8,714.19
+Iowa,Dallas,North Central,Metro,74892,37669,2.6,588.45
+Iowa,Davis,North Central,Nonmetro,8742,23867,4.2,502.19
+Iowa,Decatur,North Central,Nonmetro,8249,19493,7.5,531.88
+Iowa,Delaware,North Central,Nonmetro,17507,27563,3.6,577.76
+Iowa,Des Moines,North Central,Nonmetro,40208,24614,6.3,416.12
+Iowa,Dickinson,North Central,Nonmetro,16967,34218,3.8,380.61
+Iowa,Dubuque,North Central,Metro,95906,27096,4.3,608.31
+Iowa,Emmet,North Central,Nonmetro,9917,27707,4.6,395.88
+Iowa,Fayette,North Central,Nonmetro,20589,24513,5.1,730.81
+Iowa,Floyd,North Central,Nonmetro,16050,25918,3.5,500.63
+Iowa,Franklin,North Central,Nonmetro,10489,25417,4.2,581.97
+Iowa,Fremont,North Central,Nonmetro,7106,29060,3.7,511.15
+Iowa,Greene,North Central,Nonmetro,9174,26918,5.6,569.57
+Iowa,Grundy,North Central,Metro,12407,31076,3.9,501.86
+Iowa,Guthrie,North Central,Metro,10740,28946,5.4,590.62
+Iowa,Hamilton,North Central,Nonmetro,15297,26001,3.8,576.75
+Iowa,Hancock,North Central,Nonmetro,11092,26846,1.5,571.01
+Iowa,Hardin,North Central,Nonmetro,17393,26256,4.9,569.31
+Iowa,Harrison,North Central,Metro,14467,26910,3.6,696.85
+Iowa,Henry,North Central,Nonmetro,20080,23439,5.1,434.33
+Iowa,Howard,North Central,Nonmetro,9494,25804,3.4,473.25
+Iowa,Humboldt,North Central,Nonmetro,9674,27814,4.8,434.35
+Iowa,Ida,North Central,Nonmetro,7071,28398,3.7,431.51
+Iowa,Iowa,North Central,Nonmetro,16344,29022,1.8,586.46
+Iowa,Jackson,North Central,Nonmetro,19572,25546,4.4,636.04
+Iowa,Jasper,North Central,Nonmetro,36726,26138,5.4,730.42
+Iowa,Jefferson,North Central,Nonmetro,17318,25209,6.4,435.51
+Iowa,Johnson,North Central,Metro,139436,31271,3.5,614.04
+Iowa,Jones,North Central,Metro,20560,26937,5,575.62
+Iowa,Keokuk,North Central,Nonmetro,10291,23076,5.1,579.18
+Iowa,Kossuth,North Central,Nonmetro,15280,28952,2.1,972.72
+Iowa,Lee,North Central,Nonmetro,35369,22746,8.7,517.52
+Iowa,Linn,North Central,Metro,216640,30829,4.8,716.88
+Iowa,Louisa,North Central,Nonmetro,11271,26176,4.8,401.77
+Iowa,Lucas,North Central,Nonmetro,8731,23512,5.8,430.59
+Iowa,Lyon,North Central,Nonmetro,11723,26777,2.4,587.65
+Iowa,Madison,North Central,Metro,15644,28922,5.7,561.01
+Iowa,Mahaska,North Central,Nonmetro,22396,25228,8,570.86
+Iowa,Marion,North Central,Nonmetro,33248,26280,4,554.53
+Iowa,Marshall,North Central,Nonmetro,40962,24648,6.3,572.5
+Iowa,Mills,North Central,Metro,14862,28280,3.8,437.44
+Iowa,Mitchell,North Central,Nonmetro,10762,25706,3.2,469.13
+Iowa,Monona,North Central,Nonmetro,9088,24730,5.5,694.07
+Iowa,Monroe,North Central,Nonmetro,8002,25753,6.2,433.72
+Iowa,Montgomery,North Central,Nonmetro,10465,23445,9.6,424.1
+Iowa,Muscatine,North Central,Nonmetro,42913,25503,4.6,437.47
+Iowa,O'Brien,North Central,Nonmetro,14092,30600,2.8,573.04
+Iowa,Osceola,North Central,Nonmetro,6211,25306,3.3,398.68
+Iowa,Page,North Central,Nonmetro,15660,23617,5.1,534.94
+Iowa,Palo Alto,North Central,Nonmetro,9208,26154,2.9,563.84
+Iowa,Plymouth,North Central,Metro,24853,27991,3.4,862.89
+Iowa,Pocahontas,North Central,Nonmetro,7127,26406,4.9,577.24
+Iowa,Polk,North Central,Metro,452369,31291,5.8,573.8
+Iowa,Pottawattamie,North Central,Metro,93213,27057,5,950.28
+Iowa,Poweshiek,North Central,Nonmetro,18705,26018,4.8,584.93
+Iowa,Ringgold,North Central,Nonmetro,5061,26557,4.8,535.5
+Iowa,Sac,North Central,Nonmetro,10101,26991,4,575.01
+Iowa,Scott,North Central,Metro,169994,29391,5.4,458.09
+Iowa,Shelby,North Central,Nonmetro,11992,27695,2.9,590.78
+Iowa,Sioux,North Central,Nonmetro,34509,26029,1.8,768.33
+Iowa,Story,North Central,Metro,93586,25589,5.5,572.82
+Iowa,Tama,North Central,Nonmetro,17479,26432,5.6,721.01
+Iowa,Taylor,North Central,Nonmetro,6213,23821,4.4,531.9
+Iowa,Union,North Central,Nonmetro,12575,24022,5.4,423.65
+Iowa,Van Buren,North Central,Nonmetro,7432,23268,6.6,484.79
+Iowa,Wapello,North Central,Nonmetro,35315,22716,8,431.83
+Iowa,Warren,North Central,Metro,47542,30086,4.8,569.83
+Iowa,Washington,North Central,Metro,22017,27228,4.2,568.84
+Iowa,Wayne,North Central,Nonmetro,6384,23009,4.3,525.44
+Iowa,Webster,North Central,Nonmetro,37295,23718,8.4,715.62
+Iowa,Winnebago,North Central,Nonmetro,10614,25021,6.2,400.49
+Iowa,Winneshiek,North Central,Nonmetro,20884,26211,3,689.87
+Iowa,Woodbury,North Central,Metro,102530,23630,5.2,872.83
+Iowa,Worth,North Central,Nonmetro,7563,24734,4.7,400.12
+Iowa,Wright,North Central,Nonmetro,12936,26316,5.7,580.42
+Kansas,Allen,North Central,Nonmetro,13081,20671,7,500.3
+Kansas,Anderson,North Central,Nonmetro,7896,21226,5.9,579.65
+Kansas,Atchison,North Central,Nonmetro,16633,21677,7.3,431.17
+Kansas,Barber,North Central,Nonmetro,4770,28174,3.1,1134.07
+Kansas,Barton,North Central,Nonmetro,27399,24338,6.8,895.4
+Kansas,Bourbon,North Central,Nonmetro,14812,20783,3.3,635.47
+Kansas,Brown,North Central,Nonmetro,9880,22600,4.5,570.87
+Kansas,Butler,North Central,Metro,66092,27647,5.6,1429.86
+Kansas,Chase,North Central,Nonmetro,2722,23459,2.9,773.06
+Kansas,Chautauqua,North Central,Nonmetro,3520,23584,5.1,638.88
+Kansas,Cherokee,North Central,Nonmetro,20952,19809,5.8,587.57
+Kansas,Cheyenne,North Central,Nonmetro,2682,26626,1.9,1019.89
+Kansas,Clark,North Central,Nonmetro,2145,25106,1.4,974.63
+Kansas,Clay,North Central,Nonmetro,8421,26807,1.9,645.3
+Kansas,Cloud,North Central,Nonmetro,9339,22441,6.8,715.34
+Kansas,Coffey,North Central,Nonmetro,8458,29382,5.1,626.95
+Kansas,Comanche,North Central,Nonmetro,2010,23661,5.4,788.3
+Kansas,Cowley,North Central,Nonmetro,36079,21950,7,1125.75
+Kansas,Crawford,North Central,Nonmetro,39304,20346,5.6,589.76
+Kansas,Decatur,North Central,Nonmetro,2905,29891,3.8,893.52
+Kansas,Dickinson,North Central,Nonmetro,19516,24430,6.7,847.07
+Kansas,Doniphan,North Central,Metro,7859,23471,5.8,393.41
+Kansas,Douglas,North Central,Metro,114967,27611,6,455.87
+Kansas,Edwards,North Central,Nonmetro,2991,25584,2,621.89
+Kansas,Elk,North Central,Nonmetro,2683,21764,5.3,644.27
+Kansas,Ellis,North Central,Nonmetro,28993,26098,4.5,899.91
+Kansas,Ellsworth,North Central,Nonmetro,6410,24102,4.3,715.85
+Kansas,Finney,North Central,Nonmetro,37133,22145,4.6,1301.97
+Kansas,Ford,North Central,Nonmetro,34714,20619,6.4,1098.27
+Kansas,Franklin,North Central,Nonmetro,25753,24567,6.9,571.76
+Kansas,Geary,North Central,Nonmetro,36787,21450,9.2,384.62
+Kansas,Gove,North Central,Nonmetro,2735,25484,1.9,1071.67
+Kansas,Graham,North Central,Nonmetro,2593,28233,2.4,898.52
+Kansas,Grant,North Central,Nonmetro,7816,25195,7.3,574.8
+Kansas,Gray,North Central,Nonmetro,6065,26131,2.9,868.87
+Kansas,Greeley,North Central,Nonmetro,1224,25994,2.1,778.45
+Kansas,Greenwood,North Central,Nonmetro,6393,23335,3.5,1143.3
+Kansas,Hamilton,North Central,Nonmetro,2586,22250,2.3,996.51
+Kansas,Harper,North Central,Nonmetro,5861,24640,3.7,801.27
+Kansas,Harvey,North Central,Metro,34835,24453,4.4,539.75
+Kansas,Haskell,North Central,Nonmetro,4130,24362,3.9,577.52
+Kansas,Hodgeman,North Central,Nonmetro,1939,31547,2.5,859.99
+Kansas,Jackson,North Central,Metro,13400,25038,4.4,656.22
+Kansas,Jefferson,North Central,Metro,18898,26227,6.9,532.57
+Kansas,Jewell,North Central,Nonmetro,3038,23002,2.5,909.78
+Kansas,Johnson,North Central,Metro,566814,40331,4.5,473.38
+Kansas,Kearny,North Central,Nonmetro,3952,23884,1.8,870.54
+Kansas,Kingman,North Central,Metro,7790,24998,5.7,863.36
+Kansas,Kiowa,North Central,Nonmetro,2536,24116,4,722.64
+Kansas,Labette,North Central,Nonmetro,21048,21006,5.3,645.3
+Kansas,Lane,North Central,Nonmetro,1674,31458,2.4,717.46
+Kansas,Leavenworth,North Central,Metro,78227,27138,5.9,462.83
+Kansas,Lincoln,North Central,Nonmetro,3154,24953,6.5,719.4
+Kansas,Linn,North Central,Metro,9528,26519,8.3,594.06
+Kansas,Logan,North Central,Nonmetro,2793,28974,3.9,1072.99
+Kansas,Lyon,North Central,Nonmetro,33462,20943,7.2,847.47
+Kansas,McPherson,North Central,Nonmetro,29252,28396,3.1,898.27
+Kansas,Marion,North Central,Nonmetro,12290,23642,5,944.29
+Kansas,Marshall,North Central,Nonmetro,10005,26313,3,900.18
+Kansas,Meade,North Central,Nonmetro,4383,23446,2.8,978.09
+Kansas,Miami,North Central,Metro,32688,29413,5.6,575.66
+Kansas,Mitchell,North Central,Nonmetro,6296,27555,2.6,701.79
+Kansas,Montgomery,North Central,Nonmetro,34184,20864,8.7,643.53
+Kansas,Morris,North Central,Nonmetro,5750,23928,3.2,695.28
+Kansas,Morton,North Central,Nonmetro,3106,22297,5.8,729.73
+Kansas,Nemaha,North Central,Nonmetro,10159,26041,1.7,717.43
+Kansas,Neosho,North Central,Nonmetro,16423,22354,4.7,571.47
+Kansas,Ness,North Central,Nonmetro,3077,29968,2.7,1074.75
+Kansas,Norton,North Central,Nonmetro,5590,23702,1.7,878.13
+Kansas,Osage,North Central,Metro,16080,24243,8.2,705.52
+Kansas,Osborne,North Central,Nonmetro,3782,27132,4,892.5
+Kansas,Ottawa,North Central,Nonmetro,6048,26260,5.3,720.73
+Kansas,Pawnee,North Central,Nonmetro,6911,24125,1.9,754.26
+Kansas,Phillips,North Central,Nonmetro,5501,25072,4.3,885.88
+Kansas,Pottawatomie,North Central,Metro,22625,25964,3.7,841.02
+Kansas,Pratt,North Central,Nonmetro,9739,27078,5.6,735.05
+Kansas,Rawlins,North Central,Nonmetro,2545,27559,2.3,1069.42
+Kansas,Reno,North Central,Nonmetro,64058,23578,5.7,1255.35
+Kansas,Republic,North Central,Nonmetro,4806,25317,3.8,717.37
+Kansas,Rice,North Central,Nonmetro,10014,23687,5.5,726.24
+Kansas,Riley,North Central,Metro,75022,23992,5.8,609.77
+Kansas,Rooks,North Central,Nonmetro,5186,23891,4.1,890.53
+Kansas,Rush,North Central,Nonmetro,3184,24843,5.6,717.76
+Kansas,Russell,North Central,Nonmetro,6988,26128,6.9,886.26
+Kansas,Saline,North Central,Nonmetro,55735,25641,5,720.23
+Kansas,Scott,North Central,Nonmetro,4928,30179,5.8,717.54
+Kansas,Sedgwick,North Central,Metro,506529,26016,6.9,997.51
+Kansas,Seward,North Central,Nonmetro,23274,20442,9,639.5
+Kansas,Shawnee,North Central,Metro,178792,26691,6.8,544.02
+Kansas,Sheridan,North Central,Nonmetro,2531,28733,1.2,895.96
+Kansas,Sherman,North Central,Nonmetro,6054,21786,4,1056.07
+Kansas,Smith,North Central,Nonmetro,3740,27315,3.2,895.47
+Kansas,Stafford,North Central,Nonmetro,4320,25476,2.6,792.05
+Kansas,Stanton,North Central,Nonmetro,2149,22690,2.4,680.35
+Kansas,Stevens,North Central,Nonmetro,5772,24827,3,727.29
+Kansas,Sumner,North Central,Metro,23638,24214,7,1181.94
+Kansas,Thomas,North Central,Nonmetro,7925,26309,2.7,1074.69
+Kansas,Trego,North Central,Nonmetro,2951,28817,1,889.48
+Kansas,Wabaunsee,North Central,Metro,6997,23962,6.2,794.3
+Kansas,Wallace,North Central,Nonmetro,1595,28265,5.4,913.65
+Kansas,Washington,North Central,Nonmetro,5686,23440,3.1,894.76
+Kansas,Wichita,North Central,Nonmetro,2204,23367,3.1,718.57
+Kansas,Wilson,North Central,Nonmetro,9061,22538,6.5,570.42
+Kansas,Woodson,North Central,Nonmetro,3211,21432,4.6,497.82
+Kansas,Wyandotte,North Central,Metro,160806,18912,11.2,151.6
+Kentucky,Adair,South,Nonmetro,18852,18277,7.7,405.28
+Kentucky,Allen,South,Metro,20355,20702,9.2,344.34
+Kentucky,Anderson,South,Nonmetro,21761,24353,6.9,201.83
+Kentucky,Ballard,South,Nonmetro,8256,24056,6.2,246.66
+Kentucky,Barren,South,Nonmetro,42925,20262,7.6,487.54
+Kentucky,Bath,South,Nonmetro,11978,18719,14,278.79
+Kentucky,Bell,South,Nonmetro,27950,13701,11.6,359
+Kentucky,Boone,South,Metro,124617,29866,5.6,246.36
+Kentucky,Bourbon,South,Metro,20013,23620,9.9,289.72
+Kentucky,Boyd,South,Metro,48917,25745,10.5,159.86
+Kentucky,Boyle,South,Nonmetro,29388,22368,7.1,180.17
+Kentucky,Bracken,South,Metro,8425,21054,8.3,205.61
+Kentucky,Breathitt,South,Nonmetro,13591,15737,12.4,492.41
+Kentucky,Breckinridge,South,Nonmetro,20061,19185,11.5,567.17
+Kentucky,Bullitt,South,Metro,76961,24458,7.6,297.02
+Kentucky,Butler,South,Metro,12835,18502,6.1,426.09
+Kentucky,Caldwell,South,Nonmetro,12826,20840,8.7,344.79
+Kentucky,Calloway,South,Nonmetro,38106,20701,9.1,385.02
+Kentucky,Campbell,South,Metro,91475,28248,6.8,151.31
+Kentucky,Carlisle,South,Nonmetro,4984,21499,6.8,189.43
+Kentucky,Carroll,South,Nonmetro,10830,20129,13.2,128.57
+Kentucky,Carter,South,Nonmetro,27326,18948,11.1,409.5
+Kentucky,Casey,South,Nonmetro,15954,17526,9,444.23
+Kentucky,Christian,South,Metro,74159,19614,12.7,717.5
+Kentucky,Clark,South,Metro,35657,25492,7.9,252.46
+Kentucky,Clay,South,Nonmetro,21300,13802,15.9,469.25
+Kentucky,Clinton,South,Nonmetro,10188,16712,9.3,197.25
+Kentucky,Crittenden,South,Nonmetro,9222,21248,7.1,359.95
+Kentucky,Cumberland,South,Nonmetro,6807,17571,10.2,305.18
+Kentucky,Daviess,South,Metro,98173,23952,6.8,458.35
+Kentucky,Edmonson,South,Metro,12105,20304,8.9,302.88
+Kentucky,Elliott,South,Nonmetro,7725,15319,6.2,234.32
+Kentucky,Estill,South,Nonmetro,14476,16446,11.8,253.08
+Kentucky,Fayette,South,Metro,308306,30031,6.9,283.65
+Kentucky,Fleming,South,Nonmetro,14544,21453,9.7,348.54
+Kentucky,Floyd,South,Nonmetro,38649,18173,9.7,393.35
+Kentucky,Franklin,South,Nonmetro,49778,26778,8.7,207.75
+Kentucky,Fulton,South,Nonmetro,6422,18082,12,205.5
+Kentucky,Gallatin,South,Metro,8567,21634,6,101.23
+Kentucky,Garrard,South,Nonmetro,16976,22567,11.4,230.08
+Kentucky,Grant,South,Metro,24670,19667,6.8,257.97
+Kentucky,Graves,South,Nonmetro,37502,20805,7.2,551.74
+Kentucky,Grayson,South,Nonmetro,26001,19902,9.3,496.7
+Kentucky,Green,South,Nonmetro,11149,19563,9,286.03
+Kentucky,Greenup,South,Metro,36477,23649,10.1,344.4
+Kentucky,Hancock,South,Metro,8669,22330,5.9,187.65
+Kentucky,Hardin,South,Metro,107529,24845,8.2,623.28
+Kentucky,Harlan,South,Nonmetro,28400,15840,9.8,465.83
+Kentucky,Harrison,South,Nonmetro,18648,20490,8.1,306.36
+Kentucky,Hart,South,Nonmetro,18441,18993,9.6,412.09
+Kentucky,Henderson,South,Metro,46396,22628,8,436.67
+Kentucky,Henry,South,Metro,15455,21806,6.6,286.28
+Kentucky,Hickman,South,Nonmetro,4720,19597,8.8,242.27
+Kentucky,Hopkins,South,Nonmetro,46518,22517,6.7,542
+Kentucky,Jackson,South,Nonmetro,13357,16405,12.3,345.2
+Kentucky,Jefferson,South,Metro,755809,28822,8.4,380.42
+Kentucky,Jessamine,South,Metro,50328,26230,8.8,172.12
+Kentucky,Johnson,South,Nonmetro,23350,18436,9.1,261.95
+Kentucky,Kenton,South,Metro,163007,27847,7.7,160.25
+Kentucky,Knott,South,Nonmetro,16000,17939,14.6,351.52
+Kentucky,Knox,South,Nonmetro,31809,15599,15.7,386.3
+Kentucky,Larue,South,Metro,14149,20570,9.3,261.52
+Kentucky,Laurel,South,Nonmetro,59751,18795,12.4,433.95
+Kentucky,Lawrence,South,Nonmetro,15821,18890,7.8,415.6
+Kentucky,Lee,South,Nonmetro,7119,13688,12.2,208.86
+Kentucky,Leslie,South,Nonmetro,10997,15558,17,400.84
+Kentucky,Letcher,South,Nonmetro,23671,17194,12.6,337.91
+Kentucky,Lewis,South,Nonmetro,13790,16662,8.4,482.84
+Kentucky,Lincoln,South,Nonmetro,24498,18564,10.5,334.1
+Kentucky,Livingston,South,Nonmetro,9394,23079,6.7,313.13
+Kentucky,Logan,South,Nonmetro,26851,19126,7.7,552.13
+Kentucky,Lyon,South,Nonmetro,8402,24723,7.6,213.84
+Kentucky,McCracken,South,Nonmetro,65408,28577,6.1,248.74
+Kentucky,McCreary,South,Nonmetro,18001,10880,19,426.8
+Kentucky,McLean,South,Metro,9500,20910,8.4,252.47
+Kentucky,Madison,South,Nonmetro,85838,21977,8.6,437.29
+Kentucky,Magoffin,South,Nonmetro,12979,16046,12.2,308.44
+Kentucky,Marion,South,Nonmetro,19717,19347,9.2,343.01
+Kentucky,Marshall,South,Nonmetro,31181,23707,7.7,301.25
+Kentucky,Martin,South,Nonmetro,12631,14179,20.6,229.61
+Kentucky,Mason,South,Nonmetro,17296,23773,6.2,240.13
+Kentucky,Meade,South,Metro,29098,23473,11.5,305.42
+Kentucky,Menifee,South,Nonmetro,6343,16768,14.7,203.59
+Kentucky,Mercer,South,Nonmetro,21342,22658,11.5,248.8
+Kentucky,Metcalfe,South,Nonmetro,9985,17608,7.4,289.65
+Kentucky,Monroe,South,Nonmetro,10765,17635,9.5,329.37
+Kentucky,Montgomery,South,Nonmetro,27167,20850,10.4,197.37
+Kentucky,Morgan,South,Nonmetro,13428,16007,9.6,381.13
+Kentucky,Muhlenberg,South,Nonmetro,31309,19609,10.3,467.08
+Kentucky,Nelson,South,Nonmetro,44564,24699,9.8,417.51
+Kentucky,Nicholas,South,Nonmetro,7075,20039,7.7,195.17
+Kentucky,Ohio,South,Nonmetro,24065,19254,9.6,587.27
+Kentucky,Oldham,South,Metro,63037,34423,4.3,187.22
+Kentucky,Owen,South,Nonmetro,10711,22878,8.6,351.1
+Kentucky,Owsley,South,Nonmetro,4616,15158,8.8,197.41
+Kentucky,Pendleton,South,Metro,14514,23725,6.4,277.16
+Kentucky,Perry,South,Nonmetro,28041,18910,13.9,339.67
+Kentucky,Pike,South,Nonmetro,63434,20061,10.7,786.83
+Kentucky,Powell,South,Nonmetro,12447,17241,8.3,178.98
+Kentucky,Pulaski,South,Nonmetro,63635,20215,9.1,658.41
+Kentucky,Robertson,South,Nonmetro,2208,19246,6.7,99.91
+Kentucky,Rockcastle,South,Nonmetro,16942,16963,11,316.55
+Kentucky,Rowan,South,Nonmetro,23608,18185,6.5,279.8
+Kentucky,Russell,South,Nonmetro,17669,17010,11.8,253.66
+Kentucky,Scott,South,Metro,50178,28232,6.9,281.77
+Kentucky,Shelby,South,Metro,44290,27631,5.7,379.64
+Kentucky,Simpson,South,Nonmetro,17704,19397,7,234.2
+Kentucky,Spencer,South,Metro,17577,27016,6.4,186.68
+Kentucky,Taylor,South,Nonmetro,24993,18120,9.6,266.33
+Kentucky,Todd,South,Nonmetro,12524,19042,8.5,374.5
+Kentucky,Trigg,South,Metro,14250,26001,8.4,441.43
+Kentucky,Trimble,South,Metro,8783,23465,14.6,151.65
+Kentucky,Union,South,Nonmetro,15138,20164,7.8,342.85
+Kentucky,Warren,South,Metro,118950,23823,7.9,541.6
+Kentucky,Washington,South,Nonmetro,11910,19793,6.1,297.27
+Kentucky,Wayne,South,Nonmetro,20655,15475,12.6,458.17
+Kentucky,Webster,South,Nonmetro,13357,19891,7.2,331.94
+Kentucky,Whitley,South,Nonmetro,35794,16748,10.2,437.83
+Kentucky,Wolfe,South,Nonmetro,7261,13901,9.7,222.17
+Kentucky,Woodford,South,Metro,25317,30490,4.8,188.78
+Louisiana,Acadia,South,Metro,62163,20552,10.1,655.12
+Louisiana,Allen,South,Nonmetro,25653,19868,8.9,761.85
+Louisiana,Ascension,South,Metro,114738,29269,6.4,289.98
+Louisiana,Assumption,South,Nonmetro,23057,23886,10.3,338.66
+Louisiana,Avoyelles,South,Nonmetro,41389,18967,9.6,832.43
+Louisiana,Beauregard,South,Nonmetro,36259,22961,5.7,1157.34
+Louisiana,Bienville,South,Nonmetro,13977,20464,10.1,811.27
+Louisiana,Bossier,South,Metro,123403,27572,5.7,840.06
+Louisiana,Caddo,South,Metro,254742,24876,7,878.54
+Louisiana,Calcasieu,South,Metro,195887,25005,8.3,1063.66
+Louisiana,Caldwell,South,Nonmetro,9990,21493,10.2,529.43
+Louisiana,Cameron,South,Metro,6706,29679,6.3,1284.89
+Louisiana,Catahoula,South,Nonmetro,10247,21851,8.3,708.03
+Louisiana,Claiborne,South,Nonmetro,16639,17547,13.5,754.88
+Louisiana,Concordia,South,Nonmetro,20449,17498,11.7,696.92
+Louisiana,De Soto,South,Metro,26965,22513,9.3,875.58
+Louisiana,East Baton Rouge,South,Metro,444690,27944,7.6,455.37
+Louisiana,East Carroll,South,Nonmetro,7501,11313,19.2,420.7
+Louisiana,East Feliciana,South,Metro,19855,21348,6.5,453.41
+Louisiana,Evangeline,South,Nonmetro,33768,18484,10.4,662.38
+Louisiana,Franklin,South,Nonmetro,20550,17324,11.5,624.59
+Louisiana,Grant,South,Metro,22362,17987,9.2,643.03
+Louisiana,Iberia,South,Metro,73938,23977,10.6,574.11
+Louisiana,Iberville,South,Metro,33229,21428,7.9,618.63
+Louisiana,Jackson,South,Nonmetro,16109,18986,6.9,569.18
+Louisiana,Jefferson,South,Metro,435092,27127,6.7,295.63
+Louisiana,Jefferson Davis,South,Nonmetro,31434,22260,9.2,651.33
+Louisiana,Lafayette,South,Metro,231811,30240,6.3,268.72
+Louisiana,Lafourche,South,Metro,97474,25303,7,1068.21
+Louisiana,LaSalle,South,Nonmetro,14899,20818,6.3,624.68
+Louisiana,Lincoln,South,Nonmetro,47349,21003,11.9,471.74
+Louisiana,Livingston,South,Metro,133949,25999,7,648.17
+Louisiana,Madison,South,Nonmetro,11873,14205,16.9,624.44
+Louisiana,Morehouse,South,Nonmetro,27012,18209,8,794.93
+Louisiana,Natchitoches,South,Nonmetro,39330,19883,12.2,1252.25
+Louisiana,Orleans,South,Metro,376738,27721,10.3,169.42
+Louisiana,Ouachita,South,Metro,155769,21770,8,610.41
+Louisiana,Plaquemines,South,Metro,23599,24837,4.7,779.91
+Louisiana,Pointe Coupee,South,Metro,22498,25024,8.3,557.35
+Louisiana,Rapides,South,Metro,132225,21671,8.6,1317.96
+Louisiana,Red River,South,Nonmetro,8838,23016,9.2,389.09
+Louisiana,Richland,South,Nonmetro,20777,19699,9.6,559.04
+Louisiana,Sabine,South,Nonmetro,24248,22605,10.6,866.66
+Louisiana,St. Bernard,South,Metro,42858,20160,12.2,377.52
+Louisiana,St. Charles,South,Metro,52639,27247,7.7,279.08
+Louisiana,St. Helena,South,Metro,10818,18620,14.4,408.4
+Louisiana,St. James,South,Metro,21650,24071,11,241.54
+Louisiana,St. John the Baptist,South,Metro,44161,22660,9.2,213.07
+Louisiana,St. Landry,South,Nonmetro,83613,19156,6.1,923.88
+Louisiana,St. Martin,South,Metro,53126,22983,7.2,737.65
+Louisiana,St. Mary,South,Nonmetro,53441,21847,12.2,555.38
+Louisiana,St. Tammany,South,Metro,242960,31022,7.6,845.55
+Louisiana,Tangipahoa,South,Metro,125486,21671,10.7,791.28
+Louisiana,Tensas,South,Nonmetro,4893,16912,15.6,602.78
+Louisiana,Terrebonne,South,Metro,112742,23626,5.5,1231.82
+Louisiana,Union,South,Metro,22533,19676,7.7,876.99
+Louisiana,Vermilion,South,Metro,59110,23261,8.5,1173.2
+Louisiana,Vernon,South,Nonmetro,52476,21578,7.5,1327.91
+Louisiana,Washington,South,Nonmetro,46556,17745,15,669.53
+Louisiana,Webster,South,Metro,40617,20248,7.6,593.03
+Louisiana,West Baton Rouge,South,Metro,24669,26118,6.5,192.39
+Louisiana,West Carroll,South,Nonmetro,11454,19353,11.9,359.65
+Louisiana,West Feliciana,South,Metro,15415,22122,8.5,403.21
+Louisiana,Winn,South,Nonmetro,14855,17877,6.3,950.09
+Maine,Androscoggin,Northeast,Metro,107393,25011,7.2,467.93
+Maine,Aroostook,Northeast,Nonmetro,70005,21763,7.5,6671.33
+Maine,Cumberland,Northeast,Metro,286119,34081,5.4,835.24
+Maine,Franklin,Northeast,Nonmetro,30402,22980,7.7,1696.61
+Maine,Hancock,Northeast,Nonmetro,54658,28432,7.7,1586.89
+Maine,Kennebec,Northeast,Nonmetro,121112,25957,7.7,867.52
+Maine,Knox,Northeast,Nonmetro,39723,28144,5.7,365.13
+Maine,Lincoln,Northeast,Nonmetro,34156,29078,4.2,455.82
+Maine,Oxford,Northeast,Nonmetro,57421,21280,9.2,2076.84
+Maine,Penobscot,Northeast,Metro,153437,24149,7.8,3397.36
+Maine,Piscataquis,Northeast,Nonmetro,17156,22856,10.5,3960.86
+Maine,Sagadahoc,Northeast,Metro,35092,30062,5.7,253.7
+Maine,Somerset,Northeast,Nonmetro,51577,21729,9.5,3924.4
+Maine,Waldo,Northeast,Nonmetro,38976,24473,7.5,729.92
+Maine,Washington,Northeast,Nonmetro,32191,21977,9.8,2562.66
+Maine,York,Northeast,Metro,199682,30705,5.9,990.71
+Maryland,Allegany,South,Metro,73549,21674,10,424.16
+Maryland,Anne Arundel,South,Metro,555280,41706,5.9,414.9
+Maryland,Baltimore,South,Metro,822959,35011,6.9,598.3
+Maryland,Calvert,South,Metro,90114,39011,7.6,213.15
+Maryland,Caroline,South,Nonmetro,32661,24943,8.8,319.42
+Maryland,Carroll,South,Metro,167444,36936,4.6,447.6
+Maryland,Cecil,South,Metro,101960,29538,7.5,346.27
+Maryland,Charles,South,Metro,152754,36809,6.3,457.75
+Maryland,Dorchester,South,Nonmetro,32534,27870,10.4,540.77
+Maryland,Frederick,South,Metro,241373,37449,5.8,660.22
+Maryland,Garrett,South,Nonmetro,29813,25348,7,647.1
+Maryland,Harford,South,Metro,248966,35746,6.4,437.09
+Maryland,Howard,South,Metro,304115,48104,4.9,250.74
+Maryland,Kent,South,Nonmetro,19923,30081,7.2,277.03
+Maryland,Montgomery,South,Metro,1017859,49110,6.1,491.25
+Maryland,Prince George's,South,Metro,892816,32639,8.7,482.69
+Maryland,Queen Anne's,South,Metro,48600,38733,5.3,371.91
+Maryland,St. Mary's,South,Metro,109614,36668,4.8,357.18
+Maryland,Somerset,South,Metro,25980,16631,8.2,319.72
+Maryland,Talbot,South,Nonmetro,37799,38317,6.7,268.54
+Maryland,Washington,South,Metro,149270,27066,8.5,457.78
+Maryland,Wicomico,South,Metro,101182,26241,8.8,374.44
+Maryland,Worcester,South,Metro,51519,32419,9.9,468.28
+Maryland,Baltimore city,South,Metro,622454,25707,13.1,80.94
+Massachusetts,Barnstable,Northeast,Metro,214766,37678,7,393.72
+Massachusetts,Berkshire,Northeast,Metro,129288,30469,8.9,926.83
+Massachusetts,Bristol,Northeast,Metro,552763,29607,9,553.1
+Massachusetts,Dukes,Northeast,Nonmetro,17048,38560,5.2,103.25
+Massachusetts,Essex,Northeast,Metro,763849,36212,7.7,492.56
+Massachusetts,Franklin,Northeast,Nonmetro,71144,30584,6.7,699.32
+Massachusetts,Hampden,Northeast,Metro,468041,26560,10,617.14
+Massachusetts,Hampshire,Northeast,Metro,160759,30244,7.2,527.26
+Massachusetts,Middlesex,Northeast,Metro,1556116,44152,6.1,817.82
+Massachusetts,Nantucket,Northeast,Nonmetro,10556,45000,3,44.97
+Massachusetts,Norfolk,Northeast,Metro,687721,45829,6.9,396.11
+Massachusetts,Plymouth,Northeast,Metro,503681,36163,7.9,659.08
+Massachusetts,Suffolk,Northeast,Metro,758919,34420,8.7,58.15
+Massachusetts,Worcester,Northeast,Metro,810935,32284,7.8,1510.77
+Michigan,Alcona,North Central,Nonmetro,10550,23933,12.2,674.59
+Michigan,Alger,North Central,Nonmetro,9476,21259,10.8,915.07
+Michigan,Allegan,North Central,Nonmetro,112837,25161,6.1,825.23
+Michigan,Alpena,North Central,Nonmetro,29068,22082,9.3,571.86
+Michigan,Antrim,North Central,Nonmetro,23267,27155,9.7,475.7
+Michigan,Arenac,North Central,Nonmetro,15424,21197,12,363.19
+Michigan,Baraga,North Central,Nonmetro,8690,17461,8.1,898.26
+Michigan,Barry,North Central,Metro,59147,25795,7.9,553.09
+Michigan,Bay,North Central,Metro,106698,24445,9.7,442.3
+Michigan,Benzie,North Central,Nonmetro,17437,25023,8.4,319.7
+Michigan,Berrien,North Central,Metro,155565,25241,9.4,567.75
+Michigan,Branch,North Central,Nonmetro,43706,21263,7,506.37
+Michigan,Calhoun,North Central,Metro,134790,23150,10,706.23
+Michigan,Cass,North Central,Metro,51952,24314,9.7,490.06
+Michigan,Charlevoix,North Central,Nonmetro,26134,28188,7.8,416.34
+Michigan,Cheboygan,North Central,Nonmetro,25690,23631,13.9,715.26
+Michigan,Chippewa,North Central,Nonmetro,38586,20396,11.7,1558.42
+Michigan,Clare,North Central,Nonmetro,30710,19181,13.2,564.32
+Michigan,Clinton,North Central,Metro,76905,29766,6.5,566.41
+Michigan,Crawford,North Central,Nonmetro,13895,22595,12,556.28
+Michigan,Delta,North Central,Nonmetro,36712,23061,9.2,1171.1
+Michigan,Dickinson,North Central,Nonmetro,26012,24880,7,761.4
+Michigan,Eaton,North Central,Metro,108341,27577,7.8,575.18
+Michigan,Emmet,North Central,Nonmetro,33018,31109,8.4,467.49
+Michigan,Genesee,North Central,Metro,415874,22957,13.2,636.98
+Michigan,Gladwin,North Central,Nonmetro,25501,21234,11,501.78
+Michigan,Gogebic,North Central,Nonmetro,15824,21008,9.5,1101.85
+Michigan,Grand Traverse,North Central,Nonmetro,89907,28050,6.6,464.33
+Michigan,Gratiot,North Central,Nonmetro,41878,19618,8.5,568.46
+Michigan,Hillsdale,North Central,Nonmetro,46178,21291,9,598.13
+Michigan,Houghton,North Central,Nonmetro,36660,20081,7.2,1009.1
+Michigan,Huron,North Central,Nonmetro,32290,23382,7.8,835.71
+Michigan,Ingham,North Central,Metro,283491,25436,9,556.12
+Michigan,Ionia,North Central,Nonmetro,64064,20921,10.4,571.3
+Michigan,Iosco,North Central,Nonmetro,25401,23486,12.1,549.1
+Michigan,Iron,North Central,Nonmetro,11507,21725,9,1166.15
+Michigan,Isabella,North Central,Nonmetro,70669,20518,11.3,572.68
+Michigan,Jackson,North Central,Metro,159759,23377,10.3,701.67
+Michigan,Kalamazoo,North Central,Metro,256752,26416,9.1,561.66
+Michigan,Kalkaska,North Central,Nonmetro,17230,21320,10.4,559.87
+Michigan,Kent,North Central,Metro,622590,27032,7.7,846.95
+Michigan,Keweenaw,North Central,Nonmetro,2198,24384,7,540.11
+Michigan,Lake,North Central,Nonmetro,11426,16679,13.2,567.37
+Michigan,Lapeer,North Central,Metro,88235,24478,10.5,643.01
+Michigan,Leelanau,North Central,Nonmetro,21772,34322,7.1,347.17
+Michigan,Lenawee,North Central,Nonmetro,98902,23252,8.6,749.56
+Michigan,Livingston,North Central,Metro,184591,33619,5.9,565.25
+Michigan,Luce,North Central,Nonmetro,6477,18427,11.6,899.08
+Michigan,Mackinac,North Central,Nonmetro,11044,23889,12.5,1021.57
+Michigan,Macomb,North Central,Metro,854689,27525,9,479.22
+Michigan,Manistee,North Central,Nonmetro,24536,22647,11.5,542.15
+Michigan,Marquette,North Central,Nonmetro,67582,23785,8.1,1808.4
+Michigan,Mason,North Central,Nonmetro,28711,24244,10.7,495.07
+Michigan,Mecosta,North Central,Nonmetro,43301,20405,12.2,555.07
+Michigan,Menominee,North Central,Nonmetro,23717,23233,8.5,1044.08
+Michigan,Midland,North Central,Metro,83624,30172,8.5,516.25
+Michigan,Missaukee,North Central,Nonmetro,14988,20530,11,564.73
+Michigan,Monroe,North Central,Metro,150436,26982,8.3,549.39
+Michigan,Montcalm,North Central,Metro,63004,19955,11.2,705.4
+Michigan,Montmorency,North Central,Nonmetro,9401,20771,16,546.66
+Michigan,Muskegon,North Central,Metro,171483,21291,11.9,499.25
+Michigan,Newaygo,North Central,Nonmetro,48029,21230,10.1,813.2
+Michigan,Oakland,North Central,Metro,1229503,37728,7.5,867.66
+Michigan,Oceana,North Central,Nonmetro,26229,20234,8.7,512.07
+Michigan,Ogemaw,North Central,Nonmetro,21222,20972,12.4,563.49
+Michigan,Ontonagon,North Central,Nonmetro,6298,21896,13.7,1311.23
+Michigan,Osceola,North Central,Nonmetro,23234,19205,10.3,566.39
+Michigan,Oscoda,North Central,Nonmetro,8444,19520,13.2,565.73
+Michigan,Otsego,North Central,Nonmetro,24141,25743,8.2,514.97
+Michigan,Ottawa,North Central,Metro,273136,26519,6.1,563.47
+Michigan,Presque Isle,North Central,Nonmetro,13037,23550,13.1,658.72
+Michigan,Roscommon,North Central,Nonmetro,24068,22513,14.2,519.64
+Michigan,Saginaw,North Central,Metro,196479,23139,11.1,800.11
+Michigan,St. Clair,North Central,Metro,160429,25429,10.4,721.17
+Michigan,St. Joseph,North Central,Nonmetro,61022,21559,8.6,500.59
+Michigan,Sanilac,North Central,Nonmetro,42014,21374,10.7,962.57
+Michigan,Schoolcraft,North Central,Nonmetro,8288,20580,15.6,1171.36
+Michigan,Shiawassee,North Central,Nonmetro,69113,23582,10.3,530.67
+Michigan,Tuscola,North Central,Nonmetro,54420,21904,9.3,803.13
+Michigan,Van Buren,North Central,Metro,75351,22358,8.4,607.47
+Michigan,Washtenaw,North Central,Metro,354092,34738,7.4,705.97
+Michigan,Wayne,North Central,Metro,1778969,22897,14.9,612.08
+Michigan,Wexford,North Central,Nonmetro,32751,20988,9.5,565
+Minnesota,Aitkin,North Central,Nonmetro,15839,25591,7.3,1821.66
+Minnesota,Anoka,North Central,Metro,338764,31775,6.2,423.01
+Minnesota,Becker,North Central,Nonmetro,33138,26399,3.5,1315.2
+Minnesota,Beltrami,North Central,Nonmetro,45434,22524,10.6,2504.94
+Minnesota,Benton,North Central,Metro,39221,25341,6.7,408.3
+Minnesota,Big Stone,North Central,Nonmetro,5134,27426,3.3,499.02
+Minnesota,Blue Earth,North Central,Metro,65125,26440,4.9,747.84
+Minnesota,Brown,North Central,Nonmetro,25391,28018,3.2,611.09
+Minnesota,Carlton,North Central,Metro,35443,24584,5.4,861.38
+Minnesota,Carver,North Central,Metro,95715,40322,3.8,354.33
+Minnesota,Cass,North Central,Nonmetro,28519,25720,7.4,2021.54
+Minnesota,Chippewa,North Central,Nonmetro,12154,26372,2.6,581.12
+Minnesota,Chisago,North Central,Metro,53834,29553,5.5,414.86
+Minnesota,Clay,North Central,Metro,60879,25896,4.3,1045.37
+Minnesota,Clearwater,North Central,Nonmetro,8752,23391,7.4,998.94
+Minnesota,Cook,North Central,Nonmetro,5194,33056,4,1452.28
+Minnesota,Cottonwood,North Central,Nonmetro,11632,24978,4.9,638.61
+Minnesota,Crow Wing,North Central,Nonmetro,63048,27936,5.7,999.1
+Minnesota,Dakota,North Central,Metro,408456,36171,5,562.17
+Minnesota,Dodge,North Central,Metro,20290,30091,3.5,439.28
+Minnesota,Douglas,North Central,Nonmetro,36620,29953,4.5,637.3
+Minnesota,Faribault,North Central,Nonmetro,14230,27135,4.2,712.48
+Minnesota,Fillmore,North Central,Metro,20843,26348,4.3,861.3
+Minnesota,Freeborn,North Central,Nonmetro,30897,26494,4.9,707.09
+Minnesota,Goodhue,North Central,Nonmetro,46377,30236,5.3,756.84
+Minnesota,Grant,North Central,Nonmetro,5961,27952,3.6,548.16
+Minnesota,Hennepin,North Central,Metro,1197776,38724,6,553.59
+Minnesota,Houston,North Central,Metro,18812,27626,4.9,552.06
+Minnesota,Hubbard,North Central,Nonmetro,20574,25725,5,925.68
+Minnesota,Isanti,North Central,Metro,38296,27152,7.3,435.79
+Minnesota,Itasca,North Central,Nonmetro,45354,25219,7.1,2667.72
+Minnesota,Jackson,North Central,Nonmetro,10211,27494,3.2,702.98
+Minnesota,Kanabec,North Central,Nonmetro,16003,23661,9.8,521.59
+Minnesota,Kandiyohi,North Central,Nonmetro,42444,27560,4.8,796.79
+Minnesota,Kittson,North Central,Nonmetro,4480,29279,2.8,1098.8
+Minnesota,Koochiching,North Central,Nonmetro,13054,25398,7.8,3104.07
+Minnesota,Lac qui Parle,North Central,Nonmetro,7023,29541,3.7,765.02
+Minnesota,Lake,North Central,Nonmetro,10750,29346,4.8,2109.29
+Minnesota,Lake of the Woods,North Central,Nonmetro,3949,22543,4.8,1297.87
+Minnesota,Le Sueur,North Central,Metro,27707,28483,5.3,448.76
+Minnesota,Lincoln,North Central,Nonmetro,5808,26910,2.8,536.76
+Minnesota,Lyon,North Central,Nonmetro,25699,28010,5.3,714.56
+Minnesota,McLeod,North Central,Nonmetro,36046,27612,4.5,491.47
+Minnesota,Mahnomen,North Central,Nonmetro,5496,19743,9.2,557.88
+Minnesota,Marshall,North Central,Nonmetro,9453,27863,4.7,1775.07
+Minnesota,Martin,North Central,Nonmetro,20350,28244,3.5,712.35
+Minnesota,Meeker,North Central,Nonmetro,23129,27313,4.7,608.18
+Minnesota,Mille Lacs,North Central,Metro,25809,23603,7.7,572.31
+Minnesota,Morrison,North Central,Nonmetro,32962,24984,5.8,1125.06
+Minnesota,Mower,North Central,Nonmetro,39227,26265,6.5,711.33
+Minnesota,Murray,North Central,Nonmetro,8529,28976,4.5,704.7
+Minnesota,Nicollet,North Central,Metro,33086,28118,4,448.49
+Minnesota,Nobles,North Central,Nonmetro,21687,23515,6.9,715.11
+Minnesota,Norman,North Central,Nonmetro,6692,25314,5.1,872.79
+Minnesota,Olmsted,North Central,Metro,148736,35267,4.1,653.35
+Minnesota,Otter Tail,North Central,Nonmetro,57511,28066,4.4,1972.07
+Minnesota,Pennington,North Central,Nonmetro,14110,25500,3,616.57
+Minnesota,Pine,North Central,Nonmetro,29218,22436,7.4,1411.29
+Minnesota,Pipestone,North Central,Nonmetro,9354,26842,4.2,465.06
+Minnesota,Polk,North Central,Metro,31547,26766,4.6,1971.13
+Minnesota,Pope,North Central,Nonmetro,10948,30071,4.1,669.71
+Minnesota,Ramsey,North Central,Metro,527411,30333,7.1,152.21
+Minnesota,Red Lake,North Central,Nonmetro,4061,25183,3.5,432.41
+Minnesota,Redwood,North Central,Nonmetro,15723,25716,4,878.57
+Minnesota,Renville,North Central,Nonmetro,15171,28698,5,982.91
+Minnesota,Rice,North Central,Nonmetro,64886,26660,5.6,495.68
+Minnesota,Rock,North Central,Nonmetro,9563,26065,3.7,482.46
+Minnesota,Roseau,North Central,Nonmetro,15615,26698,2.7,1671.6
+Minnesota,St. Louis,North Central,Metro,200506,27190,6.9,6247.4
+Minnesota,Scott,North Central,Metro,137322,36180,4.6,356.48
+Minnesota,Sherburne,North Central,Metro,90401,29923,5.2,432.92
+Minnesota,Sibley,North Central,Metro,15021,27493,5.5,588.78
+Minnesota,Stearns,North Central,Metro,152595,27135,5,1343.13
+Minnesota,Steele,North Central,Nonmetro,36523,28087,4.9,429.65
+Minnesota,Stevens,North Central,Nonmetro,9771,25739,3.1,563.6
+Minnesota,Swift,North Central,Nonmetro,9525,27202,3.9,742.08
+Minnesota,Todd,North Central,Nonmetro,24466,23808,5.1,944.98
+Minnesota,Traverse,North Central,Nonmetro,3429,29120,2.9,573.9
+Minnesota,Wabasha,North Central,Metro,21381,30468,3.6,522.98
+Minnesota,Wadena,North Central,Nonmetro,13759,22002,5.2,536.27
+Minnesota,Waseca,North Central,Nonmetro,19076,26457,4.6,423.36
+Minnesota,Washington,North Central,Metro,246670,38461,4.8,384.28
+Minnesota,Watonwan,North Central,Nonmetro,11054,25973,2.9,434.95
+Minnesota,Wilkin,North Central,Nonmetro,6526,26862,2,750.96
+Minnesota,Winona,North Central,Nonmetro,51213,24660,6.2,626.21
+Minnesota,Wright,North Central,Metro,128691,30238,5.2,661.46
+Minnesota,Yellow Medicine,North Central,Nonmetro,10092,26885,3.4,759.1
+Mississippi,Adams,South,Nonmetro,31979,17669,11.3,462.41
+Mississippi,Alcorn,South,Nonmetro,37319,19467,9,400.04
+Mississippi,Amite,South,Nonmetro,12840,17635,12.7,730.1
+Mississippi,Attala,South,Nonmetro,19175,20604,12.6,734.98
+Mississippi,Benton,South,Metro,8470,19935,17.1,406.62
+Mississippi,Bolivar,South,Nonmetro,33803,15751,15.3,876.57
+Mississippi,Calhoun,South,Nonmetro,14789,17434,10.1,586.57
+Mississippi,Carroll,South,Nonmetro,10338,20627,11.9,628.24
+Mississippi,Chickasaw,South,Nonmetro,17391,17538,12.2,501.78
+Mississippi,Choctaw,South,Nonmetro,8354,17464,14.2,418.18
+Mississippi,Claiborne,South,Nonmetro,9330,12229,17.5,487.41
+Mississippi,Clarke,South,Nonmetro,16362,20071,11.7,691.55
+Mississippi,Clay,South,Nonmetro,20279,18405,16.2,410.08
+Mississippi,Coahoma,South,Nonmetro,25254,15393,20.3,552.44
+Mississippi,Copiah,South,Metro,28921,17762,14.3,777.24
+Mississippi,Covington,South,Nonmetro,19471,16245,13.7,413.79
+Mississippi,DeSoto,South,Metro,168586,26085,7.6,476.15
+Mississippi,Forrest,South,Metro,76267,19897,13.1,466.31
+Mississippi,Franklin,South,Nonmetro,7857,22098,8.9,563.78
+Mississippi,George,South,Nonmetro,23104,21413,9,478.71
+Mississippi,Greene,South,Nonmetro,14129,15728,12.6,712.76
+Mississippi,Grenada,South,Nonmetro,21591,19138,9.4,422.11
+Mississippi,Hancock,South,Metro,45627,22286,10.1,473.75
+Mississippi,Harrison,South,Metro,196268,22120,9.7,573.99
+Mississippi,Hinds,South,Metro,245874,20598,10.3,869.74
+Mississippi,Holmes,South,Nonmetro,18772,11972,19.2,756.7
+Mississippi,Humphreys,South,Nonmetro,8984,13503,26.8,418.49
+Mississippi,Issaquena,South,Nonmetro,1291,12423,11.6,413.05
+Mississippi,Itawamba,South,Nonmetro,23451,19483,9.3,532.79
+Mississippi,Jackson,South,Metro,140676,24001,9.1,722.75
+Mississippi,Jasper,South,Nonmetro,16588,18260,7.9,676.24
+Mississippi,Jefferson,South,Nonmetro,7586,12601,15.9,519.93
+Mississippi,Jefferson Davis,South,Nonmetro,11941,15682,12.9,408.44
+Mississippi,Jones,South,Nonmetro,68276,20465,7.4,694.8
+Mississippi,Kemper,South,Nonmetro,10211,14516,10.1,766.18
+Mississippi,Lafayette,South,Nonmetro,51169,23227,8.4,631.71
+Mississippi,Lamar,South,Metro,58885,26403,8.5,497.06
+Mississippi,Lauderdale,South,Nonmetro,79832,21525,9.6,703.63
+Mississippi,Lawrence,South,Nonmetro,12586,19844,10.8,430.67
+Mississippi,Leake,South,Nonmetro,23153,17696,10.5,583
+Mississippi,Lee,South,Nonmetro,85036,22282,7.8,449.95
+Mississippi,Leflore,South,Nonmetro,31516,14563,16.3,592.54
+Mississippi,Lincoln,South,Nonmetro,34765,18844,7.5,586.12
+Mississippi,Lowndes,South,Nonmetro,59699,21410,12.6,505.51
+Mississippi,Madison,South,Metro,100202,34478,5.4,714.51
+Mississippi,Marion,South,Nonmetro,26109,19491,10.4,542.38
+Mississippi,Marshall,South,Metro,36385,19047,8.4,706.19
+Mississippi,Monroe,South,Nonmetro,36175,19215,10.9,765.09
+Mississippi,Montgomery,South,Nonmetro,10464,17674,8.5,406.98
+Mississippi,Neshoba,South,Nonmetro,29553,18572,9.8,570.14
+Mississippi,Newton,South,Nonmetro,21663,20413,10.6,578.1
+Mississippi,Noxubee,South,Nonmetro,11143,14450,19,695.14
+Mississippi,Oktibbeha,South,Nonmetro,49048,20091,13.3,458.2
+Mississippi,Panola,South,Nonmetro,34373,19525,10.3,685.14
+Mississippi,Pearl River,South,Nonmetro,55196,19786,12.1,810.86
+Mississippi,Perry,South,Metro,12187,17928,12.9,647.25
+Mississippi,Pike,South,Nonmetro,40075,17777,9.5,409.02
+Mississippi,Pontotoc,South,Nonmetro,30517,19695,6.6,497.69
+Mississippi,Prentiss,South,Nonmetro,25380,17644,10.2,414.98
+Mississippi,Quitman,South,Nonmetro,7761,14503,25.3,405.01
+Mississippi,Rankin,South,Metro,146761,27389,5.4,775.49
+Mississippi,Scott,South,Nonmetro,28293,17256,13.1,609.19
+Mississippi,Sharkey,South,Nonmetro,4805,15993,22.1,431.72
+Mississippi,Simpson,South,Metro,27401,17412,10.9,589.16
+Mississippi,Smith,South,Nonmetro,16257,21050,4.8,636.25
+Mississippi,Stone,South,Nonmetro,17978,19484,9.7,445.49
+Mississippi,Sunflower,South,Nonmetro,27911,13718,20.1,697.75
+Mississippi,Tallahatchie,South,Nonmetro,14959,13819,19,645.29
+Mississippi,Tate,South,Metro,28415,21547,10,404.76
+Mississippi,Tippah,South,Nonmetro,22054,20012,12.2,457.82
+Mississippi,Tishomingo,South,Nonmetro,19539,18881,10.5,424.25
+Mississippi,Tunica,South,Metro,10477,17246,12.4,454.67
+Mississippi,Union,South,Nonmetro,27811,18889,10.7,415.6
+Mississippi,Walthall,South,Nonmetro,14978,17872,11.1,403.94
+Mississippi,Warren,South,Nonmetro,48020,22417,8,588.5
+Mississippi,Washington,South,Nonmetro,49499,17160,21.7,724.74
+Mississippi,Wayne,South,Nonmetro,20564,20231,9.4,810.75
+Mississippi,Webster,South,Nonmetro,9999,19938,11.2,420.94
+Mississippi,Wilkinson,South,Nonmetro,9345,15307,9.7,678.11
+Mississippi,Winston,South,Nonmetro,18697,19199,12.3,607.25
+Mississippi,Yalobusha,South,Nonmetro,12381,19679,5.7,467.13
+Mississippi,Yazoo,South,Metro,27911,14934,19.8,922.95
+Missouri,Adair,North Central,Nonmetro,25560,19671,7.9,567.32
+Missouri,Andrew,North Central,Metro,17328,26778,5,432.7
+Missouri,Atchison,North Central,Nonmetro,5440,26069,4.3,547.3
+Missouri,Audrain,North Central,Nonmetro,25783,18934,8.8,692.24
+Missouri,Barry,North Central,Nonmetro,35726,19313,11.4,778.25
+Missouri,Barton,North Central,Nonmetro,12166,20780,6.5,591.92
+Missouri,Bates,North Central,Metro,16643,21715,6.6,836.69
+Missouri,Benton,North Central,Nonmetro,18854,19122,10.2,704.06
+Missouri,Bollinger,North Central,Metro,12356,19605,4,617.91
+Missouri,Boone,North Central,Metro,170770,27150,5,685.41
+Missouri,Buchanan,North Central,Metro,89561,22218,7.5,408.03
+Missouri,Butler,North Central,Nonmetro,42951,19473,9.4,694.67
+Missouri,Caldwell,North Central,Metro,9083,23082,5.2,426.39
+Missouri,Callaway,North Central,Metro,44566,22520,5.1,834.58
+Missouri,Camden,North Central,Nonmetro,43927,23996,9.1,655.92
+Missouri,Cape Girardeau,North Central,Metro,77606,24479,6.3,578.54
+Missouri,Carroll,North Central,Nonmetro,9096,23403,8.9,694.62
+Missouri,Carter,North Central,Nonmetro,6284,20318,9.7,507.36
+Missouri,Cass,North Central,Metro,100781,28398,6.7,696.84
+Missouri,Cedar,North Central,Nonmetro,13892,18255,10.5,474.48
+Missouri,Chariton,North Central,Nonmetro,7650,20953,3.8,751.18
+Missouri,Christian,North Central,Metro,80904,24730,6.4,562.65
+Missouri,Clark,North Central,Nonmetro,6919,23463,4.5,504.69
+Missouri,Clay,North Central,Metro,230361,29793,6.1,397.3
+Missouri,Clinton,North Central,Metro,20498,25500,5.8,418.96
+Missouri,Cole,North Central,Metro,76533,26014,4.9,393.75
+Missouri,Cooper,North Central,Nonmetro,17593,23252,5.7,564.77
+Missouri,Crawford,North Central,Nonmetro,24660,19017,12.7,742.52
+Missouri,Dade,North Central,Nonmetro,7618,20828,7.9,490.01
+Missouri,Dallas,North Central,Metro,16564,17494,13.2,540.77
+Missouri,Daviess,North Central,Nonmetro,8277,19208,5.7,563.24
+Missouri,DeKalb,North Central,Metro,12782,17125,6.8,421.36
+Missouri,Dent,North Central,Nonmetro,15612,19747,9.2,752.79
+Missouri,Douglas,North Central,Nonmetro,13516,17343,9,813.63
+Missouri,Dunklin,North Central,Nonmetro,31562,18009,8.1,541.07
+Missouri,Franklin,North Central,Metro,101828,25241,7.2,922.68
+Missouri,Gasconade,North Central,Nonmetro,14948,22845,6.1,517.8
+Missouri,Gentry,North Central,Nonmetro,6785,20687,6.3,491.42
+Missouri,Greene,North Central,Metro,283206,24097,6.8,675.3
+Missouri,Grundy,North Central,Nonmetro,10256,19365,4.5,435.28
+Missouri,Harrison,North Central,Nonmetro,8722,19906,5.8,722.5
+Missouri,Henry,North Central,Nonmetro,22034,23961,7.4,696.95
+Missouri,Hickory,North Central,Nonmetro,9335,18153,12.6,399.09
+Missouri,Holt,North Central,Nonmetro,4615,25319,5.2,462.69
+Missouri,Howard,North Central,Nonmetro,10182,22158,6.3,463.85
+Missouri,Howell,North Central,Nonmetro,40326,18817,8.3,927.25
+Missouri,Iron,North Central,Nonmetro,10322,19559,11.4,550.26
+Missouri,Jackson,North Central,Metro,680905,26629,7.6,604.46
+Missouri,Jasper,North Central,Metro,117184,22431,6,638.49
+Missouri,Jefferson,North Central,Metro,221577,25247,8.3,656.63
+Missouri,Johnson,North Central,Nonmetro,54155,22722,8,829.28
+Missouri,Knox,North Central,Nonmetro,4035,22397,7.4,504.01
+Missouri,Laclede,North Central,Nonmetro,35514,19567,8.8,764.72
+Missouri,Lafayette,North Central,Metro,32916,24266,6.9,628.43
+Missouri,Lawrence,North Central,Nonmetro,38244,19508,7,611.74
+Missouri,Lewis,North Central,Nonmetro,10172,20042,5.6,505.04
+Missouri,Lincoln,North Central,Metro,53850,22232,9.5,626.56
+Missouri,Linn,North Central,Nonmetro,12401,19889,4.5,615.56
+Missouri,Livingston,North Central,Nonmetro,15042,22557,5.1,532.33
+Missouri,McDonald,North Central,Metro,22763,18498,8.7,539.48
+Missouri,Macon,North Central,Nonmetro,15460,19738,8.7,801.23
+Missouri,Madison,North Central,Nonmetro,12401,17179,10.2,494.39
+Missouri,Maries,North Central,Nonmetro,9057,20731,10,526.98
+Missouri,Marion,North Central,Nonmetro,28840,21614,7.2,436.92
+Missouri,Mercer,North Central,Nonmetro,3718,20404,4.6,453.84
+Missouri,Miller,North Central,Nonmetro,24956,21268,8.1,592.6
+Missouri,Mississippi,North Central,Nonmetro,14208,16515,12.2,411.58
+Missouri,Moniteau,North Central,Metro,15801,20901,6.7,415.03
+Missouri,Monroe,North Central,Nonmetro,8680,20921,5.9,647.65
+Missouri,Montgomery,North Central,Nonmetro,11939,20710,9.4,536.25
+Missouri,Morgan,North Central,Nonmetro,20225,18431,11.7,597.63
+Missouri,New Madrid,North Central,Nonmetro,18411,19918,8.8,674.84
+Missouri,Newton,North Central,Metro,58777,22735,6.1,624.77
+Missouri,Nodaway,North Central,Nonmetro,23186,18307,7.2,876.96
+Missouri,Oregon,North Central,Nonmetro,10979,17070,7.1,789.8
+Missouri,Osage,North Central,Metro,13758,23918,2.9,604.35
+Missouri,Ozark,North Central,Nonmetro,9537,16959,12.6,744.97
+Missouri,Pemiscot,North Central,Nonmetro,17837,16902,11.2,492.54
+Missouri,Perry,North Central,Nonmetro,19100,23695,4.2,474.35
+Missouri,Pettis,North Central,Nonmetro,42215,20494,6.4,682.22
+Missouri,Phelps,North Central,Nonmetro,45029,21611,7,671.78
+Missouri,Pike,North Central,Nonmetro,18517,19005,6.5,670.44
+Missouri,Platte,North Central,Metro,93394,35666,5.6,420.19
+Missouri,Polk,North Central,Metro,31107,19908,9.5,635.52
+Missouri,Pulaski,North Central,Nonmetro,53443,19568,12.7,547.1
+Missouri,Putnam,North Central,Nonmetro,4895,20203,2.8,517.32
+Missouri,Ralls,North Central,Nonmetro,10243,23442,6.2,469.78
+Missouri,Randolph,North Central,Nonmetro,25135,18151,8.9,482.68
+Missouri,Ray,North Central,Metro,23031,24101,8.2,568.81
+Missouri,Reynolds,North Central,Nonmetro,6578,20082,11.1,808.48
+Missouri,Ripley,North Central,Nonmetro,13990,17315,10.1,629.54
+Missouri,St. Charles,North Central,Metro,374805,32946,5.1,560.44
+Missouri,St. Clair,North Central,Nonmetro,9520,18840,9.3,669.98
+Missouri,Ste. Genevieve,North Central,Nonmetro,17990,23772,5.4,499.15
+Missouri,St. Francois,North Central,Nonmetro,66010,19315,8.3,451.89
+Missouri,St. Louis,North Central,Metro,1001327,35570,7.4,507.8
+Missouri,Saline,North Central,Nonmetro,23334,20339,5.5,755.5
+Missouri,Schuyler,North Central,Nonmetro,4395,19650,7.4,307.3
+Missouri,Scotland,North Central,Nonmetro,4873,20859,4,436.67
+Missouri,Scott,North Central,Nonmetro,39061,20542,6.8,419.99
+Missouri,Shannon,North Central,Nonmetro,8317,19658,9.2,1003.82
+Missouri,Shelby,North Central,Nonmetro,6179,20569,5.8,500.86
+Missouri,Stoddard,North Central,Nonmetro,29837,21797,9.1,823.22
+Missouri,Stone,North Central,Nonmetro,31375,22473,10.8,464.03
+Missouri,Sullivan,North Central,Nonmetro,6512,19930,6,647.98
+Missouri,Taney,North Central,Nonmetro,53555,20520,9,632.44
+Missouri,Texas,North Central,Nonmetro,25735,17741,8.1,1177.27
+Missouri,Vernon,North Central,Nonmetro,20878,20479,5.4,826.4
+Missouri,Warren,North Central,Metro,33043,24033,8.9,428.6
+Missouri,Washington,North Central,Nonmetro,25048,17762,12.2,759.91
+Missouri,Wayne,North Central,Nonmetro,13397,18748,9.5,759.18
+Missouri,Webster,North Central,Metro,36690,19956,6.3,592.56
+Missouri,Worth,North Central,Nonmetro,2082,23815,4.3,266.61
+Missouri,Wright,North Central,Nonmetro,18449,18481,9.4,681.77
+Missouri,St. Louis city,North Central,Metro,317850,23945,12.4,61.91
+Montana,Beaverhead,West,Nonmetro,9291,26763,6.5,5541.62
+Montana,Big Horn,West,Nonmetro,13141,16244,19.9,4995.46
+Montana,Blaine,West,Nonmetro,6598,17442,13.4,4227.55
+Montana,Broadwater,West,Nonmetro,5692,29188,4.5,1192.54
+Montana,Carbon,West,Metro,10268,28153,3.9,2048.79
+Montana,Carter,West,Nonmetro,1227,29391,2.3,3340.75
+Montana,Cascade,West,Metro,82090,25870,5.1,2698.16
+Montana,Chouteau,West,Nonmetro,5855,22032,4.3,3972.49
+Montana,Custer,West,Nonmetro,11945,25506,3.8,3783.36
+Montana,Daniels,West,Nonmetro,1758,33140,2.6,1426.11
+Montana,Dawson,West,Nonmetro,9365,27878,2,2371.87
+Montana,Deer Lodge,West,Nonmetro,9211,23156,3.9,736.53
+Montana,Fallon,West,Nonmetro,3057,32755,3.3,1620.77
+Montana,Fergus,West,Nonmetro,11468,26111,3.1,4339.8
+Montana,Flathead,West,Nonmetro,93333,26388,7,5087.66
+Montana,Gallatin,West,Nonmetro,95323,30293,6.3,2602.69
+Montana,Garfield,West,Nonmetro,1047,26142,0.2,4675.36
+Montana,Glacier,West,Nonmetro,13672,16892,14.4,2995.94
+Montana,Golden Valley,West,Metro,756,21562,3.5,1175.34
+Montana,Granite,West,Nonmetro,3168,27136,7.2,1727.42
+Montana,Hill,West,Nonmetro,16523,20869,4,2898.96
+Montana,Jefferson,West,Nonmetro,11502,30886,6.6,1656.26
+Montana,Judith Basin,West,Nonmetro,1997,26595,3.9,1869.82
+Montana,Lake,West,Nonmetro,29157,22278,9.9,1490.15
+Montana,Lewis and Clark,West,Nonmetro,65357,28476,4.9,3458.83
+Montana,Liberty,West,Nonmetro,2369,23587,4.5,1430.05
+Montana,Lincoln,West,Nonmetro,19337,22856,13.1,3612.92
+Montana,McCone,West,Nonmetro,1728,28654,0.8,2643.17
+Montana,Madison,West,Nonmetro,7767,29700,4.8,3587.48
+Montana,Meagher,West,Nonmetro,1898,20736,3.9,2391.91
+Montana,Mineral,West,Nonmetro,4238,20691,11.8,1219.44
+Montana,Missoula,West,Metro,111966,26779,8.2,2593.42
+Montana,Musselshell,West,Nonmetro,4790,23545,4.6,1868.16
+Montana,Park,West,Nonmetro,15708,27045,5.4,2803.06
+Montana,Petroleum,West,Nonmetro,443,25378,6.6,1654.87
+Montana,Phillips,West,Nonmetro,4167,22139,6.3,5140.04
+Montana,Pondera,West,Nonmetro,6206,22797,6,1622.86
+Montana,Powder River,West,Nonmetro,1703,29902,4.5,3297.3
+Montana,Powell,West,Nonmetro,6975,21536,2.2,2326.39
+Montana,Prairie,West,Nonmetro,1372,23285,8.1,1736.74
+Montana,Ravalli,West,Nonmetro,40823,22482,8.2,2390.82
+Montana,Richland,West,Nonmetro,11132,32900,2.5,2084.14
+Montana,Roosevelt,West,Nonmetro,11072,16182,6.8,2354.79
+Montana,Rosebud,West,Nonmetro,9352,23238,10.6,5010.4
+Montana,Sanders,West,Nonmetro,11346,20169,9.3,2760.52
+Montana,Sheridan,West,Nonmetro,3630,30814,2.7,1677.08
+Montana,Silver Bow,West,Nonmetro,34549,24383,7,718.48
+Montana,Stillwater,West,Nonmetro,9288,29217,3.6,1795.35
+Montana,Sweet Grass,West,Nonmetro,3633,25522,0.9,1855.21
+Montana,Teton,West,Nonmetro,6074,24443,5.1,2272.38
+Montana,Toole,West,Nonmetro,5150,22101,3.1,1915.65
+Montana,Treasure,West,Nonmetro,812,20758,0.8,977.4
+Montana,Valley,West,Nonmetro,7577,26337,2.6,4925.82
+Montana,Wheatland,West,Nonmetro,2115,19385,3.4,1423.2
+Montana,Wibaux,West,Nonmetro,986,23875,3,889.27
+Montana,Yellowstone,West,Metro,153692,29576,4.1,2633.29
+Nebraska,Adams,North Central,Nonmetro,31442,27690,5.5,563.27
+Nebraska,Antelope,North Central,Nonmetro,6486,26763,1.6,857.22
+Nebraska,Arthur,North Central,Nonmetro,448,22035,4,715.36
+Nebraska,Banner,North Central,Nonmetro,820,31735,5.4,746.11
+Nebraska,Blaine,North Central,Nonmetro,551,21854,0.7,710.87
+Nebraska,Boone,North Central,Nonmetro,5373,27799,1.2,686.55
+Nebraska,Box Butte,North Central,Nonmetro,11310,25897,3.9,1075.29
+Nebraska,Boyd,North Central,Nonmetro,2039,24085,1.1,539.94
+Nebraska,Brown,North Central,Nonmetro,3078,26390,0.7,1221.33
+Nebraska,Buffalo,North Central,Nonmetro,47958,26846,3.5,968.11
+Nebraska,Burt,North Central,Nonmetro,6647,24332,3.3,491.58
+Nebraska,Butler,North Central,Nonmetro,8256,29457,4.2,584.91
+Nebraska,Cass,North Central,Metro,25360,30694,3.8,557.45
+Nebraska,Cedar,North Central,Nonmetro,8675,27774,2.2,740.31
+Nebraska,Chase,North Central,Nonmetro,3897,29905,0.7,894.42
+Nebraska,Cherry,North Central,Nonmetro,5770,26229,2.6,5960.42
+Nebraska,Cheyenne,North Central,Nonmetro,10077,30339,1.6,1196.29
+Nebraska,Clay,North Central,Nonmetro,6382,26324,2.8,572.29
+Nebraska,Colfax,North Central,Nonmetro,10522,22857,6.4,411.66
+Nebraska,Cuming,North Central,Nonmetro,9078,25318,3.3,570.62
+Nebraska,Custer,North Central,Nonmetro,10802,29406,2.3,2575.52
+Nebraska,Dakota,North Central,Metro,20798,20543,7.4,264.26
+Nebraska,Dawes,North Central,Nonmetro,9136,22176,2.6,1396.46
+Nebraska,Dawson,North Central,Nonmetro,24069,22098,4.8,1013.1
+Nebraska,Deuel,North Central,Nonmetro,1946,27439,4.3,439.85
+Nebraska,Dixon,North Central,Metro,5866,24286,4.5,476.23
+Nebraska,Dodge,North Central,Nonmetro,36725,25112,5.1,528.71
+Nebraska,Douglas,North Central,Metro,537655,29842,5.7,328.46
+Nebraska,Dundy,North Central,Nonmetro,2015,28870,4,919.68
+Nebraska,Fillmore,North Central,Nonmetro,5697,27875,3.4,575.37
+Nebraska,Franklin,North Central,Nonmetro,3105,28426,3.5,575.82
+Nebraska,Frontier,North Central,Nonmetro,2573,25837,2.4,974.59
+Nebraska,Furnas,North Central,Nonmetro,4887,22769,3.4,719.13
+Nebraska,Gage,North Central,Nonmetro,21818,26207,4.3,851.49
+Nebraska,Garden,North Central,Nonmetro,1823,30790,3.1,1704.28
+Nebraska,Garfield,North Central,Nonmetro,1933,23612,3.5,569.79
+Nebraska,Gosper,North Central,Nonmetro,1976,27402,5.1,458.16
+Nebraska,Grant,North Central,Nonmetro,769,21782,3.5,776.22
+Nebraska,Greeley,North Central,Nonmetro,2476,23333,1.9,569.81
+Nebraska,Hall,North Central,Metro,60792,23995,6,546.29
+Nebraska,Hamilton,North Central,Metro,9100,30424,2.5,542.88
+Nebraska,Harlan,North Central,Nonmetro,3458,26139,1.7,553.47
+Nebraska,Hayes,North Central,Nonmetro,1084,26221,1.8,713.06
+Nebraska,Hitchcock,North Central,Nonmetro,2879,23152,3,709.94
+Nebraska,Holt,North Central,Nonmetro,10398,25672,0.9,2412.4
+Nebraska,Hooker,North Central,Nonmetro,681,22949,2.9,721.12
+Nebraska,Howard,North Central,Metro,6347,26658,4,569.34
+Nebraska,Jefferson,North Central,Nonmetro,7433,25469,4,570.19
+Nebraska,Johnson,North Central,Nonmetro,5167,21488,3.6,376.05
+Nebraska,Kearney,North Central,Nonmetro,6549,27360,3.8,516.24
+Nebraska,Keith,North Central,Nonmetro,8146,26422,2.8,1061.6
+Nebraska,Keya Paha,North Central,Nonmetro,711,26666,1.1,773.07
+Nebraska,Kimball,North Central,Nonmetro,3720,24255,5.1,951.85
+Nebraska,Knox,North Central,Nonmetro,8556,26560,3.3,1108.35
+Nebraska,Lancaster,North Central,Metro,298080,27764,5.1,837.55
+Nebraska,Lincoln,North Central,Nonmetro,35896,27056,4.2,2564.07
+Nebraska,Logan,North Central,Nonmetro,851,25920,0.9,570.66
+Nebraska,Loup,North Central,Nonmetro,548,27794,0.7,568.29
+Nebraska,McPherson,North Central,Nonmetro,433,27364,0.9,858.98
+Nebraska,Madison,North Central,Nonmetro,35111,26083,3.1,572.74
+Nebraska,Merrick,North Central,Metro,7776,26136,5.2,484.88
+Nebraska,Morrill,North Central,Nonmetro,4874,24869,4,1423.84
+Nebraska,Nance,North Central,Nonmetro,3639,25479,3.2,441.63
+Nebraska,Nemaha,North Central,Nonmetro,7168,27087,8,407.38
+Nebraska,Nuckolls,North Central,Nonmetro,4391,24447,2.9,575.16
+Nebraska,Otoe,North Central,Nonmetro,15842,26032,4.6,615.63
+Nebraska,Pawnee,North Central,Nonmetro,2726,29030,4.6,431.08
+Nebraska,Perkins,North Central,Nonmetro,2924,29171,1.7,883.34
+Nebraska,Phelps,North Central,Nonmetro,9216,26697,1.7,539.79
+Nebraska,Pierce,North Central,Nonmetro,7184,26668,4.7,573.25
+Nebraska,Platte,North Central,Nonmetro,32642,25869,4.5,674.06
+Nebraska,Polk,North Central,Nonmetro,5271,30428,1.9,438.35
+Nebraska,Red Willow,North Central,Nonmetro,10946,23387,4.1,716.99
+Nebraska,Richardson,North Central,Nonmetro,8201,25358,3.4,551.84
+Nebraska,Rock,North Central,Nonmetro,1401,29205,1.7,1008.32
+Nebraska,Saline,North Central,Nonmetro,14360,21955,3.4,574.02
+Nebraska,Sarpy,North Central,Metro,169192,30902,4.4,238.99
+Nebraska,Saunders,North Central,Metro,20913,29637,3.5,750.23
+Nebraska,Scotts Bluff,North Central,Nonmetro,36684,25064,5.5,739.4
+Nebraska,Seward,North Central,Metro,16998,28124,3.5,571.43
+Nebraska,Sheridan,North Central,Nonmetro,5294,23734,1.4,2440.86
+Nebraska,Sherman,North Central,Nonmetro,3107,26416,3.1,565.83
+Nebraska,Sioux,North Central,Nonmetro,1249,27216,1.3,2066.74
+Nebraska,Stanton,North Central,Nonmetro,6081,27463,2.6,427.95
+Nebraska,Thayer,North Central,Nonmetro,5182,29120,1.7,573.81
+Nebraska,Thomas,North Central,Nonmetro,675,30475,0,713.24
+Nebraska,Thurston,North Central,Nonmetro,6946,18529,14.4,393.58
+Nebraska,Valley,North Central,Nonmetro,4254,25951,1.4,568.05
+Nebraska,Washington,North Central,Metro,20257,31151,1.4,389.96
+Nebraska,Wayne,North Central,Nonmetro,9425,26031,3,442.92
+Nebraska,Webster,North Central,Nonmetro,3697,22385,4.7,574.91
+Nebraska,Wheeler,North Central,Nonmetro,847,30126,2.9,575.18
+Nebraska,York,North Central,Nonmetro,13825,27646,2,572.51
+Nevada,Churchill,West,Nonmetro,24252,24202,11.9,4930.46
+Nevada,Clark,West,Metro,2035572,26048,10.8,7891.43
+Nevada,Douglas,West,Nonmetro,47259,33057,8.5,709.72
+Nevada,Elko,West,Nonmetro,51562,29988,5.5,17169.83
+Nevada,Esmeralda,West,Nonmetro,1141,20984,11.9,3581.88
+Nevada,Eureka,West,Nonmetro,1669,30459,4.7,4175.68
+Nevada,Humboldt,West,Nonmetro,17067,27255,7.8,9640.76
+Nevada,Lander,West,Nonmetro,5946,29390,12,5490.11
+Nevada,Lincoln,West,Nonmetro,5194,23924,11.8,10633.2
+Nevada,Lyon,West,Nonmetro,51657,23173,13.6,2001.19
+Nevada,Mineral,West,Nonmetro,4566,24146,15.4,3752.84
+Nevada,Nye,West,Nonmetro,42625,23085,13.4,18181.92
+Nevada,Pershing,West,Nonmetro,6722,17332,9.5,6036.56
+Nevada,Storey,West,Metro,3929,35115,10.3,262.92
+Nevada,Washoe,West,Metro,435019,28757,9.1,6302.37
+Nevada,White Pine,West,Nonmetro,9974,24359,10.6,8875.65
+Nevada,Carson City,West,Metro,54482,26127,11.3,144.66
+New Hampshire,Belknap,Northeast,Nonmetro,60399,31644,5.3,400.23
+New Hampshire,Carroll,Northeast,Nonmetro,47513,32612,5.8,931.06
+New Hampshire,Cheshire,Northeast,Nonmetro,76430,30181,6.1,706.66
+New Hampshire,Coos,Northeast,Nonmetro,31870,24546,6.9,1794.69
+New Hampshire,Grafton,Northeast,Nonmetro,89341,32469,5,1708.75
+New Hampshire,Hillsborough,Northeast,Metro,403972,35242,5.9,876.14
+New Hampshire,Merrimack,Northeast,Nonmetro,147262,32020,5.2,934.12
+New Hampshire,Rockingham,Northeast,Metro,299006,40469,5.6,694.72
+New Hampshire,Strafford,Northeast,Metro,125273,29917,6.5,368.98
+New Hampshire,Sullivan,Northeast,Nonmetro,43135,29004,5.8,537.31
+New Jersey,Atlantic,Northeast,Metro,275376,28005,12.5,555.7
+New Jersey,Bergen,Northeast,Metro,926330,44002,6.5,233.01
+New Jersey,Burlington,Northeast,Metro,450556,37255,8.5,798.58
+New Jersey,Camden,Northeast,Metro,511998,30822,10.2,221.26
+New Jersey,Cape May,Northeast,Metro,95805,33028,10,251.43
+New Jersey,Cumberland,Northeast,Metro,157035,22417,11.1,483.7
+New Jersey,Essex,Northeast,Metro,791609,32708,13,126.21
+New Jersey,Gloucester,Northeast,Metro,290298,34025,9.2,322.01
+New Jersey,Hudson,Northeast,Metro,662619,33185,9.3,46.19
+New Jersey,Hunterdon,Northeast,Metro,126250,51353,5.9,427.82
+New Jersey,Mercer,Northeast,Metro,370212,37680,9.4,224.56
+New Jersey,Middlesex,Northeast,Metro,830300,34674,7.5,308.91
+New Jersey,Monmouth,Northeast,Metro,629185,43469,7.9,468.79
+New Jersey,Morris,Northeast,Metro,498192,49552,6.3,460.18
+New Jersey,Ocean,Northeast,Metro,583450,31200,8.8,628.78
+New Jersey,Passaic,Northeast,Metro,507574,27643,8.6,184.59
+New Jersey,Salem,Northeast,Metro,65120,29712,10.6,331.9
+New Jersey,Somerset,Northeast,Metro,330604,48791,6,301.81
+New Jersey,Sussex,Northeast,Metro,145930,38810,8.2,519.01
+New Jersey,Union,Northeast,Metro,548744,35308,9.8,102.86
+New Jersey,Warren,Northeast,Metro,107226,34136,9,356.92
+New Mexico,Bernalillo,West,Metro,673943,26765,8.4,1160.83
+New Mexico,Catron,West,Nonmetro,3583,20685,4.6,6923.69
+New Mexico,Chaves,West,Nonmetro,65811,20559,7.6,6065.28
+New Mexico,Cibola,West,Nonmetro,27382,16072,15.3,4539.48
+New Mexico,Colfax,West,Nonmetro,12997,20534,9.5,3758.06
+New Mexico,Curry,West,Nonmetro,50497,21929,9.1,1404.8
+New Mexico,De Baca,West,Nonmetro,2020,24370,5.2,2322.62
+New Mexico,Doña Ana,West,Metro,213963,20129,11.5,3807.51
+New Mexico,Eddy,West,Nonmetro,55641,28308,5.8,4175.73
+New Mexico,Grant,West,Nonmetro,29119,23011,9.7,3961.63
+New Mexico,Guadalupe,West,Nonmetro,4526,16820,1.2,3030.48
+New Mexico,Harding,West,Nonmetro,565,22946,6,2125.44
+New Mexico,Hidalgo,West,Nonmetro,4643,18871,12.2,3436.86
+New Mexico,Lea,West,Nonmetro,68149,23804,5.9,4390.93
+New Mexico,Lincoln,West,Nonmetro,19931,25756,7.3,4831.09
+New Mexico,Los Alamos,West,Nonmetro,17939,51148,3.5,109.17
+New Mexico,Luna,West,Nonmetro,24789,15078,13.8,2965.19
+New Mexico,McKinley,West,Nonmetro,73998,12614,15.5,5449.81
+New Mexico,Mora,West,Nonmetro,4660,15591,5.4,1931.27
+New Mexico,Otero,West,Nonmetro,65318,19457,12.7,6613.21
+New Mexico,Quay,West,Nonmetro,8698,17335,5,2874.35
+New Mexico,Rio Arriba,West,Nonmetro,39949,19678,11.4,5860.84
+New Mexico,Roosevelt,West,Nonmetro,19908,18187,9.7,2447.43
+New Mexico,Sandoval,West,Metro,136638,26742,9.2,3710.65
+New Mexico,San Juan,West,Metro,125133,22460,9.2,5513.07
+New Mexico,San Miguel,West,Nonmetro,28668,17849,6.4,4715.82
+New Mexico,Santa Fe,West,Metro,147108,33044,7.9,1909.41
+New Mexico,Sierra,West,Nonmetro,11615,18982,6.8,4178.96
+New Mexico,Socorro,West,Nonmetro,17494,18553,7.3,6646.68
+New Mexico,Taos,West,Nonmetro,32943,22358,10.7,2203.11
+New Mexico,Torrance,West,Metro,15853,18300,11.2,3344.85
+New Mexico,Union,West,Nonmetro,4339,21705,2.1,3823.74
+New Mexico,Valencia,West,Metro,76297,19412,12.4,1066.18
+New York,Albany,Northeast,Metro,307463,32779,6.4,522.8
+New York,Allegany,Northeast,Nonmetro,48070,20940,9.2,1029.31
+New York,Bronx,Northeast,Metro,1428357,18456,14,42.1
+New York,Broome,Northeast,Metro,198093,25105,7.8,705.77
+New York,Cattaraugus,Northeast,Nonmetro,78962,22336,8.2,1308.35
+New York,Cayuga,Northeast,Nonmetro,79173,25786,7.3,691.58
+New York,Chautauqua,Northeast,Nonmetro,132646,22903,7.8,1060.23
+New York,Chemung,Northeast,Metro,88267,26262,5.4,407.35
+New York,Chenango,Northeast,Nonmetro,49549,23036,7.1,893.55
+New York,Clinton,Northeast,Nonmetro,81685,24941,6.9,1037.85
+New York,Columbia,Northeast,Nonmetro,62195,32851,6.7,634.71
+New York,Cortland,Northeast,Nonmetro,49043,24228,6.1,498.76
+New York,Delaware,Northeast,Nonmetro,46901,23835,9.5,1442.44
+New York,Dutchess,Northeast,Metro,296928,33923,8.7,795.63
+New York,Erie,Northeast,Metro,921584,28879,7,1042.69
+New York,Essex,Northeast,Nonmetro,38912,26805,7.9,1794.23
+New York,Franklin,Northeast,Nonmetro,51280,22488,8.8,1629.12
+New York,Fulton,Northeast,Nonmetro,54606,24339,9.3,495.47
+New York,Genesee,Northeast,Nonmetro,59458,25240,6.7,492.94
+New York,Greene,Northeast,Nonmetro,48312,26261,9.1,647.16
+New York,Hamilton,Northeast,Nonmetro,4760,26968,9.7,1717.37
+New York,Herkimer,Northeast,Metro,64034,23753,8.7,1411.47
+New York,Jefferson,Northeast,Metro,118947,23659,10.6,1268.59
+New York,Kings,Northeast,Metro,2595259,26774,10,70.82
+New York,Lewis,Northeast,Nonmetro,27124,24772,8.3,1274.68
+New York,Livingston,Northeast,Metro,64801,24142,5.4,631.76
+New York,Madison,Northeast,Metro,72427,25984,5.1,654.84
+New York,Monroe,Northeast,Metro,749356,29424,7.7,657.21
+New York,Montgomery,Northeast,Nonmetro,49779,23554,8.9,403.04
+New York,Nassau,Northeast,Metro,1354612,43206,6.4,284.72
+New York,New York,Northeast,Metro,1629507,64993,7.5,22.83
+New York,Niagara,Northeast,Metro,214150,26891,7.6,522.36
+New York,Oneida,Northeast,Metro,233558,25982,7.4,1212.43
+New York,Onondaga,Northeast,Metro,468304,29444,7.2,778.39
+New York,Ontario,Northeast,Metro,109192,30934,6.4,644.07
+New York,Orange,Northeast,Metro,375384,31023,7.3,811.69
+New York,Orleans,Northeast,Metro,42204,22070,9,391.26
+New York,Oswego,Northeast,Metro,121183,23466,9.7,951.65
+New York,Otsego,Northeast,Nonmetro,61399,24625,7.1,1001.7
+New York,Putnam,Northeast,Metro,99488,41173,6.8,230.31
+New York,Queens,Northeast,Metro,2301139,26876,8.6,108.53
+New York,Rensselaer,Northeast,Metro,159900,30803,7.6,652.43
+New York,Richmond,Northeast,Metro,472481,32041,6.9,58.37
+New York,Rockland,Northeast,Metro,320688,34647,7.9,173.55
+New York,St. Lawrence,Northeast,Nonmetro,112011,22562,10,2680.38
+New York,Saratoga,Northeast,Metro,223774,35922,6,809.98
+New York,Schenectady,Northeast,Metro,154796,28902,7.4,204.52
+New York,Schoharie,Northeast,Metro,31913,25498,10.5,621.82
+New York,Schuyler,Northeast,Nonmetro,18410,25189,6.4,328.33
+New York,Seneca,Northeast,Nonmetro,35144,24666,5.5,323.71
+New York,Steuben,Northeast,Nonmetro,98665,25800,8.2,1390.56
+New York,Suffolk,Northeast,Metro,1501373,37634,6.4,912.05
+New York,Sullivan,Northeast,Nonmetro,76330,25742,11.5,968.13
+New York,Tioga,Northeast,Metro,50199,29427,6.9,518.6
+New York,Tompkins,Northeast,Metro,103855,28460,5.9,474.65
+New York,Ulster,Northeast,Metro,181300,30732,9.3,1124.24
+New York,Warren,Northeast,Metro,65180,30611,6.6,866.95
+New York,Washington,Northeast,Metro,62700,24345,9.5,831.18
+New York,Wayne,Northeast,Metro,92416,25609,7.5,603.83
+New York,Westchester,Northeast,Metro,967315,48885,7.6,430.5
+New York,Wyoming,Northeast,Nonmetro,41446,23960,7.4,592.75
+New York,Yates,Northeast,Metro,25187,25224,6.9,338.14
+North Carolina,Alamance,South,Metro,155258,23434,7.9,423.94
+North Carolina,Alexander,South,Metro,37158,20043,9,259.99
+North Carolina,Alleghany,South,Nonmetro,10911,20366,10.5,235.06
+North Carolina,Anson,South,Nonmetro,26135,17025,17.6,531.45
+North Carolina,Ashe,South,Nonmetro,27114,21269,8.5,426.14
+North Carolina,Avery,South,Nonmetro,17695,21298,6.9,247.09
+North Carolina,Beaufort,South,Nonmetro,47561,22356,11.5,827.19
+North Carolina,Bertie,South,Nonmetro,20518,16629,13.5,699.27
+North Carolina,Bladen,South,Nonmetro,34720,18903,12.1,874.33
+North Carolina,Brunswick,South,Metro,115926,27586,11.4,846.97
+North Carolina,Buncombe,South,Metro,247336,27066,7,656.67
+North Carolina,Burke,South,Metro,89548,20263,11.6,507.1
+North Carolina,Cabarrus,South,Metro,188375,26183,9.2,361.75
+North Carolina,Caldwell,South,Metro,81758,19601,12.2,471.57
+North Carolina,Camden,South,Nonmetro,10161,26585,9.3,240.56
+North Carolina,Carteret,South,Nonmetro,68228,28991,10.2,506.25
+North Carolina,Caswell,South,Nonmetro,23174,19698,10.9,424.92
+North Carolina,Catawba,South,Metro,154610,23657,8.2,398.72
+North Carolina,Chatham,South,Metro,67431,32845,9,682.19
+North Carolina,Cherokee,South,Nonmetro,27092,18787,8.4,455.43
+North Carolina,Chowan,South,Nonmetro,14656,21451,12.7,172.47
+North Carolina,Clay,South,Nonmetro,10656,22106,12.3,214.75
+North Carolina,Cleveland,South,Nonmetro,97178,20825,12.6,464.25
+North Carolina,Columbus,South,Nonmetro,57230,19814,9,937.29
+North Carolina,Craven,South,Metro,104450,24553,11.4,708.96
+North Carolina,Cumberland,South,Metro,324603,22931,12.6,652.32
+North Carolina,Currituck,South,Metro,24492,27521,6.6,261.85
+North Carolina,Dare,South,Nonmetro,34863,30682,6.4,383.42
+North Carolina,Davidson,South,Metro,163867,23060,11,552.68
+North Carolina,Davie,South,Metro,41447,28141,7.2,264.11
+North Carolina,Duplin,South,Nonmetro,59453,17593,11.3,816.22
+North Carolina,Durham,South,Metro,288817,30268,6.8,285.98
+North Carolina,Edgecombe,South,Metro,55280,17956,15.4,505.34
+North Carolina,Forsyth,South,Metro,361684,26674,9.5,408.15
+North Carolina,Franklin,South,Metro,62296,21526,9.9,491.68
+North Carolina,Gaston,South,Metro,209807,22828,11.2,356.03
+North Carolina,Gates,South,Metro,11724,22035,12.2,340.45
+North Carolina,Graham,South,Nonmetro,8700,19372,11.1,292.08
+North Carolina,Granville,South,Nonmetro,58109,23127,8.3,531.57
+North Carolina,Greene,South,Nonmetro,21328,18107,11.9,265.93
+North Carolina,Guilford,South,Metro,506763,26762,8.8,645.7
+North Carolina,Halifax,South,Nonmetro,53407,19709,14.1,724.09
+North Carolina,Harnett,South,Nonmetro,124320,20864,11.3,594.99
+North Carolina,Haywood,South,Metro,59170,25562,7.3,553.69
+North Carolina,Henderson,South,Metro,109719,26059,6,373.07
+North Carolina,Hertford,South,Nonmetro,24368,17280,13.7,353.06
+North Carolina,Hoke,South,Metro,51075,18421,13.1,390.74
+North Carolina,Hyde,South,Nonmetro,5693,19333,12.7,612.7
+North Carolina,Iredell,South,Metro,165066,27558,9.8,573.83
+North Carolina,Jackson,South,Nonmetro,40812,21517,6.2,490.76
+North Carolina,Johnston,South,Metro,178396,22858,8.9,791.3
+North Carolina,Jones,South,Metro,10166,20630,11.6,470.71
+North Carolina,Lee,South,Nonmetro,59418,21743,10.3,254.96
+North Carolina,Lenoir,South,Nonmetro,58782,20191,13.1,400.59
+North Carolina,Lincoln,South,Metro,79578,26439,10.2,297.94
+North Carolina,McDowell,South,Nonmetro,44961,18717,11.1,440.61
+North Carolina,Macon,South,Nonmetro,33919,24060,7.3,515.56
+North Carolina,Madison,South,Metro,21027,21076,7.3,449.57
+North Carolina,Martin,South,Nonmetro,23729,19032,14.7,461.22
+North Carolina,Mecklenburg,South,Metro,990288,33169,8.9,523.84
+North Carolina,Mitchell,South,Nonmetro,15330,21429,8.6,221.43
+North Carolina,Montgomery,South,Nonmetro,27601,19331,10.5,491.76
+North Carolina,Moore,South,Nonmetro,91743,29643,8,697.84
+North Carolina,Nash,South,Metro,94722,23082,11.9,540.41
+North Carolina,New Hanover,South,Metro,213091,29880,8.9,191.53
+North Carolina,Northampton,South,Nonmetro,21011,18180,15.9,536.59
+North Carolina,Onslow,South,Metro,183753,21862,11.6,762.74
+North Carolina,Orange,South,Metro,138644,36380,6.4,397.96
+North Carolina,Pamlico,South,Metro,12982,24176,9.7,336.54
+North Carolina,Pasquotank,South,Nonmetro,40018,22187,10.1,226.88
+North Carolina,Pender,South,Metro,55166,23561,9.8,869.8
+North Carolina,Perquimans,South,Nonmetro,13498,23006,12.7,247.09
+North Carolina,Person,South,Metro,39262,21148,11.9,392.32
+North Carolina,Pitt,South,Metro,173798,23461,12.1,651.98
+North Carolina,Polk,South,Nonmetro,20327,27164,8.8,237.79
+North Carolina,Randolph,South,Metro,142370,21175,9,782.52
+North Carolina,Richmond,South,Nonmetro,46046,18059,13.8,473.82
+North Carolina,Robeson,South,Nonmetro,134871,15559,12.1,949.22
+North Carolina,Rockingham,South,Metro,92300,20726,10.5,565.55
+North Carolina,Rowan,South,Metro,138361,21706,11.5,511.37
+North Carolina,Rutherford,South,Nonmetro,66865,19419,12.2,564.15
+North Carolina,Sampson,South,Nonmetro,63873,19063,10.4,944.74
+North Carolina,Scotland,South,Nonmetro,35932,15849,15.5,318.85
+North Carolina,Stanly,South,Nonmetro,60586,20990,12.2,395.09
+North Carolina,Stokes,South,Metro,46661,20950,9.3,448.86
+North Carolina,Surry,South,Nonmetro,73170,20330,6.9,532.17
+North Carolina,Swain,South,Nonmetro,14163,20409,7.7,528
+North Carolina,Transylvania,South,Nonmetro,32928,24080,6.9,378.53
+North Carolina,Tyrrell,South,Nonmetro,4152,16268,14.1,389.04
+North Carolina,Union,South,Metro,213422,29662,7.7,631.52
+North Carolina,Vance,South,Nonmetro,44829,18606,12.2,253.52
+North Carolina,Wake,South,Metro,976019,34202,6.4,835.22
+North Carolina,Warren,South,Nonmetro,20468,19354,10.7,428.46
+North Carolina,Washington,South,Nonmetro,12668,20067,15.5,348.14
+North Carolina,Watauga,South,Nonmetro,52240,22314,9.5,312.56
+North Carolina,Wayne,South,Metro,124355,21204,12.4,553.09
+North Carolina,Wilkes,South,Nonmetro,68946,19163,11.7,754.28
+North Carolina,Wilson,South,Nonmetro,81581,21486,10.1,368.17
+North Carolina,Yadkin,South,Metro,37971,21372,8.3,334.83
+North Carolina,Yancey,South,Nonmetro,17604,20798,11,312.6
+North Dakota,Adams,North Central,Nonmetro,2341,34005,1.2,987.62
+North Dakota,Barnes,North Central,Nonmetro,11097,33016,2.4,1491.55
+North Dakota,Benson,North Central,Nonmetro,6794,20697,6.1,1388.71
+North Dakota,Billings,North Central,Nonmetro,969,42729,1.4,1148.85
+North Dakota,Bottineau,North Central,Nonmetro,6634,33541,2.6,1668.42
+North Dakota,Bowman,North Central,Nonmetro,3221,34414,1.8,1161.81
+North Dakota,Burke,North Central,Nonmetro,2208,34161,2.3,1103.57
+North Dakota,Burleigh,North Central,Metro,88223,34813,2.3,1632.65
+North Dakota,Cass,North Central,Metro,162500,31795,3.2,1764.94
+North Dakota,Cavalier,North Central,Nonmetro,3890,38721,0.8,1488.75
+North Dakota,Dickey,North Central,Nonmetro,5195,27825,1.5,1131.47
+North Dakota,Divide,North Central,Nonmetro,2314,41625,0.7,1260.79
+North Dakota,Dunn,North Central,Nonmetro,4195,41849,4.3,2008.46
+North Dakota,Eddy,North Central,Nonmetro,2370,31806,1.9,630.17
+North Dakota,Emmons,North Central,Nonmetro,3463,29367,3.6,1510.44
+North Dakota,Foster,North Central,Nonmetro,3366,29710,1.3,635.45
+North Dakota,Golden Valley,North Central,Nonmetro,1822,27650,1,1000.79
+North Dakota,Grand Forks,North Central,Metro,68979,29088,3.6,1436.38
+North Dakota,Grant,North Central,Nonmetro,2362,32412,3.4,1659.14
+North Dakota,Griggs,North Central,Nonmetro,2329,29639,2,708.82
+North Dakota,Hettinger,North Central,Nonmetro,2621,28132,1.1,1132.22
+North Dakota,Kidder,North Central,Nonmetro,2430,32743,0.9,1351.19
+North Dakota,LaMoure,North Central,Nonmetro,4113,34471,1.9,1145.94
+North Dakota,Logan,North Central,Nonmetro,1945,32180,2.2,992.82
+North Dakota,McHenry,North Central,Nonmetro,5817,34169,3.1,1873.95
+North Dakota,McIntosh,North Central,Nonmetro,2759,28735,1.2,974.73
+North Dakota,McKenzie,North Central,Nonmetro,9615,37045,3,2760.32
+North Dakota,McLean,North Central,Nonmetro,9451,31777,1.6,2110.88
+North Dakota,Mercer,North Central,Nonmetro,8633,31759,3.2,1042.96
+North Dakota,Morton,North Central,Metro,28985,32614,3.2,1926.27
+North Dakota,Mountrail,North Central,Nonmetro,9253,38061,4.7,1825.3
+North Dakota,Nelson,North Central,Nonmetro,3048,32259,0.7,981.78
+North Dakota,Oliver,North Central,Metro,1819,32235,3.6,722.51
+North Dakota,Pembina,North Central,Nonmetro,7206,31244,3.5,1118.69
+North Dakota,Pierce,North Central,Nonmetro,4395,25029,0.9,1018.6
+North Dakota,Ramsey,North Central,Nonmetro,11566,29006,1.2,1186.85
+North Dakota,Ransom,North Central,Nonmetro,5453,30779,2,862.36
+North Dakota,Renville,North Central,Nonmetro,2562,31281,1.6,877.05
+North Dakota,Richland,North Central,Nonmetro,16317,28413,3,1435.78
+North Dakota,Rolette,North Central,Nonmetro,14498,16706,4.8,903.08
+North Dakota,Sargent,North Central,Nonmetro,3874,32280,1.2,858.51
+North Dakota,Sheridan,North Central,Nonmetro,1337,32095,2,972.38
+North Dakota,Sioux,North Central,Metro,4380,15557,20.3,1094.09
+North Dakota,Slope,North Central,Nonmetro,673,34597,0,1214.92
+North Dakota,Stark,North Central,Nonmetro,28628,35114,2.8,1334.74
+North Dakota,Steele,North Central,Nonmetro,1979,34774,4,712.22
+North Dakota,Stutsman,North Central,Nonmetro,21076,29490,2.5,2221.72
+North Dakota,Towner,North Central,Nonmetro,2294,33277,2.9,1024.56
+North Dakota,Traill,North Central,Nonmetro,8077,30213,2.7,861.95
+North Dakota,Walsh,North Central,Nonmetro,11005,30154,3.3,1281.93
+North Dakota,Ward,North Central,Nonmetro,67736,31215,2.6,2013.28
+North Dakota,Wells,North Central,Nonmetro,4204,30514,1.3,1271.05
+North Dakota,Williams,North Central,Nonmetro,29619,43946,1.7,2077.4
+Ohio,Adams,North Central,Nonmetro,28229,18556,13.4,583.87
+Ohio,Allen,North Central,Metro,105196,22922,9.2,402.5
+Ohio,Ashland,North Central,Nonmetro,53189,22928,7.8,422.95
+Ohio,Ashtabula,North Central,Nonmetro,99777,20378,8.9,701.93
+Ohio,Athens,North Central,Nonmetro,64974,17868,10.9,503.6
+Ohio,Auglaize,North Central,Nonmetro,45873,25727,5,401.39
+Ohio,Belmont,North Central,Metro,69560,23684,8.5,532.13
+Ohio,Brown,North Central,Metro,44247,22133,9.9,490.02
+Ohio,Butler,North Central,Metro,372538,27490,7.2,467.06
+Ohio,Carroll,North Central,Metro,28361,23706,7.1,394.61
+Ohio,Champaign,North Central,Nonmetro,39393,23513,9.1,428.67
+Ohio,Clark,North Central,Metro,136827,23445,10,397.47
+Ohio,Clermont,North Central,Metro,200285,29288,5.5,452.1
+Ohio,Clinton,North Central,Nonmetro,41892,23039,9.2,408.68
+Ohio,Columbiana,North Central,Nonmetro,105987,23348,9,531.89
+Ohio,Coshocton,North Central,Nonmetro,36724,20713,7.8,563.91
+Ohio,Crawford,North Central,Nonmetro,42725,22499,8.1,401.79
+Ohio,Cuyahoga,North Central,Metro,1263189,28215,10.6,457.19
+Ohio,Darke,North Central,Nonmetro,52356,22832,7.6,598.1
+Ohio,Defiance,North Central,Nonmetro,38669,24143,8.4,411.46
+Ohio,Delaware,North Central,Metro,185433,41824,3.2,443.1
+Ohio,Erie,North Central,Nonmetro,76141,27249,7.7,251.56
+Ohio,Fairfield,North Central,Metro,149112,28130,6.9,504.41
+Ohio,Fayette,North Central,Nonmetro,28769,21632,8.6,406.36
+Ohio,Franklin,North Central,Metro,1215761,29244,7,532.19
+Ohio,Fulton,North Central,Metro,42485,26470,6.7,405.44
+Ohio,Gallia,North Central,Nonmetro,30565,21195,7.5,466.53
+Ohio,Geauga,North Central,Metro,93874,37021,4.1,400.16
+Ohio,Greene,North Central,Metro,164192,31075,7.6,413.73
+Ohio,Guernsey,North Central,Nonmetro,39626,21564,11.7,522.25
+Ohio,Hamilton,North Central,Metro,804194,30360,8.8,405.91
+Ohio,Hancock,North Central,Nonmetro,75428,27129,6.9,531.36
+Ohio,Hardin,North Central,Nonmetro,31736,20332,9.6,470.41
+Ohio,Harrison,North Central,Nonmetro,15633,22197,5.6,402.34
+Ohio,Henry,North Central,Nonmetro,28015,25205,6.7,416.01
+Ohio,Highland,North Central,Nonmetro,43170,20240,11.5,553.08
+Ohio,Hocking,North Central,Metro,28914,21360,9.5,421.32
+Ohio,Holmes,North Central,Nonmetro,43436,18906,4.2,422.53
+Ohio,Huron,North Central,Nonmetro,58937,23158,7.2,491.5
+Ohio,Jackson,North Central,Nonmetro,32854,20697,11.5,420.3
+Ohio,Jefferson,North Central,Metro,68053,23188,8.8,408.33
+Ohio,Knox,North Central,Nonmetro,61004,23520,6.6,525.49
+Ohio,Lake,North Central,Metro,229437,30094,6,227.49
+Ohio,Lawrence,North Central,Metro,61827,21955,8,453.37
+Ohio,Licking,North Central,Metro,168693,27389,7.2,682.5
+Ohio,Logan,North Central,Nonmetro,45484,25428,7.6,458.43
+Ohio,Lorain,North Central,Metro,303152,26804,8.8,491.1
+Ohio,Lucas,North Central,Metro,436261,24816,11.1,340.86
+Ohio,Madison,North Central,Metro,43456,25159,5.9,465.88
+Ohio,Mahoning,North Central,Metro,234550,24056,9.5,411.62
+Ohio,Marion,North Central,Nonmetro,65943,20811,9.6,403.76
+Ohio,Medina,North Central,Metro,174831,31760,5,421.36
+Ohio,Meigs,North Central,Nonmetro,23473,19999,12.1,430.1
+Ohio,Mercer,North Central,Nonmetro,40863,24978,5.5,462.45
+Ohio,Miami,North Central,Metro,103517,26320,7.6,406.58
+Ohio,Monroe,North Central,Nonmetro,14547,22522,7.4,455.72
+Ohio,Montgomery,North Central,Metro,533763,25734,9.4,461.55
+Ohio,Morgan,North Central,Nonmetro,14913,20180,9.3,416.42
+Ohio,Morrow,North Central,Metro,34996,23420,7,406.08
+Ohio,Muskingum,North Central,Nonmetro,86016,21274,8.3,664.58
+Ohio,Noble,North Central,Nonmetro,14508,21788,7,398.01
+Ohio,Ottawa,North Central,Nonmetro,41162,29343,5.5,254.92
+Ohio,Paulding,North Central,Nonmetro,19165,23836,6.6,416.44
+Ohio,Perry,North Central,Metro,36025,20302,9.5,407.97
+Ohio,Pickaway,North Central,Metro,56515,24921,6.9,501.32
+Ohio,Pike,North Central,Nonmetro,28396,20790,13.4,440.28
+Ohio,Portage,North Central,Metro,161897,26042,8.7,487.38
+Ohio,Preble,North Central,Nonmetro,41682,23414,7.3,424.12
+Ohio,Putnam,North Central,Nonmetro,34184,26269,3.4,482.52
+Ohio,Richland,North Central,Metro,122312,22367,8.7,495.27
+Ohio,Ross,North Central,Nonmetro,77334,21365,11.3,689.19
+Ohio,Sandusky,North Central,Nonmetro,60187,23782,7.6,408.45
+Ohio,Scioto,North Central,Nonmetro,78017,19769,9.6,610.21
+Ohio,Seneca,North Central,Nonmetro,55929,23020,8.1,551.02
+Ohio,Shelby,North Central,Nonmetro,49067,26741,6.7,407.68
+Ohio,Stark,North Central,Metro,374979,25547,8.5,575.27
+Ohio,Summit,North Central,Metro,541847,28986,8.4,412.75
+Ohio,Trumbull,North Central,Metro,206373,23509,7.4,618.3
+Ohio,Tuscarawas,North Central,Nonmetro,92697,23314,7,567.64
+Ohio,Union,North Central,Metro,53470,28549,4.2,431.73
+Ohio,Van Wert,North Central,Nonmetro,28576,24422,7.5,409.16
+Ohio,Vinton,North Central,Nonmetro,13234,18330,12,412.36
+Ohio,Warren,North Central,Metro,219916,34271,6.1,401.31
+Ohio,Washington,North Central,Nonmetro,61351,24013,6.8,631.97
+Ohio,Wayne,North Central,Nonmetro,115371,23695,4.8,554.93
+Ohio,Williams,North Central,Nonmetro,37386,22234,7.1,420.97
+Ohio,Wood,North Central,Metro,128885,27477,7.2,617.21
+Ohio,Wyandot,North Central,Nonmetro,22467,24246,6.6,406.87
+Oklahoma,Adair,South,Nonmetro,22236,16247,7.9,573.48
+Oklahoma,Alfalfa,South,Nonmetro,5755,28233,4.9,866.46
+Oklahoma,Atoka,South,Nonmetro,13906,18810,8.7,975.52
+Oklahoma,Beaver,South,Nonmetro,5530,26258,3,1814.67
+Oklahoma,Beckham,South,Nonmetro,23300,25156,2.9,901.81
+Oklahoma,Blaine,South,Nonmetro,9810,19576,3,928.42
+Oklahoma,Bryan,South,Nonmetro,44003,20688,8.1,904.47
+Oklahoma,Caddo,South,Nonmetro,29495,20003,9.5,1278.29
+Oklahoma,Canadian,South,Metro,126193,28246,4.5,896.63
+Oklahoma,Carter,South,Nonmetro,48442,22870,6.1,822.18
+Oklahoma,Cherokee,South,Nonmetro,48097,19509,7.9,749.41
+Oklahoma,Choctaw,South,Nonmetro,15120,18269,8.9,770.36
+Oklahoma,Cimarron,South,Nonmetro,2341,26981,2.2,1834.74
+Oklahoma,Cleveland,South,Metro,268614,27745,4.9,538.77
+Oklahoma,Coal,South,Nonmetro,5812,22977,9.1,516.68
+Oklahoma,Comanche,South,Metro,125531,23264,8.6,1069.29
+Oklahoma,Cotton,South,Metro,6112,21640,9.2,632.65
+Oklahoma,Craig,South,Nonmetro,14744,19623,6.4,761.35
+Oklahoma,Creek,South,Metro,70761,23010,5.7,950.14
+Oklahoma,Custer,South,Nonmetro,28978,23044,3.7,988.82
+Oklahoma,Delaware,South,Nonmetro,41409,21736,9.2,738.18
+Oklahoma,Dewey,South,Nonmetro,4863,25942,2.7,999.48
+Oklahoma,Ellis,South,Nonmetro,4121,28417,5,1231.52
+Oklahoma,Garfield,South,Nonmetro,62192,24928,5.6,1058.47
+Oklahoma,Garvin,South,Nonmetro,27455,21644,4.4,802.12
+Oklahoma,Grady,South,Metro,53612,24965,4.3,1100.5
+Oklahoma,Grant,South,Nonmetro,4517,28552,3.6,1000.87
+Oklahoma,Greer,South,Nonmetro,6117,19552,4.4,639.32
+Oklahoma,Harmon,South,Nonmetro,2866,20891,8.7,537.19
+Oklahoma,Harper,South,Nonmetro,3766,24364,1.6,1039.02
+Oklahoma,Haskell,South,Nonmetro,12850,18858,8.7,576.52
+Oklahoma,Hughes,South,Nonmetro,13785,17723,7.1,804.65
+Oklahoma,Jackson,South,Nonmetro,26056,21923,7.6,802.65
+Oklahoma,Jefferson,South,Nonmetro,6333,19409,6.5,758.83
+Oklahoma,Johnston,South,Nonmetro,11022,20425,6.7,642.94
+Oklahoma,Kay,South,Nonmetro,45587,23044,7.8,919.73
+Oklahoma,Kingfisher,South,Nonmetro,15302,27733,3.6,898.16
+Oklahoma,Kiowa,South,Nonmetro,9302,23260,5.5,1015.23
+Oklahoma,Latimer,South,Nonmetro,10774,22343,7.8,722.08
+Oklahoma,Le Flore,South,Metro,49899,18881,9.4,1589.21
+Oklahoma,Lincoln,South,Metro,34504,23072,7.1,952.31
+Oklahoma,Logan,South,Metro,44493,27402,6,743.83
+Oklahoma,Love,South,Nonmetro,9663,20589,4,514
+Oklahoma,McClain,South,Metro,36512,26562,3.9,570.7
+Oklahoma,McCurtain,South,Nonmetro,33143,17898,8.3,1850.01
+Oklahoma,McIntosh,South,Nonmetro,20280,20599,10.8,618.5
+Oklahoma,Major,South,Nonmetro,7700,27877,5.4,954.99
+Oklahoma,Marshall,South,Nonmetro,16014,20339,7.6,371.08
+Oklahoma,Mayes,South,Nonmetro,41007,20884,7,655.39
+Oklahoma,Murray,South,Nonmetro,13733,23146,3.6,416.46
+Oklahoma,Muskogee,South,Nonmetro,70224,20516,8.2,810.45
+Oklahoma,Noble,South,Nonmetro,11506,25368,5.9,731.9
+Oklahoma,Nowata,South,Nonmetro,10555,20524,8.4,565.78
+Oklahoma,Okfuskee,South,Nonmetro,12248,16818,9.6,618.57
+Oklahoma,Oklahoma,South,Metro,754480,27401,6,708.82
+Oklahoma,Okmulgee,South,Metro,39446,20313,10.4,697.35
+Oklahoma,Osage,South,Metro,48054,22935,7.1,2246.36
+Oklahoma,Ottawa,South,Nonmetro,32085,18136,9.4,470.82
+Oklahoma,Pawnee,South,Metro,16499,22603,6.3,567.96
+Oklahoma,Payne,South,Nonmetro,79423,21469,6.3,684.7
+Oklahoma,Pittsburg,South,Nonmetro,44961,23311,6.2,1305.46
+Oklahoma,Pontotoc,South,Nonmetro,38055,21827,6.2,720.44
+Oklahoma,Pottawatomie,South,Nonmetro,71136,21974,6.8,787.67
+Oklahoma,Pushmataha,South,Nonmetro,11226,20802,10.6,1395.84
+Oklahoma,Roger Mills,South,Nonmetro,3780,26257,0.8,1141.14
+Oklahoma,Rogers,South,Metro,89190,28057,5.5,675.63
+Oklahoma,Seminole,South,Nonmetro,25481,19141,8.4,632.84
+Oklahoma,Sequoyah,South,Metro,41464,18451,9.8,673.27
+Oklahoma,Stephens,South,Nonmetro,44806,24291,6.6,870.24
+Oklahoma,Texas,South,Nonmetro,21588,21809,3.5,2041.26
+Oklahoma,Tillman,South,Nonmetro,7715,19057,7.1,871.13
+Oklahoma,Tulsa,South,Metro,623335,28350,6.5,570.25
+Oklahoma,Wagoner,South,Metro,75391,25535,6,561.56
+Oklahoma,Washington,South,Nonmetro,51760,28145,5.3,415.45
+Oklahoma,Washita,South,Nonmetro,11649,25493,3.5,1003.17
+Oklahoma,Woods,South,Nonmetro,9033,26700,2.8,1286.45
+Oklahoma,Woodward,South,Nonmetro,20986,26124,5.1,1242.4
+Oregon,Baker,West,Nonmetro,16052,24360,10.1,3068.36
+Oregon,Benton,West,Metro,86495,27888,8.6,675.94
+Oregon,Clackamas,West,Metro,389438,34047,8.3,1870.32
+Oregon,Clatsop,West,Nonmetro,37382,26294,7.6,829.05
+Oregon,Columbia,West,Metro,49389,25885,9.8,657.36
+Oregon,Coos,West,Nonmetro,62775,22667,11.7,1596.17
+Oregon,Crook,West,Nonmetro,20956,21496,13.5,2979.09
+Oregon,Curry,West,Nonmetro,22338,24682,11.3,1627.46
+Oregon,Deschutes,West,Metro,166622,29158,9.4,3018.19
+Oregon,Douglas,West,Nonmetro,107194,22591,12.2,5036.08
+Oregon,Gilliam,West,Nonmetro,1883,25227,9.2,1204.81
+Oregon,Grant,West,Nonmetro,7276,22538,9,4528.54
+Oregon,Harney,West,Nonmetro,7229,21040,16.1,10133.17
+Oregon,Hood River,West,Nonmetro,22749,27719,5.1,521.95
+Oregon,Jackson,West,Metro,208363,24605,10.8,2783.55
+Oregon,Jefferson,West,Nonmetro,22061,21341,14.4,1780.79
+Oregon,Josephine,West,Metro,83409,22470,12.3,1639.67
+Oregon,Klamath,West,Nonmetro,65972,22177,12.4,5941.05
+Oregon,Lake,West,Nonmetro,7842,20142,10.6,8138.98
+Oregon,Lane,West,Metro,357060,24960,9.9,4553.12
+Oregon,Lincoln,West,Nonmetro,46347,25124,7.9,979.77
+Oregon,Linn,West,Metro,118971,21706,10.6,2290.13
+Oregon,Malheur,West,Nonmetro,30551,16867,11.2,9887.53
+Oregon,Marion,West,Metro,323259,22490,10.7,1182.33
+Oregon,Morrow,West,Nonmetro,11204,20497,8.6,2031.61
+Oregon,Multnomah,West,Metro,768418,31544,8.8,431.3
+Oregon,Polk,West,Metro,77264,23967,10.8,740.79
+Oregon,Sherman,West,Nonmetro,1795,26178,7.9,823.69
+Oregon,Tillamook,West,Nonmetro,25430,22426,7.8,1102.58
+Oregon,Umatilla,West,Nonmetro,76738,21214,9.4,3215.51
+Oregon,Union,West,Nonmetro,25745,23764,7.1,2036.61
+Oregon,Wallowa,West,Nonmetro,6857,24386,9.5,3146.19
+Oregon,Wasco,West,Nonmetro,25492,22828,9,2381.52
+Oregon,Washington,West,Metro,556210,32369,7.6,724.23
+Oregon,Wheeler,West,Nonmetro,1348,23535,8.5,1714.75
+Oregon,Yamhill,West,Metro,101119,25047,9.7,715.86
+Pennsylvania,Adams,Northeast,Metro,101767,27870,5.7,518.67
+Pennsylvania,Allegheny,Northeast,Metro,1231145,32848,7.1,730.08
+Pennsylvania,Armstrong,Northeast,Metro,67979,24391,8.5,653.2
+Pennsylvania,Beaver,Northeast,Metro,169785,27233,6.8,434.71
+Pennsylvania,Bedford,Northeast,Nonmetro,49086,23195,7.3,1012.3
+Pennsylvania,Berks,Northeast,Metro,413965,27146,9,856.51
+Pennsylvania,Blair,Northeast,Metro,126448,23865,6.4,525.8
+Pennsylvania,Bradford,Northeast,Nonmetro,62228,25577,5.6,1147.4
+Pennsylvania,Bucks,Northeast,Metro,626583,38795,7,604.31
+Pennsylvania,Butler,Northeast,Metro,185689,32301,5.9,788.6
+Pennsylvania,Cambria,Northeast,Metro,139381,23410,8.5,688.35
+Pennsylvania,Cameron,Northeast,Nonmetro,4869,25240,4.5,396.23
+Pennsylvania,Carbon,Northeast,Metro,64634,25398,8.6,381.46
+Pennsylvania,Centre,Northeast,Metro,157823,26492,5.1,1109.92
+Pennsylvania,Chester,Northeast,Metro,509797,42556,5.9,750.51
+Pennsylvania,Clarion,Northeast,Nonmetro,39454,22136,8.1,600.83
+Pennsylvania,Clearfield,Northeast,Nonmetro,81343,21362,7.8,1144.72
+Pennsylvania,Clinton,Northeast,Nonmetro,39614,21937,6.1,887.98
+Pennsylvania,Columbia,Northeast,Metro,66912,23580,5.7,483.11
+Pennsylvania,Crawford,Northeast,Nonmetro,87343,22726,7.2,1012.3
+Pennsylvania,Cumberland,Northeast,Metro,241427,32398,5.6,545.46
+Pennsylvania,Dauphin,Northeast,Metro,271094,29461,7.1,525.05
+Pennsylvania,Delaware,Northeast,Metro,561683,34064,8.2,183.84
+Pennsylvania,Elk,Northeast,Nonmetro,31370,24647,5.2,827.36
+Pennsylvania,Erie,Northeast,Metro,279858,24856,8,799.15
+Pennsylvania,Fayette,Northeast,Metro,134851,22014,8.4,790.34
+Pennsylvania,Forest,Northeast,Nonmetro,7581,13645,4.8,427.19
+Pennsylvania,Franklin,Northeast,Metro,152285,26025,6.9,772.22
+Pennsylvania,Fulton,Northeast,Nonmetro,14694,23435,7.5,437.55
+Pennsylvania,Greene,Northeast,Nonmetro,37938,23232,6.4,575.95
+Pennsylvania,Huntingdon,Northeast,Nonmetro,45906,21714,8.1,874.64
+Pennsylvania,Indiana,Northeast,Nonmetro,87895,23450,7.8,827.03
+Pennsylvania,Jefferson,Northeast,Nonmetro,44756,22282,6.4,652.43
+Pennsylvania,Juniata,Northeast,Nonmetro,24829,22170,5.7,391.35
+Pennsylvania,Lackawanna,Northeast,Metro,213459,25608,6.9,459.08
+Pennsylvania,Lancaster,Northeast,Metro,530216,27158,6.1,943.81
+Pennsylvania,Lawrence,Northeast,Nonmetro,89162,24450,7,358.18
+Pennsylvania,Lebanon,Northeast,Metro,135776,26526,6.9,361.83
+Pennsylvania,Lehigh,Northeast,Metro,356756,28688,8.5,345.17
+Pennsylvania,Luzerne,Northeast,Metro,320095,25224,7.8,890.33
+Pennsylvania,Lycoming,Northeast,Metro,116656,24194,7.7,1228.59
+Pennsylvania,McKean,Northeast,Nonmetro,42884,23554,9.1,979.2
+Pennsylvania,Mercer,Northeast,Metro,115320,23683,6.8,672.58
+Pennsylvania,Mifflin,Northeast,Nonmetro,46675,20769,6.4,411.03
+Pennsylvania,Monroe,Northeast,Metro,167881,25022,12,608.29
+Pennsylvania,Montgomery,Northeast,Metro,812970,42275,6.4,483.04
+Pennsylvania,Montour,Northeast,Metro,18508,30272,6.6,130.24
+Pennsylvania,Northampton,Northeast,Metro,299616,30176,7.3,369.67
+Pennsylvania,Northumberland,Northeast,Nonmetro,94006,23291,7.2,458.37
+Pennsylvania,Perry,Northeast,Metro,45677,27019,6.3,551.45
+Pennsylvania,Philadelphia,Northeast,Metro,1555072,22919,13.9,134.1
+Pennsylvania,Pike,Northeast,Metro,56632,28533,11.6,544.96
+Pennsylvania,Potter,Northeast,Nonmetro,17377,22318,6.9,1081.32
+Pennsylvania,Schuylkill,Northeast,Nonmetro,146360,23682,8.8,778.63
+Pennsylvania,Snyder,Northeast,Nonmetro,40046,23836,5,328.71
+Pennsylvania,Somerset,Northeast,Nonmetro,76617,22980,6.9,1074.37
+Pennsylvania,Sullivan,Northeast,Nonmetro,6381,25054,8.7,449.94
+Pennsylvania,Susquehanna,Northeast,Nonmetro,42369,25958,7.7,823.44
+Pennsylvania,Tioga,Northeast,Nonmetro,42284,23980,7.4,1133.79
+Pennsylvania,Union,Northeast,Nonmetro,44958,22863,6.1,315.98
+Pennsylvania,Venango,Northeast,Nonmetro,53906,23380,8.1,674.28
+Pennsylvania,Warren,Northeast,Nonmetro,40962,24830,6.6,884.14
+Pennsylvania,Washington,Northeast,Metro,208226,30605,6.5,856.99
+Pennsylvania,Wayne,Northeast,Nonmetro,51642,24539,7.8,725.6
+Pennsylvania,Westmoreland,Northeast,Metro,361251,29472,5.6,1027.55
+Pennsylvania,Wyoming,Northeast,Metro,28147,26087,7.6,397.32
+Pennsylvania,York,Northeast,Metro,439660,28403,7.3,904.18
+Rhode Island,Bristol,Northeast,Metro,49176,39196,6.8,24.16
+Rhode Island,Kent,Northeast,Metro,164958,34824,8.2,168.53
+Rhode Island,Newport,Northeast,Metro,82663,40320,6.9,102.39
+Rhode Island,Providence,Northeast,Metro,630459,27162,9.5,409.5
+Rhode Island,Washington,Northeast,Metro,126405,36851,6.4,329.24
+South Carolina,Abbeville,South,Nonmetro,24997,18112,10.7,490.48
+South Carolina,Aiken,South,Metro,163908,25321,9.9,1071.03
+South Carolina,Allendale,South,Nonmetro,9838,12199,22.6,408.09
+South Carolina,Anderson,South,Metro,191215,22400,9.2,715.43
+South Carolina,Bamberg,South,Nonmetro,15432,18215,10.9,393.37
+South Carolina,Barnwell,South,Nonmetro,22098,19026,14.7,548.39
+South Carolina,Beaufort,South,Metro,171420,32401,7.2,576.28
+South Carolina,Berkeley,South,Metro,193613,24826,9.9,1098.86
+South Carolina,Calhoun,South,Metro,14958,24900,8.6,381.15
+South Carolina,Charleston,South,Metro,372904,32162,7.7,916.09
+South Carolina,Cherokee,South,Nonmetro,55863,19279,10.6,392.66
+South Carolina,Chester,South,Metro,32556,18819,13.8,580.66
+South Carolina,Chesterfield,South,Nonmetro,46192,17840,10.3,799.08
+South Carolina,Clarendon,South,Nonmetro,34178,18535,16.2,606.94
+South Carolina,Colleton,South,Nonmetro,38004,19015,12.4,1056.49
+South Carolina,Darlington,South,Metro,67922,19810,15.9,561.15
+South Carolina,Dillon,South,Nonmetro,31435,14736,13.2,404.87
+South Carolina,Dorchester,South,Metro,145715,25223,8,573.23
+South Carolina,Edgefield,South,Metro,26466,21723,8.9,500.41
+South Carolina,Fairfield,South,Metro,23108,20401,12.8,686.28
+South Carolina,Florence,South,Metro,138330,22877,12.1,799.96
+South Carolina,Georgetown,South,Nonmetro,60572,25216,11.2,813.55
+South Carolina,Greenville,South,Metro,474903,27200,7.6,785.12
+South Carolina,Greenwood,South,Nonmetro,69771,21287,12.9,454.73
+South Carolina,Hampton,South,Nonmetro,20473,20046,11,559.9
+South Carolina,Horry,South,Metro,290730,24094,8.7,1133.9
+South Carolina,Jasper,South,Metro,26549,17565,11.9,655.32
+South Carolina,Kershaw,South,Metro,62722,22434,10.5,726.56
+South Carolina,Lancaster,South,Metro,81263,22647,9.9,549.16
+South Carolina,Laurens,South,Metro,66389,20072,10.7,713.8
+South Carolina,Lee,South,Nonmetro,18461,15662,14.9,410.18
+South Carolina,Lexington,South,Metro,273843,27248,7.5,698.91
+South Carolina,McCormick,South,Nonmetro,9895,22201,14.3,359.13
+South Carolina,Marion,South,Nonmetro,32167,17553,13.9,489.23
+South Carolina,Marlboro,South,Nonmetro,27993,15682,15.5,479.67
+South Carolina,Newberry,South,Nonmetro,37690,21267,10.2,630.04
+South Carolina,Oconee,South,Nonmetro,74949,24666,10.4,626.33
+South Carolina,Orangeburg,South,Nonmetro,90575,17889,12.8,1106.1
+South Carolina,Pickens,South,Metro,120124,21222,9.2,496.41
+South Carolina,Richland,South,Metro,397899,26026,9.4,757.07
+South Carolina,Saluda,South,Metro,20000,20430,9,452.78
+South Carolina,Spartanburg,South,Metro,291240,22618,8.9,807.93
+South Carolina,Sumter,South,Metro,107777,20806,12.4,665.07
+South Carolina,Union,South,Metro,28125,19087,12.3,514.17
+South Carolina,Williamsburg,South,Nonmetro,33238,16344,11.6,934.16
+South Carolina,York,South,Metro,240076,27868,8.9,680.6
+South Dakota,Aurora,North Central,Nonmetro,2729,25965,1.9,708.43
+South Dakota,Beadle,North Central,Nonmetro,18168,24662,2.9,1258.71
+South Dakota,Bennett,North Central,Nonmetro,3438,16549,14.7,1184.71
+South Dakota,Bon Homme,North Central,Nonmetro,7013,22165,0.9,563.7
+South Dakota,Brookings,North Central,Nonmetro,33046,25727,3.1,792.21
+South Dakota,Brown,North Central,Nonmetro,38060,28841,2.5,1712.98
+South Dakota,Brule,North Central,Nonmetro,5330,22591,2.6,817.24
+South Dakota,Buffalo,North Central,Nonmetro,2038,11372,16.3,471.38
+South Dakota,Butte,North Central,Nonmetro,10292,23267,3,2249.9
+South Dakota,Campbell,North Central,Nonmetro,1548,30998,1.4,733.68
+South Dakota,Charles Mix,North Central,Nonmetro,9239,20814,5.1,1097.49
+South Dakota,Clark,North Central,Nonmetro,3625,25250,2.8,957.6
+South Dakota,Clay,North Central,Nonmetro,14011,21121,6.8,412.19
+South Dakota,Codington,North Central,Nonmetro,27750,26767,2.9,688.5
+South Dakota,Corson,North Central,Nonmetro,4149,13848,29.4,2469.69
+South Dakota,Custer,North Central,Metro,8394,29934,5.2,1557
+South Dakota,Davison,North Central,Nonmetro,19787,25881,3.3,435.56
+South Dakota,Day,North Central,Nonmetro,5618,25844,3.9,1027.87
+South Dakota,Deuel,North Central,Nonmetro,4341,30511,3.1,622.69
+South Dakota,Dewey,North Central,Nonmetro,5579,16216,24.6,2302.49
+South Dakota,Douglas,North Central,Nonmetro,2973,29235,0.4,431.8
+South Dakota,Edmunds,North Central,Nonmetro,4018,27487,1.8,1125.96
+South Dakota,Fall River,North Central,Nonmetro,6906,24653,4.1,1739.92
+South Dakota,Faulk,North Central,Nonmetro,2359,26958,0.7,981.75
+South Dakota,Grant,North Central,Nonmetro,7227,26741,4.1,681.46
+South Dakota,Gregory,North Central,Nonmetro,4226,24035,2.1,1014.96
+South Dakota,Haakon,North Central,Nonmetro,2083,23599,2.5,1810.53
+South Dakota,Hamlin,North Central,Nonmetro,5982,26153,2.5,507.23
+South Dakota,Hand,North Central,Nonmetro,3375,29723,1.7,1436.61
+South Dakota,Hanson,North Central,Nonmetro,3386,23656,1.1,434.51
+South Dakota,Harding,North Central,Nonmetro,1328,25087,1.4,2671.38
+South Dakota,Hughes,North Central,Nonmetro,17466,29642,3.1,741.56
+South Dakota,Hutchinson,North Central,Nonmetro,7226,27880,3,812.9
+South Dakota,Hyde,North Central,Nonmetro,1413,26239,1.8,860.52
+South Dakota,Jackson,North Central,Nonmetro,3237,19216,17.4,1863.91
+South Dakota,Jerauld,North Central,Nonmetro,2031,34277,0.9,526.23
+South Dakota,Jones,North Central,Nonmetro,781,26103,3.6,969.68
+South Dakota,Kingsbury,North Central,Nonmetro,5107,29747,2,832.24
+South Dakota,Lake,North Central,Nonmetro,12086,29610,4.4,563.28
+South Dakota,Lawrence,North Central,Nonmetro,24645,27083,3.8,800.04
+South Dakota,Lincoln,North Central,Metro,49874,35559,1.9,577.28
+South Dakota,Lyman,North Central,Nonmetro,3837,20912,7.4,1641.94
+South Dakota,McCook,North Central,Metro,5613,30086,2.1,574.2
+South Dakota,McPherson,North Central,Nonmetro,2263,22263,6.7,1136.64
+South Dakota,Marshall,North Central,Nonmetro,4701,25161,0.7,838.07
+South Dakota,Meade,North Central,Metro,26381,27123,2.3,3470.98
+South Dakota,Mellette,North Central,Nonmetro,2086,14123,12,1307.31
+South Dakota,Miner,North Central,Nonmetro,2306,30204,4.1,570.31
+South Dakota,Minnehaha,North Central,Metro,178942,27387,4.4,807.15
+South Dakota,Moody,North Central,Nonmetro,6439,26918,6.1,519.39
+South Dakota,Pennington,North Central,Metro,106085,27298,4.8,2776.55
+South Dakota,Perkins,North Central,Nonmetro,2981,27174,4.5,2870.48
+South Dakota,Potter,North Central,Nonmetro,2307,29158,0.5,861.14
+South Dakota,Roberts,North Central,Nonmetro,10318,23010,7.6,1101.04
+South Dakota,Sanborn,North Central,Nonmetro,2339,29952,3.4,569.32
+South Dakota,Spink,North Central,Nonmetro,6570,28165,1.1,1503.93
+South Dakota,Stanley,North Central,Nonmetro,2962,30597,1.4,1444.43
+South Dakota,Sully,North Central,Nonmetro,1469,37078,1.7,1006.82
+South Dakota,Todd,North Central,Nonmetro,9942,11616,25.4,1388.56
+South Dakota,Tripp,North Central,Nonmetro,5504,24560,2.1,1612.45
+South Dakota,Turner,North Central,Metro,8302,26958,2.5,617.06
+South Dakota,Union,North Central,Metro,14842,36730,2.9,460.54
+South Dakota,Walworth,North Central,Nonmetro,5495,25553,5.8,708.63
+South Dakota,Yankton,North Central,Nonmetro,22636,27044,3.6,521.16
+South Dakota,Ziebach,North Central,Nonmetro,2833,12877,27.4,1961.27
+Tennessee,Anderson,South,Metro,75430,25590,7.7,337.16
+Tennessee,Bedford,South,Nonmetro,45986,20390,7.7,473.64
+Tennessee,Benton,South,Nonmetro,16261,19285,14.3,394.14
+Tennessee,Bledsoe,South,Nonmetro,13686,18061,9.6,406.43
+Tennessee,Blount,South,Metro,125188,25916,7.8,558.71
+Tennessee,Bradley,South,Metro,102062,23336,11.2,328.76
+Tennessee,Campbell,South,Metro,40176,18117,9.9,480.19
+Tennessee,Cannon,South,Metro,13787,21897,12.9,265.64
+Tennessee,Carroll,South,Nonmetro,28353,19086,11.5,599.25
+Tennessee,Carter,South,Metro,56941,19166,8.1,341.2
+Tennessee,Cheatham,South,Metro,39422,23922,7.8,302.44
+Tennessee,Chester,South,Metro,17324,19440,13.5,285.74
+Tennessee,Claiborne,South,Nonmetro,31748,18817,8.2,434.58
+Tennessee,Clay,South,Nonmetro,7780,16881,7.2,236.54
+Tennessee,Cocke,South,Nonmetro,35321,18691,11.1,434.57
+Tennessee,Coffee,South,Nonmetro,53448,21680,8.8,428.96
+Tennessee,Crockett,South,Metro,14600,19178,7.4,265.54
+Tennessee,Cumberland,South,Nonmetro,57455,21770,9,681.03
+Tennessee,Davidson,South,Metro,658506,29589,7.2,504.03
+Tennessee,Decatur,South,Nonmetro,11686,23715,10.1,333.85
+Tennessee,DeKalb,South,Nonmetro,19038,25573,7.6,304.35
+Tennessee,Dickson,South,Metro,50472,22369,7.5,489.9
+Tennessee,Dyer,South,Nonmetro,38054,23044,6.6,512.33
+Tennessee,Fayette,South,Metro,38814,29431,8.5,704.79
+Tennessee,Fentress,South,Nonmetro,17931,16539,10.4,498.61
+Tennessee,Franklin,South,Nonmetro,41138,22889,9.5,554.54
+Tennessee,Gibson,South,Nonmetro,49572,20704,9.5,602.74
+Tennessee,Giles,South,Nonmetro,28949,20765,9.9,610.93
+Tennessee,Grainger,South,Metro,22736,18974,9.5,280.6
+Tennessee,Greene,South,Nonmetro,68576,20398,8.7,622.17
+Tennessee,Grundy,South,Nonmetro,13524,16356,10.2,360.53
+Tennessee,Hamblen,South,Metro,62999,20246,10.1,161.18
+Tennessee,Hamilton,South,Metro,348121,27518,8,542.43
+Tennessee,Hancock,South,Nonmetro,6642,15169,12.1,222.34
+Tennessee,Hardeman,South,Nonmetro,26253,15671,18.7,667.77
+Tennessee,Hardin,South,Nonmetro,25900,20740,13.9,577.32
+Tennessee,Hawkins,South,Metro,56595,20338,10,486.98
+Tennessee,Haywood,South,Nonmetro,18248,19027,10.5,533.11
+Tennessee,Henderson,South,Nonmetro,28013,19269,9.4,520.07
+Tennessee,Henry,South,Nonmetro,32269,22207,9.7,562.1
+Tennessee,Hickman,South,Metro,24283,17957,8.6,612.5
+Tennessee,Houston,South,Nonmetro,8290,18234,8.1,200.29
+Tennessee,Humphreys,South,Nonmetro,18240,22329,8.9,530.98
+Tennessee,Jackson,South,Nonmetro,11496,17788,14.5,308.32
+Tennessee,Jefferson,South,Metro,52490,22383,9.1,274.08
+Tennessee,Johnson,South,Nonmetro,18017,16916,9,298.48
+Tennessee,Knox,South,Metro,444348,28337,6.5,508.22
+Tennessee,Lake,South,Nonmetro,7687,12810,10.1,165.78
+Tennessee,Lauderdale,South,Nonmetro,27427,15769,13.4,471.99
+Tennessee,Lawrence,South,Nonmetro,42226,19214,10.8,617.13
+Tennessee,Lewis,South,Nonmetro,11944,18236,7.7,282.09
+Tennessee,Lincoln,South,Nonmetro,33550,21655,7.6,570.34
+Tennessee,Loudon,South,Metro,50229,27466,8.9,229.22
+Tennessee,McMinn,South,Nonmetro,52506,20215,9.3,430.13
+Tennessee,McNairy,South,Nonmetro,26103,17751,14.9,562.86
+Tennessee,Macon,South,Metro,22761,17882,7.4,307.14
+Tennessee,Madison,South,Metro,98184,23467,8.4,557.12
+Tennessee,Marion,South,Metro,28306,21784,6.7,498.16
+Tennessee,Marshall,South,Nonmetro,31159,21962,8.4,375.46
+Tennessee,Maury,South,Metro,84089,24155,7.7,613.14
+Tennessee,Meigs,South,Nonmetro,11716,19212,15,195.12
+Tennessee,Monroe,South,Nonmetro,45293,19351,12.5,635.57
+Tennessee,Montgomery,South,Metro,185980,22916,9.7,539.18
+Tennessee,Moore,South,Nonmetro,6351,28841,6.5,129.22
+Tennessee,Morgan,South,Metro,21794,17646,8.5,522.18
+Tennessee,Obion,South,Nonmetro,31129,21829,11.2,544.73
+Tennessee,Overton,South,Nonmetro,22100,19244,7.7,433.48
+Tennessee,Perry,South,Nonmetro,7864,18340,9.5,414.73
+Tennessee,Pickett,South,Nonmetro,5097,20526,4.9,162.98
+Tennessee,Polk,South,Metro,16687,21404,10.9,434.68
+Tennessee,Putnam,South,Nonmetro,73810,21835,8.4,401.1
+Tennessee,Rhea,South,Nonmetro,32394,19927,11.1,315.38
+Tennessee,Roane,South,Metro,53162,23287,9.8,360.71
+Tennessee,Robertson,South,Metro,67426,24340,8.4,476.29
+Tennessee,Rutherford,South,Metro,282558,25663,6.8,619.36
+Tennessee,Scott,South,Nonmetro,22043,18709,14.1,532.3
+Tennessee,Sequatchie,South,Metro,14592,21818,9,265.86
+Tennessee,Sevier,South,Nonmetro,93617,22483,7.4,592.5
+Tennessee,Shelby,South,Metro,937750,26285,10.3,763.17
+Tennessee,Smith,South,Metro,19136,22854,5.2,314.29
+Tennessee,Stewart,South,Nonmetro,13286,21475,10.1,459.33
+Tennessee,Sullivan,South,Metro,156752,24544,8.2,413.36
+Tennessee,Sumner,South,Metro,169623,28883,6,529.45
+Tennessee,Tipton,South,Metro,61674,23572,10.6,458.37
+Tennessee,Trousdale,South,Metro,7884,20937,10.5,114.19
+Tennessee,Unicoi,South,Metro,18069,20187,13.7,186.17
+Tennessee,Union,South,Metro,19096,18654,9.5,223.55
+Tennessee,Van Buren,South,Nonmetro,5596,20351,11.2,273.42
+Tennessee,Warren,South,Nonmetro,40015,20534,8,432.68
+Tennessee,Washington,South,Metro,125317,26176,6.2,326.47
+Tennessee,Wayne,South,Nonmetro,16897,16333,12.2,734.1
+Tennessee,Weakley,South,Nonmetro,34415,19694,11.2,580.36
+Tennessee,White,South,Nonmetro,26252,17451,10.5,376.67
+Tennessee,Williamson,South,Metro,199456,44671,4.2,582.6
+Tennessee,Wilson,South,Metro,122445,28994,6.5,570.83
+Texas,Anderson,South,Nonmetro,57915,17876,4.3,1062.6
+Texas,Andrews,South,Nonmetro,16775,29423,3.9,1500.71
+Texas,Angelina,South,Nonmetro,87748,21688,9.1,797.78
+Texas,Aransas,South,Metro,24292,28472,6.8,252.07
+Texas,Archer,South,Metro,8779,29380,3,903.11
+Texas,Armstrong,South,Metro,1943,28669,1.1,909.11
+Texas,Atascosa,South,Metro,47050,22493,6.5,1219.54
+Texas,Austin,South,Metro,28886,27658,6.2,646.51
+Texas,Bailey,South,Nonmetro,7126,17007,4.3,826.8
+Texas,Bandera,South,Metro,20796,26663,4.8,790.96
+Texas,Bastrop,South,Metro,76948,24812,9.8,888.15
+Texas,Baylor,South,Nonmetro,3628,32907,1.4,867.48
+Texas,Bee,South,Nonmetro,32659,17209,7,880.24
+Texas,Bell,South,Metro,326041,23535,9.5,1051.02
+Texas,Bexar,South,Metro,1825502,24735,7.4,1239.82
+Texas,Blanco,South,Nonmetro,10723,29148,6.4,709.25
+Texas,Borden,South,Nonmetro,705,44591,0.7,897.44
+Texas,Bosque,South,Nonmetro,17971,24658,7.9,982.98
+Texas,Bowie,South,Metro,93155,22685,8.5,885.01
+Texas,Brazoria,South,Metro,331741,30634,5.4,1357.7
+Texas,Brazos,South,Metro,205271,22648,6.4,585.45
+Texas,Brewster,South,Nonmetro,9235,27265,4.9,6183.73
+Texas,Briscoe,South,Nonmetro,1670,22323,4.7,900
+Texas,Brooks,South,Nonmetro,7221,13179,19.8,943.36
+Texas,Brown,South,Nonmetro,37833,21916,4.3,944.43
+Texas,Burleson,South,Metro,17293,24894,7.5,659.03
+Texas,Burnet,South,Nonmetro,44144,26578,5.1,994.26
+Texas,Caldwell,South,Metro,39347,20667,5.2,545.26
+Texas,Calhoun,South,Nonmetro,21666,24372,7.2,506.84
+Texas,Callahan,South,Metro,13532,22387,5.4,899.37
+Texas,Cameron,South,Metro,417947,15105,10,890.92
+Texas,Camp,South,Nonmetro,12516,19738,8.5,195.83
+Texas,Carson,South,Metro,6068,28400,1.7,920.22
+Texas,Cass,South,Nonmetro,30328,20991,9.2,936.96
+Texas,Castro,South,Nonmetro,7948,21068,4.7,894.43
+Texas,Chambers,South,Metro,37251,30572,7.8,597.14
+Texas,Cherokee,South,Nonmetro,51167,19420,6.4,1052.91
+Texas,Childress,South,Nonmetro,7059,19861,5.2,696.41
+Texas,Clay,South,Metro,10479,26339,6.8,1088.72
+Texas,Cochran,South,Nonmetro,2993,18968,8.5,775.15
+Texas,Coke,South,Nonmetro,3238,29355,3.1,911.47
+Texas,Coleman,South,Nonmetro,8536,20085,8.2,1261.95
+Texas,Collin,South,Metro,862215,38883,4.9,841.23
+Texas,Collingsworth,South,Nonmetro,3058,20269,5.2,918.44
+Texas,Colorado,South,Nonmetro,20757,25578,4.2,960.27
+Texas,Comal,South,Metro,119632,32838,4.9,559.48
+Texas,Comanche,South,Nonmetro,13623,19743,4.5,937.75
+Texas,Concho,South,Nonmetro,4086,15820,2.8,983.8
+Texas,Cooke,South,Nonmetro,38761,26742,7,874.76
+Texas,Coryell,South,Metro,76128,19760,9.5,1052.07
+Texas,Cottle,South,Nonmetro,1510,18926,7.5,900.56
+Texas,Crane,South,Nonmetro,4730,23808,5.2,785.07
+Texas,Crockett,South,Nonmetro,3699,26675,1.8,2807.33
+Texas,Crosby,South,Metro,6007,18692,10,900.2
+Texas,Culberson,South,Nonmetro,2296,17340,6.5,3812.8
+Texas,Dallam,South,Nonmetro,7014,19997,5.6,1503.26
+Texas,Dallas,South,Metro,2485003,27605,7.6,871.28
+Texas,Dawson,South,Nonmetro,13542,19889,9.5,900.31
+Texas,Deaf Smith,South,Nonmetro,19245,18846,5.4,1496.87
+Texas,Delta,South,Nonmetro,5223,20704,13.6,256.83
+Texas,Denton,South,Metro,731851,34914,5.7,878.43
+Texas,DeWitt,South,Nonmetro,20540,28418,6.8,908.98
+Texas,Dickens,South,Nonmetro,2281,20659,13.6,901.72
+Texas,Dimmit,South,Nonmetro,10682,21174,10.3,1328.88
+Texas,Donley,South,Nonmetro,3588,20204,3.9,926.89
+Texas,Duval,South,Nonmetro,11577,20752,10.9,1793.48
+Texas,Eastland,South,Nonmetro,18328,22135,4.4,926.49
+Texas,Ector,South,Metro,149557,26135,5.2,897.69
+Texas,Edwards,South,Nonmetro,1906,27893,4.9,2117.86
+Texas,Ellis,South,Metro,157058,26357,6.5,935.49
+Texas,El Paso,South,Metro,831095,18880,8.4,1012.69
+Texas,Erath,South,Nonmetro,40039,21903,4.1,1083.07
+Texas,Falls,South,Metro,17410,16739,7.2,765.48
+Texas,Fannin,South,Nonmetro,33748,20545,6.7,890.84
+Texas,Fayette,South,Nonmetro,24849,28458,1.8,950.01
+Texas,Fisher,South,Nonmetro,3858,26855,7.2,898.94
+Texas,Floyd,South,Nonmetro,6178,22195,8,992.14
+Texas,Foard,South,Nonmetro,1197,22871,9.7,704.4
+Texas,Fort Bend,South,Metro,658331,35962,5.1,861.48
+Texas,Franklin,South,Nonmetro,10599,26653,6.6,284.39
+Texas,Freestone,South,Nonmetro,19586,24087,4.9,877.74
+Texas,Frio,South,Nonmetro,18168,17017,5.2,1133.5
+Texas,Gaines,South,Nonmetro,18916,22744,4,1502.38
+Texas,Galveston,South,Metro,308163,31585,7.5,378.36
+Texas,Garza,South,Nonmetro,6410,18125,2,893.41
+Texas,Gillespie,South,Nonmetro,25398,30859,6.8,1058.21
+Texas,Glasscock,South,Nonmetro,1180,35054,2.5,900.22
+Texas,Goliad,South,Metro,7410,29513,9.3,852.01
+Texas,Gonzales,South,Nonmetro,20172,21185,6.5,1066.69
+Texas,Gray,South,Nonmetro,22983,21555,5.4,925.97
+Texas,Grayson,South,Metro,122780,25033,7.8,932.8
+Texas,Gregg,South,Metro,123178,24364,5.9,273.3
+Texas,Grimes,South,Nonmetro,26961,20891,6.2,787.46
+Texas,Guadalupe,South,Metro,143460,26928,5.7,711.3
+Texas,Hale,South,Nonmetro,35504,17910,8.1,1004.68
+Texas,Hall,South,Nonmetro,3203,17378,11.5,883.49
+Texas,Hamilton,South,Nonmetro,8266,24518,5.9,835.91
+Texas,Hansford,South,Nonmetro,5559,22867,2.3,919.81
+Texas,Hardeman,South,Nonmetro,3992,20374,5.9,695.11
+Texas,Hardin,South,Metro,55375,26844,5.5,890.57
+Texas,Harris,South,Metro,4356362,29047,7.5,1703.48
+Texas,Harrison,South,Nonmetro,66417,24114,7.7,899.95
+Texas,Hartley,South,Nonmetro,6121,21740,2.1,1462.03
+Texas,Haskell,South,Nonmetro,5853,22140,6.9,903.13
+Texas,Hays,South,Metro,177562,27398,6.7,677.98
+Texas,Hemphill,South,Nonmetro,4115,30082,3.7,906.29
+Texas,Henderson,South,Nonmetro,79016,22613,7.8,873.75
+Texas,Hidalgo,South,Metro,819217,14689,9.9,1570.87
+Texas,Hill,South,Nonmetro,34923,21281,8.9,958.86
+Texas,Hockley,South,Nonmetro,23322,22609,6.4,908.39
+Texas,Hood,South,Metro,53171,30478,5,420.64
+Texas,Hopkins,South,Nonmetro,35645,22453,7.1,767.17
+Texas,Houston,South,Nonmetro,22949,17570,6.4,1230.91
+Texas,Howard,South,Nonmetro,36105,22049,6.4,900.79
+Texas,Hudspeth,South,Metro,3330,15990,5.7,4570.98
+Texas,Hunt,South,Metro,88052,21888,11.4,840.32
+Texas,Hutchinson,South,Nonmetro,21858,24875,5.3,887.42
+Texas,Irion,South,Metro,1644,30963,4.4,1051.56
+Texas,Jack,South,Nonmetro,8946,23573,5.6,910.66
+Texas,Jackson,South,Nonmetro,14486,25687,5.2,829.44
+Texas,Jasper,South,Nonmetro,35768,20121,11.4,938.85
+Texas,Jeff Davis,South,Nonmetro,2232,26693,7.1,2264.56
+Texas,Jefferson,South,Metro,252872,24154,8.8,876.3
+Texas,Jim Hogg,South,Nonmetro,5239,17122,16.5,1136.14
+Texas,Jim Wells,South,Nonmetro,41461,21798,6.6,864.97
+Texas,Johnson,South,Metro,155450,25310,7.3,724.69
+Texas,Jones,South,Metro,19978,15006,4.2,928.55
+Texas,Karnes,South,Nonmetro,14879,25868,4.8,747.56
+Texas,Kaufman,South,Metro,109289,24944,8.7,780.7
+Texas,Kendall,South,Metro,37361,36126,4.5,662.45
+Texas,Kenedy,South,Nonmetro,565,14251,0,1458.33
+Texas,Kent,South,Nonmetro,821,27962,1.5,902.51
+Texas,Kerr,South,Nonmetro,50149,26265,8,1103.32
+Texas,Kimble,South,Nonmetro,4486,26749,7.6,1250.99
+Texas,King,South,Nonmetro,267,30269,5.1,910.87
+Texas,Kinney,South,Nonmetro,3577,17299,13.2,1360.06
+Texas,Kleberg,South,Nonmetro,32029,18722,11.7,881.31
+Texas,Knox,South,Nonmetro,3796,20124,7.1,850.62
+Texas,Lamar,South,Nonmetro,49566,22344,7.4,907.19
+Texas,Lamb,South,Nonmetro,13742,20863,6.2,1016.18
+Texas,Lampasas,South,Metro,20219,23772,8.6,712.84
+Texas,La Salle,South,Nonmetro,7191,22127,8.1,1486.69
+Texas,Lavaca,South,Nonmetro,19549,27288,4,969.71
+Texas,Lee,South,Nonmetro,16664,25006,5.7,629.02
+Texas,Leon,South,Nonmetro,16819,27535,7.5,1073.15
+Texas,Liberty,South,Metro,77486,21194,11.5,1158.42
+Texas,Limestone,South,Nonmetro,23454,20430,8.2,905.29
+Texas,Lipscomb,South,Nonmetro,3483,30237,5,932.18
+Texas,Live Oak,South,Nonmetro,11873,21231,4.3,1039.7
+Texas,Llano,South,Nonmetro,19323,36279,5.8,934.03
+Texas,Lubbock,South,Metro,290782,24510,6.2,895.6
+Texas,Lynn,South,Metro,5764,23341,10.9,891.87
+Texas,McCulloch,South,Nonmetro,8273,22194,4.3,1065.6
+Texas,McLennan,South,Metro,241505,22221,6.2,1037.1
+Texas,McMullen,South,Nonmetro,778,27608,14.1,1139.43
+Texas,Madison,South,Nonmetro,13838,15894,5.7,466.07
+Texas,Marion,South,Nonmetro,10248,22755,8,380.88
+Texas,Martin,South,Metro,5252,26130,3.5,914.94
+Texas,Mason,South,Nonmetro,4066,25585,6.8,928.8
+Texas,Matagorda,South,Nonmetro,36598,21693,6.4,1100.28
+Texas,Maverick,South,Nonmetro,56548,15249,13.1,1279.26
+Texas,Medina,South,Metro,47392,23830,6.6,1325.36
+Texas,Menard,South,Nonmetro,2182,22016,8.3,902.03
+Texas,Midland,South,Metro,151290,35537,3.4,900.3
+Texas,Milam,South,Nonmetro,24344,22130,9.6,1016.93
+Texas,Mills,South,Nonmetro,4875,22804,3.6,748.26
+Texas,Mitchell,South,Nonmetro,9169,18764,5.5,911.09
+Texas,Montague,South,Nonmetro,19478,25846,6.6,930.91
+Texas,Montgomery,South,Metro,502586,34215,6.1,1041.74
+Texas,Moore,South,Nonmetro,22281,19495,4.1,899.69
+Texas,Morris,South,Nonmetro,12700,20900,12.7,251.99
+Texas,Motley,South,Nonmetro,1071,20322,11,989.56
+Texas,Nacogdoches,South,Nonmetro,65531,21113,8.6,946.54
+Texas,Navarro,South,Nonmetro,48118,20697,10.9,1009.63
+Texas,Newton,South,Metro,14231,20428,12.1,933.68
+Texas,Nolan,South,Nonmetro,15061,20444,7.7,912
+Texas,Nueces,South,Metro,352060,25176,6.6,838.48
+Texas,Ochiltree,South,Nonmetro,10642,25995,5.2,917.63
+Texas,Oldham,South,Metro,2071,23452,7.4,1500.53
+Texas,Orange,South,Metro,83217,25489,8.4,333.67
+Texas,Palo Pinto,South,Nonmetro,27921,23013,8.3,951.79
+Texas,Panola,South,Nonmetro,23900,25693,5.7,801.75
+Texas,Parker,South,Metro,121418,31923,6.1,903.48
+Texas,Parmer,South,Nonmetro,10004,20381,3.6,880.78
+Texas,Pecos,South,Nonmetro,15807,19772,4.8,4763.85
+Texas,Polk,South,Nonmetro,46113,21010,10,1057.09
+Texas,Potter,South,Metro,122352,20283,5.3,908.37
+Texas,Presidio,South,Nonmetro,7304,16507,9.6,3855.24
+Texas,Rains,South,Nonmetro,11037,23443,7.9,229.45
+Texas,Randall,South,Metro,126782,30480,3.9,911.54
+Texas,Reagan,South,Nonmetro,3598,25238,2.2,1175.3
+Texas,Real,South,Nonmetro,3356,19549,12,699.2
+Texas,Red River,South,Nonmetro,12567,19482,7.2,1036.58
+Texas,Reeves,South,Nonmetro,14179,17893,6.7,2635.38
+Texas,Refugio,South,Nonmetro,7277,24902,6.7,770.44
+Texas,Roberts,South,Nonmetro,931,31314,1.9,924.06
+Texas,Robertson,South,Metro,16532,21781,9.2,855.68
+Texas,Rockwall,South,Metro,85536,36163,5.9,127.04
+Texas,Runnels,South,Nonmetro,10445,21803,3.4,1050.95
+Texas,Rusk,South,Metro,53457,22272,4.9,924.03
+Texas,Sabine,South,Nonmetro,10440,19511,12.1,491.39
+Texas,San Augustine,South,Nonmetro,8695,19213,16.3,530.66
+Texas,San Jacinto,South,Nonmetro,27023,22363,12.6,569.24
+Texas,San Patricio,South,Metro,66070,24211,5.2,693.45
+Texas,San Saba,South,Nonmetro,5893,19743,4.9,1135.3
+Texas,Schleicher,South,Nonmetro,3224,25199,4.1,1310.63
+Texas,Scurry,South,Nonmetro,17238,24584,3.3,905.44
+Texas,Shackelford,South,Nonmetro,3352,23826,3.8,914.29
+Texas,Shelby,South,Nonmetro,25725,20753,7.9,795.58
+Texas,Sherman,South,Nonmetro,3066,22436,3.7,923.04
+Texas,Smith,South,Metro,217552,24964,7.2,921.45
+Texas,Somervell,South,Metro,8608,26946,2.1,186.46
+Texas,Starr,South,Nonmetro,62648,12483,13.8,1223.18
+Texas,Stephens,South,Nonmetro,9452,22241,3.9,896.72
+Texas,Sterling,South,Nonmetro,1346,21386,0.3,923.45
+Texas,Stonewall,South,Nonmetro,1414,22416,6.9,916.31
+Texas,Sutton,South,Nonmetro,3966,25650,4.3,1453.93
+Texas,Swisher,South,Nonmetro,7713,18437,6.4,890.16
+Texas,Tarrant,South,Metro,1914526,29058,6.9,863.61
+Texas,Taylor,South,Metro,134435,23896,5.9,915.55
+Texas,Terrell,South,Nonmetro,921,27062,3.7,2358.03
+Texas,Terry,South,Nonmetro,12687,21705,6.5,888.84
+Texas,Throckmorton,South,Nonmetro,1545,28305,2.6,912.55
+Texas,Titus,South,Nonmetro,32553,19472,7.5,406.05
+Texas,Tom Green,South,Metro,115056,25274,4.7,1521.97
+Texas,Travis,South,Metro,1121645,35168,6,990.2
+Texas,Trinity,South,Nonmetro,14405,19766,9.9,693.61
+Texas,Tyler,South,Nonmetro,21462,20242,11.5,924.5
+Texas,Upshur,South,Metro,40096,22692,7.9,582.95
+Texas,Upton,South,Nonmetro,3405,22751,4.3,1241.32
+Texas,Uvalde,South,Nonmetro,26952,18135,8.1,1551.95
+Texas,Val Verde,South,Nonmetro,48980,18632,9.3,3144.75
+Texas,Van Zandt,South,Nonmetro,52736,23257,6.1,842.56
+Texas,Victoria,South,Metro,90099,25987,6.5,882.14
+Texas,Walker,South,Nonmetro,69330,16135,4.4,784.17
+Texas,Waller,South,Metro,45847,22849,8.3,513.43
+Texas,Ward,South,Nonmetro,11225,24234,4.4,835.6
+Texas,Washington,South,Nonmetro,34236,25057,5.1,603.95
+Texas,Webb,South,Metro,263251,15096,6,3361.48
+Texas,Wharton,South,Nonmetro,41264,21581,6.6,1086.15
+Texas,Wheeler,South,Nonmetro,5618,26184,3.9,914.52
+Texas,Wichita,South,Metro,131957,22861,6.1,627.78
+Texas,Wilbarger,South,Nonmetro,13158,20752,7.5,970.84
+Texas,Willacy,South,Nonmetro,22002,11413,11.5,590.55
+Texas,Williamson,South,Metro,473592,31876,6,1118.3
+Texas,Wilson,South,Metro,45509,28887,5.8,803.73
+Texas,Winkler,South,Nonmetro,7576,22656,2.5,841.11
+Texas,Wise,South,Metro,61243,27208,7.5,904.42
+Texas,Wood,South,Nonmetro,42712,24561,8.9,645.23
+Texas,Yoakum,South,Nonmetro,8213,23125,8.1,799.71
+Texas,Young,South,Nonmetro,18329,25524,5.6,914.47
+Texas,Zapata,South,Nonmetro,14308,16619,12.2,998.41
+Texas,Zavala,South,Nonmetro,12060,13813,12.2,1297.41
+Utah,Beaver,West,Nonmetro,6461,21405,3.8,2589.88
+Utah,Box Elder,West,Metro,50991,21748,6.3,5745.55
+Utah,Cache,West,Metro,117449,20223,5.5,1164.81
+Utah,Carbon,West,Nonmetro,20927,21287,7.4,1478.49
+Utah,Daggett,West,Nonmetro,776,22149,4.3,696.98
+Utah,Davis,West,Metro,323374,26411,4.2,298.78
+Utah,Duchesne,West,Nonmetro,19817,23576,5.2,3240.95
+Utah,Emery,West,Nonmetro,10728,19717,5.7,4462.31
+Utah,Garfield,West,Nonmetro,5069,19971,8.6,5175.12
+Utah,Grand,West,Nonmetro,9388,22635,7.1,3671.54
+Utah,Iron,West,Nonmetro,47139,18995,10.5,3296.68
+Utah,Juab,West,Metro,10400,18447,3.8,3392.28
+Utah,Kane,West,Nonmetro,7202,24729,7,3990.23
+Utah,Millard,West,Nonmetro,12582,20602,4.3,6572.43
+Utah,Morgan,West,Metro,10276,27312,6,609.2
+Utah,Piute,West,Nonmetro,1865,17493,6.8,757.79
+Utah,Rich,West,Nonmetro,2292,19168,6.2,1028.78
+Utah,Salt Lake,West,Metro,1078958,27314,5.8,742.28
+Utah,San Juan,West,Nonmetro,15152,15654,8.4,7819.99
+Utah,Sanpete,West,Nonmetro,28261,16965,8.3,1590.15
+Utah,Sevier,West,Nonmetro,20871,19261,5.9,1910.58
+Utah,Summit,West,Nonmetro,38521,47733,3.2,1871.71
+Utah,Tooele,West,Metro,60893,22643,7.1,6941.35
+Utah,Uintah,West,Nonmetro,35721,24720,5.1,4479.69
+Utah,Utah,West,Metro,551957,21335,5.5,2003.45
+Utah,Wasatch,West,Nonmetro,26661,26397,4.7,1175.5
+Utah,Washington,West,Metro,148244,22459,7.7,2426.36
+Utah,Wayne,West,Nonmetro,2722,20121,2.1,2460.68
+Utah,Weber,West,Metro,238682,23545,6.3,576.08
+Vermont,Addison,Northeast,Nonmetro,36943,29561,5.8,766.33
+Vermont,Bennington,Northeast,Nonmetro,36589,29296,5.7,674.98
+Vermont,Caledonia,Northeast,Nonmetro,31012,23919,7.2,648.86
+Vermont,Chittenden,Northeast,Metro,159711,33977,5,536.58
+Vermont,Essex,Northeast,Nonmetro,6207,21338,9.4,663.6
+Vermont,Franklin,Northeast,Metro,48418,28394,4.9,633.71
+Vermont,Grand Isle,Northeast,Metro,6952,35214,7.4,81.81
+Vermont,Lamoille,Northeast,Nonmetro,25027,27390,4.3,458.8
+Vermont,Orange,Northeast,Nonmetro,28929,27755,4.5,687.03
+Vermont,Orleans,Northeast,Nonmetro,27146,23213,5.6,693.27
+Vermont,Rutland,Northeast,Nonmetro,60530,27219,6.6,929.82
+Vermont,Washington,Northeast,Nonmetro,59132,30598,4.8,687.23
+Vermont,Windham,Northeast,Nonmetro,43858,28473,6.8,785.31
+Vermont,Windsor,Northeast,Nonmetro,56150,32474,5.1,969.34
+Virginia,Accomack,South,Nonmetro,33115,23231,6.8,449.5
+Virginia,Albemarle,South,Metro,103108,37474,3.8,720.7
+Virginia,Alleghany,South,Nonmetro,16066,24118,5.1,445.46
+Virginia,Amelia,South,Metro,12777,24868,5,355.27
+Virginia,Amherst,South,Metro,32148,23469,6.6,473.93
+Virginia,Appomattox,South,Metro,15208,23941,6.6,333.49
+Virginia,Arlington,South,Metro,223945,63579,3.7,25.97
+Virginia,Augusta,South,Metro,74053,27000,4.7,967
+Virginia,Bath,South,Nonmetro,4583,32166,6,529.16
+Virginia,Bedford,South,Metro,76463,28524,5.8,753.02
+Virginia,Bland,South,Nonmetro,6662,20169,8.7,357.73
+Virginia,Botetourt,South,Metro,33155,31160,4.6,541.2
+Virginia,Brunswick,South,Nonmetro,16930,18245,10.5,566.17
+Virginia,Buchanan,South,Nonmetro,23486,17883,10.6,502.76
+Virginia,Buckingham,South,Metro,17068,18204,11.2,579.66
+Virginia,Campbell,South,Metro,55012,24192,6,503.87
+Virginia,Caroline,South,Metro,29349,26761,8.6,527.51
+Virginia,Carroll,South,Nonmetro,29856,21145,6.7,474.69
+Virginia,Charles City,South,Metro,7118,29018,8.2,182.82
+Virginia,Charlotte,South,Nonmetro,12313,18719,4.9,475.27
+Virginia,Chesterfield,South,Metro,328176,33220,6.8,423.3
+Virginia,Clarke,South,Metro,14299,37558,6,176.18
+Virginia,Craig,South,Metro,5212,22456,4.1,329.53
+Virginia,Culpeper,South,Metro,48424,28104,7.3,379.23
+Virginia,Cumberland,South,Nonmetro,9859,22860,10.1,297.46
+Virginia,Dickenson,South,Nonmetro,15463,20275,8.4,330.53
+Virginia,Dinwiddie,South,Metro,28110,23395,9.7,503.72
+Virginia,Essex,South,Nonmetro,11151,23448,8.5,257.12
+Virginia,Fairfax,South,Metro,1128722,51025,4.9,390.97
+Virginia,Fauquier,South,Metro,67463,41255,5,647.45
+Virginia,Floyd,South,Metro,15523,23885,5.7,380.42
+Virginia,Fluvanna,South,Metro,26014,28669,5.2,286.01
+Virginia,Franklin,South,Metro,56315,25219,6.2,690.43
+Virginia,Frederick,South,Metro,81340,30769,5.2,413.5
+Virginia,Giles,South,Metro,16907,25241,4.8,355.78
+Virginia,Gloucester,South,Metro,37001,29867,4.7,217.81
+Virginia,Goochland,South,Metro,21721,46366,5,281.42
+Virginia,Grayson,South,Nonmetro,15573,19742,9,442.18
+Virginia,Greene,South,Metro,18938,28209,7.4,156.25
+Virginia,Greensville,South,Nonmetro,11760,14450,6.4,295.23
+Virginia,Halifax,South,Nonmetro,35506,19782,7.5,817.84
+Virginia,Hanover,South,Metro,101340,34701,4.4,468.54
+Virginia,Henrico,South,Metro,318864,33634,6.7,233.7
+Virginia,Henry,South,Nonmetro,52580,20159,10,382.33
+Virginia,Highland,South,Nonmetro,2244,26809,1.1,415.16
+Virginia,Isle of Wight,South,Metro,35740,31460,8.3,315.61
+Virginia,James City,South,Metro,70673,39802,5.1,142.44
+Virginia,King and Queen,South,Nonmetro,7106,25498,5.5,315.14
+Virginia,King George,South,Nonmetro,24933,34529,7.4,179.64
+Virginia,King William,South,Metro,16097,28300,5.4,273.94
+Virginia,Lancaster,South,Nonmetro,11129,31062,7.9,133.25
+Virginia,Lee,South,Nonmetro,25206,17899,12,435.52
+Virginia,Loudoun,South,Metro,351129,47495,4,515.56
+Virginia,Louisa,South,Nonmetro,33986,28323,8.1,496.3
+Virginia,Lunenburg,South,Nonmetro,12558,18428,7.3,431.68
+Virginia,Madison,South,Nonmetro,13147,25349,6.6,320.68
+Virginia,Mathews,South,Metro,8880,32397,3.3,85.93
+Virginia,Mecklenburg,South,Nonmetro,31555,20618,6.9,625.49
+Virginia,Middlesex,South,Nonmetro,10717,30297,6.3,130.31
+Virginia,Montgomery,South,Metro,96467,25368,5.6,387.01
+Virginia,Nelson,South,Metro,14858,27528,5.7,470.86
+Virginia,New Kent,South,Metro,19560,33689,6.1,209.73
+Virginia,Northampton,South,Nonmetro,12184,22490,9.5,211.61
+Virginia,Northumberland,South,Nonmetro,12304,31280,8.7,191.3
+Virginia,Nottoway,South,Nonmetro,15711,18917,10.8,314.39
+Virginia,Orange,South,Nonmetro,34596,29748,7.9,340.78
+Virginia,Page,South,Nonmetro,23843,22241,9.3,310.86
+Virginia,Patrick,South,Nonmetro,18264,19311,8.3,483.1
+Virginia,Pittsylvania,South,Nonmetro,62794,21667,7.7,968.94
+Virginia,Powhatan,South,Metro,28207,32110,4.9,260.22
+Virginia,Prince Edward,South,Nonmetro,23022,17901,7,349.96
+Virginia,Prince George,South,Metro,37380,24785,10.6,265.16
+Virginia,Prince William,South,Metro,437271,37215,5.4,336.4
+Virginia,Pulaski,South,Metro,34528,25556,7.4,319.86
+Virginia,Rappahannock,South,Metro,7431,36567,2.9,266.23
+Virginia,Richmond,South,Nonmetro,8989,19407,8.7,191.49
+Virginia,Roanoke,South,Metro,93633,31370,5.1,250.52
+Virginia,Rockbridge,South,Nonmetro,22444,26767,4.1,597.56
+Virginia,Rockingham,South,Metro,77785,26472,5.4,849.09
+Virginia,Russell,South,Nonmetro,28245,20053,8,473.82
+Virginia,Scott,South,Metro,22570,21295,9.4,535.53
+Virginia,Shenandoah,South,Nonmetro,42724,25253,6,508.78
+Virginia,Smyth,South,Nonmetro,31734,21927,6.4,450.93
+Virginia,Southampton,South,Nonmetro,18410,23259,7.2,599.15
+Virginia,Spotsylvania,South,Metro,127691,32105,6.2,401.5
+Virginia,Stafford,South,Metro,137145,37198,5.5,268.96
+Virginia,Surry,South,Nonmetro,6823,24660,10.7,278.95
+Virginia,Sussex,South,Metro,11864,15143,6.9,490.22
+Virginia,Tazewell,South,Nonmetro,43870,22721,8,518.85
+Virginia,Warren,South,Metro,38481,29522,7.2,213.47
+Virginia,Washington,South,Metro,54759,25351,6.9,560.98
+Virginia,Westmoreland,South,Nonmetro,17557,25992,9.7,229.38
+Virginia,Wise,South,Nonmetro,40530,20321,11,403.19
+Virginia,Wythe,South,Nonmetro,29190,23770,9.6,461.82
+Virginia,York,South,Metro,66471,35876,5.8,104.78
+Virginia,Alexandria city,South,Metro,149315,54861,4.5,15.03
+Virginia,Bristol city,South,Metro,17524,20777,10.7,13.01
+Virginia,Buena Vista city,South,Nonmetro,6666,15707,7.3,6.7
+Virginia,Charlottesville city,South,Metro,45084,30378,4.3,10.24
+Virginia,Chesapeake city,South,Metro,230601,29703,7.5,340.8
+Virginia,Colonial Heights city,South,Metro,17515,27572,8.3,7.52
+Virginia,Covington city,South,Nonmetro,5736,20055,7.3,5.47
+Virginia,Danville city,South,Nonmetro,42450,20933,12.7,42.93
+Virginia,Emporia city,South,Nonmetro,5672,20417,19.1,6.89
+Virginia,Fairfax city,South,Metro,23402,45545,5.4,6.24
+Virginia,Falls Church city,South,Metro,13308,65600,4.2,2
+Virginia,Franklin city,South,Nonmetro,8457,21621,13.7,8.21
+Virginia,Fredericksburg city,South,Metro,27395,29090,8.9,10.44
+Virginia,Galax city,South,Nonmetro,6876,21515,6.4,8.24
+Virginia,Hampton city,South,Metro,137081,25029,9.8,51.41
+Virginia,Harrisonburg city,South,Metro,51388,18324,6.5,17.42
+Virginia,Hopewell city,South,Metro,22279,20700,12.8,10.28
+Virginia,Lexington city,South,Nonmetro,7071,14792,2.7,2.5
+Virginia,Lynchburg city,South,Metro,78158,21650,8,49.13
+Virginia,Manassas city,South,Metro,40743,29424,7.5,9.88
+Virginia,Manassas Park city,South,Metro,15625,28164,4.4,2.53
+Virginia,Martinsville city,South,Nonmetro,13624,21899,11.5,10.96
+Virginia,Newport News city,South,Metro,181323,25369,9.1,68.71
+Virginia,Norfolk city,South,Metro,245452,24657,10.9,54.12
+Virginia,Norton city,South,Nonmetro,4007,19647,11.1,7.48
+Virginia,Petersburg city,South,Metro,32123,19149,13,22.93
+Virginia,Poquoson city,South,Metro,12077,38428,4.5,15.32
+Virginia,Portsmouth city,South,Metro,96135,23075,11.6,33.65
+Virginia,Radford city,South,Metro,17057,15556,8.8,9.87
+Virginia,Richmond city,South,Metro,213735,28023,10,59.81
+Virginia,Roanoke city,South,Metro,98736,23685,8.3,42.56
+Virginia,Salem city,South,Metro,25165,27560,4.8,14.44
+Virginia,Staunton city,South,Metro,24193,25182,5.6,19.98
+Virginia,Suffolk city,South,Metro,86184,29620,8,400.17
+Virginia,Virginia Beach city,South,Metro,448290,32269,6.1,249.02
+Virginia,Waynesboro city,South,Metro,21150,22156,4.9,15.04
+Virginia,Williamsburg city,South,Metro,14754,24127,8.5,9.02
+Virginia,Winchester city,South,Metro,27168,26182,6.7,9.23
+Washington,Adams,West,Nonmetro,19081,17564,9.6,1924.98
+Washington,Asotin,West,Metro,22040,25132,9.6,636.21
+Washington,Benton,West,Metro,184930,28758,6.9,1700.38
+Washington,Chelan,West,Metro,74267,25564,7.5,2920.53
+Washington,Clallam,West,Nonmetro,72397,27000,9.9,1738.33
+Washington,Clark,West,Metro,444506,28801,8.6,629
+Washington,Columbia,West,Metro,3989,24400,10.4,868.63
+Washington,Cowlitz,West,Metro,102338,24260,10.7,1140.13
+Washington,Douglas,West,Metro,39599,23598,6.5,1819.26
+Washington,Ferry,West,Nonmetro,7652,20602,12.2,2203.16
+Washington,Franklin,West,Metro,86443,20412,7.2,1242.17
+Washington,Garfield,West,Nonmetro,2230,22884,7.4,710.69
+Washington,Grant,West,Nonmetro,92070,20251,10.1,2679.51
+Washington,Grays Harbor,West,Nonmetro,71419,22387,14.3,1902.03
+Washington,Island,West,Nonmetro,79329,31836,9,208.45
+Washington,Jefferson,West,Nonmetro,30083,28593,9.5,1803.7
+Washington,King,West,Metro,2045756,41664,6.3,2115.57
+Washington,Kitsap,West,Metro,255441,32063,8,394.94
+Washington,Kittitas,West,Nonmetro,42204,24014,7.8,2297.27
+Washington,Klickitat,West,Nonmetro,20820,22456,7,1871.31
+Washington,Lewis,West,Nonmetro,75515,22480,12.1,2402.8
+Washington,Lincoln,West,Nonmetro,10363,24951,4.8,2310.49
+Washington,Mason,West,Nonmetro,60791,25015,12.9,959.42
+Washington,Okanogan,West,Nonmetro,41332,22460,8.9,5267.98
+Washington,Pacific,West,Nonmetro,20645,21923,8.9,932.66
+Washington,Pend Oreille,West,Metro,12968,22008,10.3,1399.99
+Washington,Pierce,West,Metro,821952,28824,9.2,1669.51
+Washington,San Juan,West,Nonmetro,15956,39266,5.9,173.92
+Washington,Skagit,West,Metro,119343,27794,8.2,1731.2
+Washington,Skamania,West,Metro,11243,29878,8.3,1655.68
+Washington,Snohomish,West,Metro,746653,32542,7.5,2087.27
+Washington,Spokane,West,Metro,480832,26093,8.4,1763.79
+Washington,Stevens,West,Metro,43548,22221,9.4,2477.77
+Washington,Thurston,West,Metro,262723,29741,8.5,721.96
+Washington,Wahkiakum,West,Nonmetro,4035,24483,10.6,263.38
+Washington,Walla Walla,West,Metro,59726,23520,6.4,1270.13
+Washington,Whatcom,West,Metro,207100,27223,8.2,2106.86
+Washington,Whitman,West,Nonmetro,46737,21188,8.8,2159.09
+Washington,Yakima,West,Metro,247408,19793,9,4295.4
+West Virginia,Barbour,South,Nonmetro,16731,18039,9,341.06
+West Virginia,Berkeley,South,Metro,108724,26469,9.7,321.14
+West Virginia,Boone,South,Metro,24000,21387,9.2,501.54
+West Virginia,Braxton,South,Nonmetro,14466,19409,14.4,510.81
+West Virginia,Brooke,South,Metro,23665,23819,6.4,89.21
+West Virginia,Cabell,South,Metro,96824,23908,6.8,281.02
+West Virginia,Calhoun,South,Nonmetro,7557,19635,18.1,279.25
+West Virginia,Clay,South,Metro,9141,16827,12.3,341.9
+West Virginia,Doddridge,South,Nonmetro,8201,19992,6.5,319.72
+West Virginia,Fayette,South,Metro,45534,19232,9.2,661.55
+West Virginia,Gilmer,South,Nonmetro,8644,17115,9.4,338.5
+West Virginia,Grant,South,Nonmetro,11815,20052,6.7,477.37
+West Virginia,Greenbrier,South,Nonmetro,35666,22340,7.2,1019.57
+West Virginia,Hampshire,South,Metro,23542,18477,8.1,640.25
+West Virginia,Hancock,South,Metro,30201,23845,7.2,82.61
+West Virginia,Hardy,South,Nonmetro,13936,22195,7.9,582.31
+West Virginia,Harrison,South,Nonmetro,68998,24415,7.4,416.01
+West Virginia,Jackson,South,Nonmetro,29256,23090,6.8,464.35
+West Virginia,Jefferson,South,Metro,55214,30912,8.4,209.64
+West Virginia,Kanawha,South,Metro,190781,27642,7,901.59
+West Virginia,Lewis,South,Nonmetro,16434,21067,7.2,384.9
+West Virginia,Lincoln,South,Metro,21560,19114,10.1,437.04
+West Virginia,Logan,South,Nonmetro,35760,20477,10.9,453.74
+West Virginia,McDowell,South,Nonmetro,20802,14874,13.3,533.46
+West Virginia,Marion,South,Nonmetro,56790,23807,4.9,308.74
+West Virginia,Marshall,South,Metro,32480,23543,7,305.43
+West Virginia,Mason,South,Nonmetro,27177,19694,10.3,430.75
+West Virginia,Mercer,South,Nonmetro,61891,20942,5.1,418.99
+West Virginia,Mineral,South,Metro,27755,19111,8.8,327.83
+West Virginia,Mingo,South,Nonmetro,25931,20417,14.1,423.11
+West Virginia,Monongalia,South,Metro,101668,26314,5.8,360.06
+West Virginia,Monroe,South,Nonmetro,13525,20678,7.3,472.75
+West Virginia,Morgan,South,Nonmetro,17475,23456,12.3,229.07
+West Virginia,Nicholas,South,Nonmetro,25930,23404,8.4,646.82
+West Virginia,Ohio,South,Metro,43637,27053,5.5,105.82
+West Virginia,Pendleton,South,Nonmetro,7402,21979,4.9,696.05
+West Virginia,Pleasants,South,Nonmetro,7636,23291,8.2,130.1
+West Virginia,Pocahontas,South,Nonmetro,8697,21847,5.7,940.28
+West Virginia,Preston,South,Metro,33809,21097,7,648.81
+West Virginia,Putnam,South,Metro,56596,29412,3.7,345.67
+West Virginia,Raleigh,South,Metro,78493,22405,6.6,605.35
+West Virginia,Randolph,South,Nonmetro,29365,21139,6.7,1039.68
+West Virginia,Ritchie,South,Nonmetro,10140,19632,10.6,451.99
+West Virginia,Roane,South,Nonmetro,14636,18957,8.9,483.56
+West Virginia,Summers,South,Nonmetro,13544,20347,10,360.46
+West Virginia,Taylor,South,Nonmetro,16977,22799,9.5,172.77
+West Virginia,Tucker,South,Nonmetro,6972,22321,7.6,418.92
+West Virginia,Tyler,South,Nonmetro,9033,21018,10.9,256.29
+West Virginia,Upshur,South,Nonmetro,24560,20230,8,354.64
+West Virginia,Wayne,South,Metro,41499,19867,9.9,505.98
+West Virginia,Webster,South,Nonmetro,8927,17864,14.8,553.47
+West Virginia,Wetzel,South,Nonmetro,16157,21619,8.1,358.06
+West Virginia,Wirt,South,Metro,5841,22125,8.4,232.51
+West Virginia,Wood,South,Metro,86559,24364,8.6,366.26
+West Virginia,Wyoming,South,Nonmetro,22866,19009,10.1,499.45
+Wisconsin,Adams,North Central,Nonmetro,20451,22783,10.1,645.65
+Wisconsin,Ashland,North Central,Nonmetro,15993,22196,7.9,1045.04
+Wisconsin,Barron,North Central,Nonmetro,45686,23852,6,862.71
+Wisconsin,Bayfield,North Central,Nonmetro,15050,26485,7.2,1477.86
+Wisconsin,Brown,North Central,Metro,254717,27876,6.1,529.71
+Wisconsin,Buffalo,North Central,Nonmetro,13319,26170,3.7,671.64
+Wisconsin,Burnett,North Central,Nonmetro,15334,23963,7.5,821.85
+Wisconsin,Calumet,North Central,Metro,49678,29479,3.1,318.24
+Wisconsin,Chippewa,North Central,Metro,63209,25651,5.1,1008.37
+Wisconsin,Clark,North Central,Nonmetro,34518,21699,4.8,1209.82
+Wisconsin,Columbia,North Central,Metro,56607,28967,5.8,765.53
+Wisconsin,Crawford,North Central,Nonmetro,16483,23020,6.5,570.66
+Wisconsin,Dane,North Central,Metro,510198,34562,4.9,1197.24
+Wisconsin,Dodge,North Central,Nonmetro,88547,25372,6,875.63
+Wisconsin,Door,North Central,Nonmetro,27731,30920,6.2,481.98
+Wisconsin,Douglas,North Central,Metro,43799,25191,7,1304.14
+Wisconsin,Dunn,North Central,Nonmetro,44159,24098,6.1,850.11
+Wisconsin,Eau Claire,North Central,Metro,101281,26034,5.8,637.98
+Wisconsin,Florence,North Central,Nonmetro,4476,25142,7.2,488.2
+Wisconsin,Fond du Lac,North Central,Metro,101920,27474,5.3,719.55
+Wisconsin,Forest,North Central,Nonmetro,9150,21623,10.1,1014.07
+Wisconsin,Grant,North Central,Nonmetro,51489,22937,4.6,1146.85
+Wisconsin,Green,North Central,Metro,37044,28187,3.5,583.96
+Wisconsin,Green Lake,North Central,Nonmetro,18966,25466,5.7,349.44
+Wisconsin,Iowa,North Central,Metro,23769,27664,4.7,762.58
+Wisconsin,Iron,North Central,Nonmetro,5907,25435,7,758.17
+Wisconsin,Jackson,North Central,Nonmetro,20543,23299,5.6,987.72
+Wisconsin,Jefferson,North Central,Nonmetro,84345,26935,5.5,556.47
+Wisconsin,Juneau,North Central,Nonmetro,26494,22363,7.1,766.93
+Wisconsin,Kenosha,North Central,Metro,167738,26514,9.7,271.99
+Wisconsin,Kewaunee,North Central,Metro,20483,26655,4.7,342.52
+Wisconsin,La Crosse,North Central,Metro,117048,27550,5.4,451.69
+Wisconsin,Lafayette,North Central,Nonmetro,16835,25258,3.6,633.59
+Wisconsin,Langlade,North Central,Nonmetro,19551,23857,8.2,870.64
+Wisconsin,Lincoln,North Central,Nonmetro,28286,25856,6.1,878.97
+Wisconsin,Manitowoc,North Central,Nonmetro,80521,26096,5.7,589.08
+Wisconsin,Marathon,North Central,Metro,135177,28457,5.7,1544.98
+Wisconsin,Marinette,North Central,Nonmetro,41287,24450,7.5,1399.35
+Wisconsin,Marquette,North Central,Nonmetro,15140,24054,7.6,455.6
+Wisconsin,Menominee,North Central,Nonmetro,4451,14482,14.8,357.61
+Wisconsin,Milwaukee,North Central,Metro,955939,24984,9.3,241.4
+Wisconsin,Monroe,North Central,Nonmetro,45274,23709,6.5,900.78
+Wisconsin,Oconto,North Central,Metro,37476,26914,5.5,997.99
+Wisconsin,Oneida,North Central,Nonmetro,35653,26432,6.3,1112.97
+Wisconsin,Outagamie,North Central,Metro,180430,28679,3.9,637.52
+Wisconsin,Ozaukee,North Central,Metro,87273,43543,4.5,233.08
+Wisconsin,Pepin,North Central,Nonmetro,7372,24951,4.6,231.98
+Wisconsin,Pierce,North Central,Metro,40799,29068,3.6,573.75
+Wisconsin,Polk,North Central,Nonmetro,43572,26450,6.8,913.96
+Wisconsin,Portage,North Central,Nonmetro,70432,26071,7.2,800.68
+Wisconsin,Price,North Central,Nonmetro,13800,25055,4.6,1254.38
+Wisconsin,Racine,North Central,Metro,194895,27895,8.4,332.5
+Wisconsin,Richland,North Central,Nonmetro,17746,23765,4.8,586.15
+Wisconsin,Rock,North Central,Metro,160727,25219,8.5,718.14
+Wisconsin,Rusk,North Central,Nonmetro,14357,21975,5.9,913.59
+Wisconsin,St. Croix,North Central,Metro,86118,32955,4.6,722.33
+Wisconsin,Sauk,North Central,Nonmetro,62992,26335,5.5,830.9
+Wisconsin,Sawyer,North Central,Nonmetro,16483,25284,9.8,1257.31
+Wisconsin,Shawano,North Central,Nonmetro,41563,24638,5.4,893.06
+Wisconsin,Sheboygan,North Central,Metro,115226,27034,5.8,511.27
+Wisconsin,Taylor,North Central,Nonmetro,20569,24300,5.5,974.88
+Wisconsin,Trempealeau,North Central,Nonmetro,29412,25502,3.6,732.97
+Wisconsin,Vernon,North Central,Nonmetro,30279,23985,4,791.58
+Wisconsin,Vilas,North Central,Nonmetro,21355,26304,8,856.6
+Wisconsin,Walworth,North Central,Nonmetro,103039,27410,7.2,555.13
+Wisconsin,Washburn,North Central,Nonmetro,15700,25575,6.6,797.11
+Wisconsin,Washington,North Central,Metro,132921,33744,4.5,430.7
+Wisconsin,Waukesha,North Central,Metro,393873,38684,4.2,549.57
+Wisconsin,Waupaca,North Central,Nonmetro,52125,27257,5.7,747.71
+Wisconsin,Waushara,North Central,Nonmetro,24321,23977,7.2,626.15
+Wisconsin,Winnebago,North Central,Metro,169004,27770,4.7,434.49
+Wisconsin,Wood,North Central,Nonmetro,74012,26516,6.6,793.12
+Wyoming,Albany,West,Nonmetro,37565,24946,4.7,4273.84
+Wyoming,Big Horn,West,Nonmetro,11895,23812,4.4,3137.1
+Wyoming,Campbell,West,Nonmetro,48013,33925,4,4802.71
+Wyoming,Carbon,West,Nonmetro,15739,26706,4.3,7897.58
+Wyoming,Converse,West,Nonmetro,14101,30249,5.1,4254.88
+Wyoming,Crook,West,Nonmetro,7229,32083,4.1,2854.41
+Wyoming,Fremont,West,Nonmetro,40755,25293,7.8,9183.81
+Wyoming,Goshen,West,Nonmetro,13544,25105,6.8,2225.39
+Wyoming,Hot Springs,West,Nonmetro,4809,27259,3.3,2004.09
+Wyoming,Johnson,West,Nonmetro,8600,30144,3.6,4154.15
+Wyoming,Laramie,West,Metro,95431,30047,5,2685.91
+Wyoming,Lincoln,West,Nonmetro,18316,29915,6.4,4076.13
+Wyoming,Natrona,West,Metro,80011,30783,5.1,5340.35
+Wyoming,Niobrara,West,Nonmetro,2516,25272,1.6,2626.04
+Wyoming,Park,West,Nonmetro,28985,29411,3.8,6942.08
+Wyoming,Platte,West,Nonmetro,8750,25899,2.4,2084.21
+Wyoming,Sheridan,West,Nonmetro,29738,29892,3.4,2523.99
+Wyoming,Sublette,West,Nonmetro,10117,33193,5.4,4886.54
+Wyoming,Sweetwater,West,Nonmetro,44772,30568,5.4,10426.65
+Wyoming,Teton,West,Nonmetro,22311,44231,2.6,3995.38
+Wyoming,Uinta,West,Nonmetro,20930,25772,4.4,2081.26
+Wyoming,Washakie,West,Nonmetro,8400,27394,6.8,2238.55
+Wyoming,Weston,West,Nonmetro,7152,30245,5.2,2398.09

@@ -52,7 +52,9 @@ public class LinkedList<E> {
         }
     }
 
-    /** Adds parsed Node after Node in this LinkedList whose data matches that of key */
+    /**
+     * Adds parsed Node after Node in this LinkedList whose data matches that of key
+     */
     public void addAfter(Node<E> n, E key) throws NoSuchElementException {
         Node<E> f = head;
         for (int i = 0; i < this.size() - 1; i++) {
@@ -70,9 +72,10 @@ public class LinkedList<E> {
         }
     }
 
-    /** Adds parsed LinkedList to end of this LinkedList 
+    /**
+     * Adds parsed LinkedList to end of this LinkedList
      * still have to test and fix
-    */
+     */
     public void join(LinkedList<E> ll) {
         Node<E> node = ll.head;
         this.add(node);
