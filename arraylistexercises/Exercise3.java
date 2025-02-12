@@ -1,5 +1,3 @@
-package arraylistexercises;
-
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Exercise3 {

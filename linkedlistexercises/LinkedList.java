@@ -1,4 +1,4 @@
-package linkedlistexercises;
+
 
 import java.util.NoSuchElementException;
 

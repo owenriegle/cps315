@@ -1,8 +1,8 @@
-package stackandqueueexercises;
 
-public class TestArrayListQueue {
+
+public class Exercise2 {
     public static void main(String... args) throws Exception {
-        ArrayListQueue<Integer> iq = new ArrayListQueue<>();
+        CircularQueue iq = new CircularQueue(5);
         iq.enqueue(12);
         iq.enqueue(19);
         iq.enqueue(10);

@@ -1,4 +1,4 @@
-package linkedlistexercises;
+
 
 /** Node.java */
 /**

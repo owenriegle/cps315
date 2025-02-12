@@ -1,4 +1,4 @@
-package stackandqueueexercises;
+
 
 public class CircularQueue {
     private Object[] data;

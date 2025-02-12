@@ -1,5 +1,3 @@
-package arraylistexercises;
-
 import java.util.Arrays;
 
 public class Exercise6 {

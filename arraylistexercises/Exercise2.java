@@ -1,5 +1,3 @@
-package arraylistexercises;
-
 public class Exercise2 {
     public static void main(String[] args) {
         int[] arr = { 5, 13, 4, 97 };
