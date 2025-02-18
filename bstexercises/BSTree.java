@@ -17,19 +17,7 @@ public class BSTree<E extends Comparable<E>> {
         if (root == null)
             root = new BTreeNode<>(e);
         else {
-            if (root.getData().compareTo(e) > 0) {
-                /*
-                 * root.data is bigger, insert e into left
-                 * subtree
-                 */
-                insertNode(e, root.left);
-            } else {
-                /*
-                 * root.data is smaller, insert e into right
-                 * subtree
-                 */
-                insertNode(e, root.right);
-            }
+            insertNode(e, root);
         }
     }
 
@@ -42,7 +30,7 @@ public class BSTree<E extends Comparable<E>> {
             }
         } else {
             if (b.right == null) {
-                b.setRight(new BTreeNode<E>(e));
+                b.setRight(new BTreeNode<>(e));
             } else {
                 insertNode(e, b.right);
             }
@@ -50,46 +38,98 @@ public class BSTree<E extends Comparable<E>> {
     }
 
     public boolean search(E e) { // searches for key e
-        if (root == null) return false;
-        else if (e.equals(root.getData())) return true;
+        if (root == null)
+            return false;
+        else if (e.equals(root.getData()))
+            return true;
         else {
             if (root.getData().compareTo(e) > 0) {
                 return searchNode(e, root.left);
-            }
-            else {
+            } else {
                 return searchNode(e, root.right);
             }
         }
     }
 
     public boolean searchNode(E e, BTreeNode<E> b) { // searches for key e by comparing with node b
-        if (b.getData() == null) return false;
-        else if (e.equals(b.getData())) return true;
+        if (b == null)
+            return false;
+        else if (b.getData().equals(e))
+            return true;
         else if (b.getData().compareTo(e) > 0) {
             return searchNode(e, b.left);
-        }
-        else {
+        } else {
             return searchNode(e, b.right);
         }
     }
 
-    public void inOrderScan() {
-        ArrayList<E> al = new ArrayList<>();
-        if (root.getData() != null) {
-            
+    public void inOrderScan(BTreeNode<E> b) {
+        if (root == null) {
+            System.out.println("Cannot in-order scan because binary tree is empty");
+        } else if (b == null) {
+            System.out.print(" ");
+        } else {
+            inOrderScan(b.left);
+            System.out.print(b.getData() + ",");
+            inOrderScan(b.right);
         }
     }
 
-    public void inOrderScanNode(E e, BTreeNode<E> b) {
-        
+    public void preOrderScan(BTreeNode<E> b) {
+        if (root == null) {
+            System.out.println("Cannot pre-order scan because binary tree is empty");
+        } else if (b == null) {
+            System.out.print("");
+        } else {
+            System.out.print(b.getData() + ", ");
+            preOrderScan(b.left);
+            preOrderScan(b.right);
+        }
     }
 
-    public void preOrderScan() {
-        
+    public void postOrderScan(BTreeNode<E> b) {
+        if (root == null) {
+            System.out.println("Cannot post-order scan because binary tree is empty");
+        } else if (b == null) {
+            System.out.print("");
+        } else {
+            postOrderScan(b.left);
+            postOrderScan(b.right);
+            System.out.print(b.getData() + ", ");
+        }
     }
 
-    public void postOrderScan() {
-        
+    public void findLeaves(BTreeNode<E> b) {
+        if (root == null) {
+            System.out.println("Cannot find leaves because binary tree is empty.");            
+        } else if ((root.getLeft() == null) && (root.getRight() == null)) {
+            System.out.println("Binary tree has no children.");
+        } else if (b == null) {
+            System.out.print("");            
+        }else if ((b.getLeft() != null) || (b.getRight() != null)) {
+            findLeaves(b.getLeft());
+            findLeaves(b.getRight());
+        } else if ((b.getLeft() == null) && (b.getRight() == null)) {
+            System.out.println(b.getData());            
+        }
     }
 
+    public int height(BTreeNode<E> b) {
+        int leftHeight = 1;
+        int rightHeight = 1;
+        if (root == null)
+            return 0;
+        else if ((root.left == null) && (root.right == null))
+            return 1;
+        else if (b.left != null) {
+            leftHeight = height(b.left);
+        } else if (b.right != null) {
+            rightHeight = height(b.right);
+        }
+        if (leftHeight >= rightHeight) {
+            return leftHeight + 1;
+        } else {
+            return rightHeight + 1;
+        }
+    }
 }

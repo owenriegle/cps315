@@ -39,6 +39,8 @@ public class Exercise4 {
                 case 9:
                     arr[9]++;
                     break;
+                default:
+                    break;
             }
         }
 
