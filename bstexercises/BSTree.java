@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 /** Binary Tree with a single field, root of the tree */
 
 public class BSTree<E extends Comparable<E>> {

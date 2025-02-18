@@ -1,4 +1,4 @@
-class testClass2 {
+class TestClass2 {
     public static void main(String[] args) {
         BSTree<String> bst = new BSTree<>();
         bst.insert("Gina");

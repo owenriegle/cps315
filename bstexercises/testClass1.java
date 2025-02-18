@@ -1,4 +1,4 @@
-class testClass1 {
+class TestClass1 {
     public static void main(String[] args) {
         Integer a1 = 9;
         Integer a2 = 7;
