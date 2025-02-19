@@ -1,4 +1,4 @@
-package hashing;
+package hashexercises;
 
 import java.math.BigInteger;
 import java.util.Scanner;

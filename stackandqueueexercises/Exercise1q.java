@@ -1,9 +1,8 @@
 
-
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Exercise1 {
+public class Exercise1q {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         Scanner scanner = new Scanner(System.in);

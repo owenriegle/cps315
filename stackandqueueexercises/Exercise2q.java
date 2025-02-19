@@ -1,6 +1,6 @@
 
 
-public class Exercise2 {
+public class Exercise2q {
     public static void main(String... args) throws Exception {
         CircularQueue iq = new CircularQueue(5);
         iq.enqueue(12);

@@ -1,6 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Exercise3 {
+public class Exercise3array {
     public static void main(String[] args) {
         int[] arr = new int[100];
         int sum = 0;

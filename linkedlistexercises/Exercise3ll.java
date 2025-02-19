@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Exercise3 {
+public class Exercise3ll {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner arScanner = new Scanner(new File("exam_scores.csv"));
         Scanner llScanner = new Scanner(new File("exam_scores.csv"));

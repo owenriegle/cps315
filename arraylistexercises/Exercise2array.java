@@ -1,4 +1,4 @@
-public class Exercise2 {
+public class Exercise2array {
     public static void main(String[] args) {
         int[] arr = { 5, 13, 4, 97 };
 

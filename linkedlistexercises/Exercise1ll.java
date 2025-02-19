@@ -1,4 +1,4 @@
-public class Exercise1 {
+public class Exercise1ll {
     public static void main(String[] args) {
         LinkedList<Integer> ll = new LinkedList<>();
         LinkedList<Integer> ll2 = new LinkedList<>();
