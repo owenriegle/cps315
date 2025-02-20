@@ -12,18 +12,16 @@ public class DigitCounter {
         for (int i = 0; i < factorialString.length(); i++) {
             char num = factorialString.charAt(i);
             if (!digits.containsKey(num)) {
-                
-                digits.put(num, 1);
-            } else {
-                digits.replace(num, (Character.getNumericValue(digits.get(num)) + 1));
+                digits.put(num, 0);
+            }
+            else {
+                digits.put(num, (digits.get(num) + 1));
             }
         }
-        
-        System.out.println(digits);
 
         System.out.println("How many of each numeric digit (0, 1, ... 9) does 100! contain?");
-        for (int i = 0; i < 10; i++) {
-            System.out.println("100! has " + digits.get(i) + " occurences of " + i);
+        for (char c = '0'; c <= '9'; c++) {
+            System.out.println("100! has " + digits.get(c) + " occurences of " + c);
         }
     }
 
