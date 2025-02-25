@@ -3,14 +3,14 @@ package hashexercises;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.LinkedHashMap;
 import java.util.Scanner;
-import java.util.TreeMap;
 
-public class WordCount {
+public class WordCount2 {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new FileReader("5-para-lorem.txt"));
 
-        TreeMap<String, Integer> countedWords = new TreeMap<>();
+        LinkedHashMap<String, Integer> countedWords = new LinkedHashMap<>();
 
         StringBuilder file = new StringBuilder();
         String line;
@@ -46,5 +46,8 @@ public class WordCount {
 
         scanner.close();
         return num;
+    }
+
+    public static void sort(LinkedHashMap map) {
     }
 }
