@@ -3,14 +3,21 @@ package hashexercises;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.security.KeyStore.Entry;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.Scanner;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 public class WordCount2 {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new FileReader("5-para-lorem.txt"));
 
-        LinkedHashMap<String, Integer> countedWords = new LinkedHashMap<>();
+        HashMap<String, Integer> countedWords = new HashMap<>();
 
         StringBuilder file = new StringBuilder();
         String line;
@@ -27,7 +34,13 @@ public class WordCount2 {
             countedWords.put(str, num);
         }
 
-        System.out.println(countedWords);
+        Map<String, Integer> sortedMap = countedWords.entrySet().stream()
+                .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+
+        for (Map.Entry<String, Integer> entry : sortedMap.entrySet()) {
+            System.out.print(entry.getKey() + "=" + entry.getValue() + ", ");
+        }
 
         scanner.close();
         in.close();
@@ -46,8 +59,5 @@ public class WordCount2 {
 
         scanner.close();
         return num;
-    }
-
-    public static void sort(LinkedHashMap map) {
     }
 }

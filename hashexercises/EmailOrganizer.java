@@ -15,8 +15,8 @@ public class EmailOrganizer {
         TreeMap<String, String> emails = new TreeMap<>();
 
         for (int i = 0; i < emailList.length; i++) {
-            String[] user = emailList[i].split("@");
-            emails.put(user[1], emailList[i]);
+            String[] email = emailList[i].split("@");
+            emails.put(email[1], emailList[i]);
         }
 
         for (Map.Entry<String, String> entry : emails.entrySet()) {
