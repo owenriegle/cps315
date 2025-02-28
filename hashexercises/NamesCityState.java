@@ -26,7 +26,8 @@ public class NamesCityState {
                 case 1:
                     HashMap<String, String> namesCity = new HashMap<>();
 
-                    System.out.println("Print names in city.");
+                    System.out.print("Enter the name of a city: ");
+                    String city = userInput.nextLine();
 
                     while (file.hasNextLine()) {
 
@@ -38,14 +39,16 @@ public class NamesCityState {
                         } else {
                             String lastName = vals[0];
                             String firstName = vals[1];
-                            String city = vals[2];
+                            String cityName = vals[2];
 
-                            namesCity.put((lastName + "," + firstName), city);
+                            if (cityName.equalsIgnoreCase(city)) {
+                                namesCity.put((lastName + "," + firstName), cityName);
+                            }
                         }
                     }
-
-                    System.out.println(namesCity);
-
+                    for (int i = 0; i < namesCity.size(); i++) {
+                        System.out.println(namesCity);
+                    }
                     break;
                 case 2:
                     System.out.println("Print names in state.");
