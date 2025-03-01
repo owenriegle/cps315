@@ -11,7 +11,25 @@ public class NamesCityState {
         Scanner userInput = new Scanner(System.in);
 
         Scanner file = new Scanner(new File("vv3.txt"));
-        file.useDelimiter(",|\n");
+
+        HashMap<String, String> namesCity = new HashMap<>();
+
+        while (file.hasNextLine()) {
+            if (file.nextLine().isBlank()) break;
+            else {
+                String line = file.nextLine();
+                String[] vals = line.split(",");
+
+                System.out.println(line);
+
+                String lastName = vals[0];
+                String firstName = vals[1];
+                String cityName = vals[2];
+                String stateName = vals[3];
+
+                namesCity.put((firstName + " " + lastName), cityName + ", " + stateName);
+            }
+        }
 
         int choice;
 
@@ -24,31 +42,11 @@ public class NamesCityState {
 
             switch (choice) {
                 case 1:
-                    HashMap<String, String> namesCity = new HashMap<>();
-
+                    userInput.nextLine(); // discard /n character
                     System.out.print("Enter the name of a city: ");
                     String city = userInput.nextLine();
 
-                    while (file.hasNextLine()) {
-
-                        String line = file.nextLine();
-                        String[] vals = line.split(",");
-
-                        if (file.nextLine().isEmpty()) {
-                            break;
-                        } else {
-                            String lastName = vals[0];
-                            String firstName = vals[1];
-                            String cityName = vals[2];
-
-                            if (cityName.equalsIgnoreCase(city)) {
-                                namesCity.put((lastName + "," + firstName), cityName);
-                            }
-                        }
-                    }
-                    for (int i = 0; i < namesCity.size(); i++) {
-                        System.out.println(namesCity);
-                    }
+                    System.out.println(namesCity.keySet());
                     break;
                 case 2:
                     System.out.println("Print names in state.");
