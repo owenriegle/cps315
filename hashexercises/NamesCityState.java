@@ -2,7 +2,9 @@ package hashexercises;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class NamesCityState {
@@ -12,22 +14,24 @@ public class NamesCityState {
 
         Scanner file = new Scanner(new File("vv3.txt"));
 
-        HashMap<String, String> namesCity = new HashMap<>();
+        HashMap<String, String> fileMap = new HashMap<>();
 
+        /*
+         * puts file lines into map
+         */
         while (file.hasNextLine()) {
-            if (file.nextLine().isBlank()) break;
+            if (file.nextLine().isBlank())
+                break;
             else {
                 String line = file.nextLine();
                 String[] vals = line.split(",");
-
-                System.out.println(line);
 
                 String lastName = vals[0];
                 String firstName = vals[1];
                 String cityName = vals[2];
                 String stateName = vals[3];
 
-                namesCity.put((firstName + " " + lastName), cityName + ", " + stateName);
+                fileMap.put((lastName + ", " + firstName), cityName + ", " + stateName);
             }
         }
 
@@ -42,14 +46,26 @@ public class NamesCityState {
 
             switch (choice) {
                 case 1:
+                    /*
+                     * prints names (key) that match city (value)
+                     */
                     userInput.nextLine(); // discard /n character
                     System.out.print("Enter the name of a city: ");
                     String city = userInput.nextLine();
 
-                    System.out.println(namesCity.keySet());
+                    returnList(fileMap, city);
+
                     break;
                 case 2:
-                    System.out.println("Print names in state.");
+                    /*
+                     * prints names (key) that contain state (value)
+                     */
+                    userInput.nextLine(); // discard /n character
+                    System.out.print("Enter the two-character acronym of a state: ");
+                    String state = userInput.nextLine();
+
+                    returnList(fileMap, state);
+
                     break;
                 default:
                     System.out.println("Choice is invalid, please enter a valid option: ");
@@ -59,5 +75,31 @@ public class NamesCityState {
 
         userInput.close();
         file.close();
+    }
+
+    public static void returnList(HashMap<String, String> map, String search) {
+        ArrayList<Map.Entry<String, String>> matches = new ArrayList<>();
+
+        /*
+         * adds entries from main map to arraylist if search matches key's value
+         */
+        for (Map.Entry<String, String> entry : map.entrySet()) {
+            if (entry.getValue().contains(search.toUpperCase())) {
+                matches.add(entry);
+            }
+        }
+
+        /*
+         * if search is invalid, returns nothing
+         * else return sorted arraylist of names that match search
+         */
+        if (matches.isEmpty()) {
+            System.out.println("Nothing found.");
+        } else {
+            matches.sort((e1, e2) -> (e1.getKey().compareTo(e2.getKey())));
+            for (int i = 0; i < matches.size(); i++) {
+                System.out.println(matches.get(i).getKey());
+            }
+        }
     }
 }

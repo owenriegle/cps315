@@ -3,15 +3,10 @@ package hashexercises;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.security.KeyStore.Entry;
-import java.util.Collections;
+import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 public class WordCount2 {
     public static void main(String[] args) throws IOException {
@@ -34,11 +29,11 @@ public class WordCount2 {
             countedWords.put(str, num);
         }
 
-        Map<String, Integer> sortedMap = countedWords.entrySet().stream()
-                .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
-                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+        ArrayList<Map.Entry<String, Integer>> sortedMap = new ArrayList<>(countedWords.entrySet());
 
-        for (Map.Entry<String, Integer> entry : sortedMap.entrySet()) {
+        sortedMap.sort((e1, e2) -> (e2.getValue().compareTo(e1.getValue())));
+
+        for (Map.Entry<String, Integer> entry : sortedMap) {
             System.out.print(entry.getKey() + "=" + entry.getValue() + ", ");
         }
 
