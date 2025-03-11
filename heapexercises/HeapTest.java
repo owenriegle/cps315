@@ -9,9 +9,9 @@ public class HeapTest {
 		heap.add(21);
 		heap.add(20);
 		heap.add(13);
-		heap.add(18);
+		//heap.add(18);
 		heap.add(19);
-		// heap.add(18);
+		heap.add(18);
 		heap.add(11);
 		heap.add(8);
 		heap.add(15);
@@ -19,15 +19,15 @@ public class HeapTest {
 		// heap.add(5);
 
 		System.out.println("current heap is-> " + heap);
-		System.out.println("heap should be -> 8 10 9 17 11 13 18 21 19 20 15 14");
-		System.out.println("Removing least element from heap:" + heap.remove());
+		System.out.println("heap should be -> 8 10 9 17 11 13 19 21 18 20 15 14");
+		System.out.println("Removing least element from heap: " + heap.remove());
 		System.out.println(
-				"After removing least element, the new heap should be \n 9 10 13 17 11 14 19 21 18 20 15 ");
+				"After removing least element, the new heap should be \n        9 10 13 17 11 14 19 21 18 20 15 ");
 		System.out.print("Actual: ");
 		System.out.println(heap);
 		System.out.println("Removing next element from heap:" + heap.remove());
 		System.out.println(
-				"The  heap now  should be \n 10 11 13 17 15 14 19 21 18 20");
+				"The  heap now  should be \n        10 11 13 17 15 14 19 21 18 20");
 		System.out.print("Actual: ");
 		System.out.println(heap);
 		System.out.println("Adding 7 and then 8");
@@ -36,7 +36,7 @@ public class HeapTest {
 		System.out.println(heap);
 		heap.remove();
 		System.out.println(
-				"After another removal, the new heap should be \n 8 10 13 17 11 14 19 21 18 20 15");
+				"After another removal, the new heap should be \n        8 10 13 17 11 14 19 21 18 20 15");
 		System.out.print("Actual: ");
 		System.out.println(heap);
 		System.out.println("Removing 3 more: ");
@@ -54,6 +54,6 @@ public class HeapTest {
 		// System.out.println(heap);
 		heap.remove();
 		System.out.println("The heap now should be:  18 19 20 21");
-		System.out.println("Actual :    " + heap);
+		System.out.println("Actual :                 " + heap);
 	}
 }
