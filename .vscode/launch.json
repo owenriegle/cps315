@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HeapTest",
+            "request": "launch",
+            "mainClass": "HeapTest",
+            "projectName": "cps315_7cea6909"
+        },
+        {
+            "type": "java",
             "name": "WordFrequency",
             "request": "launch",
             "mainClass": "WordFrequency",
