@@ -39,21 +39,30 @@ public class Heap {
         int pos = 1;
         a[1] = a[size]; // put the last element at the root.
         size--;
+
         /** percolate down */
-        while (pos * 2 <= size && ((a[pos] > a[pos * 2]) || (a[pos] > a[(pos * 2) + 1]))) {
-            if (a[pos * 2] < a[(pos * 2) + 1]) {
-                int temp = a[pos];
-                a[pos] = a[pos * 2];
-                a[pos * 2] = temp;
-                pos = pos * 2;
-            } else if (a[pos * 2] > a[(pos * 2) + 1]){
-                int temp = a[pos];
-                a[pos] = a[(pos * 2) + 1];
-                a[(pos * 2) + 1] = temp;
-                pos = (pos * 2) + 1;
+        while (pos * 2 <= size) {
+            int leftChild = pos * 2;
+            int rightChild = (pos * 2) + 1;
+            /* swap with leftChild */
+            if (a[leftChild] < a[rightChild]) {
+                swap(a, pos, leftChild);
+                pos = leftChild;
+            }
+            /* swap with rightChild */
+            else {
+                swap(a, pos, rightChild);
+                pos = rightChild;
             }
         }
         return ret;
+    }
+
+    // helper method for remove() that swaps nodes
+    public void swap(int[] a, int pos, int swapNode) {
+        int temp = a[pos];
+        a[pos] = a[swapNode];
+        a[swapNode] = temp;
     }
 
     public String toString() {
