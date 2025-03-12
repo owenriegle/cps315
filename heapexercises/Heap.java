@@ -42,27 +42,27 @@ public class Heap {
 
         /** percolate down */
         while (pos * 2 <= size) {
-            int leftChild = pos * 2;
-            int rightChild = (pos * 2) + 1;
+            int leftChildPos = pos * 2;
+            int rightChildPos = (pos * 2) + 1;
             /* swap with leftChild */
-            if (a[leftChild] < a[rightChild]) {
-                swap(a, pos, leftChild);
-                pos = leftChild;
+            if (a[leftChildPos] < a[rightChildPos]) {
+                swap(a, pos, leftChildPos);
+                pos = leftChildPos;
             }
             /* swap with rightChild */
             else {
-                swap(a, pos, rightChild);
-                pos = rightChild;
+                swap(a, pos, rightChildPos);
+                pos = rightChildPos;
             }
         }
         return ret;
     }
 
     // helper method for remove() that swaps nodes
-    public void swap(int[] a, int pos, int swapNode) {
-        int temp = a[pos];
-        a[pos] = a[swapNode];
-        a[swapNode] = temp;
+    public void swap(int[] a, int currentPos, int childPos) {
+        int temp = a[currentPos];
+        a[currentPos] = a[childPos];
+        a[childPos] = temp;
     }
 
     public String toString() {
