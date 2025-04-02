@@ -1,3 +1,7 @@
+/*
+ * creates an array of ten integers
+ * each element is a count of occurences of a random generated number between 0-9
+ */
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Exercise4 {

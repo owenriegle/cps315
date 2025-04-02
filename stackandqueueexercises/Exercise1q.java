@@ -1,4 +1,6 @@
-
+/*
+ * uses a stack to convert decimal number into binary
+ */
 import java.util.Scanner;
 import java.util.Stack;
 

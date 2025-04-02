@@ -1,3 +1,6 @@
+/*
+ * takes array of emails and sorts by domain name
+ */
 package hashexercises;
 
 import java.util.Map;

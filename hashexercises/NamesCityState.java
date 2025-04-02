@@ -1,3 +1,6 @@
+/*
+ * takes names, their city. and state from csv file and prompts user to return all names in a given state or city
+ */
 package hashexercises;
 
 import java.io.File;

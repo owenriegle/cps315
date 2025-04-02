@@ -1,5 +1,7 @@
+/*
+ * takes file as argument and counts number of occurences of words in the file
+ */
 package hashexercises;
-
 
 import java.util.*;
 import java.io.*;

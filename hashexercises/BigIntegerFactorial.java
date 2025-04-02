@@ -1,3 +1,6 @@
+/*
+ * class that takes input from user and returns BigInteger factorial
+ */
 package hashexercises;
 
 import java.math.BigInteger;

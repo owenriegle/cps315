@@ -1,3 +1,6 @@
+/*
+ * takes an array and checks if a given element has another element in the array that would make the sum of the elements 0
+ */
 package hashexercises;
 
 import java.util.HashSet;

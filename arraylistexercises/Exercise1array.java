@@ -1,3 +1,6 @@
+/*
+ * creates a size 10 array and generates a random number between 5 and 25 per index
+ */
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Exercise1array {

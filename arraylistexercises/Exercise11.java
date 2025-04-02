@@ -1,5 +1,6 @@
-
-
+/*
+ * returns unique values in an arraylist of integers provided by user by removing duplicates
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 

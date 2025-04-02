@@ -1,4 +1,6 @@
-// HeapTest.java
+/*
+ * class provided by professor to test Heap.java
+ */
 public class HeapTest {
 
 	public static void main(String[] args) {

@@ -1,5 +1,6 @@
-/* Binary Tree Node */
-
+/*
+ * Node object for BSTree provided by professor
+ */
 public class BTreeNode<E extends Comparable<E>> {
     public E data;
     public BTreeNode<E> left;

@@ -1,5 +1,6 @@
-
-
+/*
+ * A circular queue class
+ */
 public class CircularQueue {
     private Object[] data;
     private int head;

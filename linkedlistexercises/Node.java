@@ -1,10 +1,6 @@
-
-
-/** Node.java */
-/**
- * A custom linked list node
+/*
+ * node class provided by professor for LinkedList.java
  */
-
 public class Node<E> {
     /** this is the data Object this Node encapsulates */
     private E data;

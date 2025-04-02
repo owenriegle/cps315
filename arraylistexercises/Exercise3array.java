@@ -1,3 +1,8 @@
+/*
+ * creates an array with 100 random integers between 10 and 200
+ * calculates and prints mean
+ * prints num of elements above mean
+ */
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Exercise3array {

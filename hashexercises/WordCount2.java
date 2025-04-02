@@ -1,3 +1,6 @@
+/*
+ * takes words from csv and returns number of occurences for all words sorted descending by occurences
+ */
 package hashexercises;
 
 import java.io.BufferedReader;

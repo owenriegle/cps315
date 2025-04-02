@@ -1,3 +1,6 @@
+/*
+ * returns max element in an array
+ */
 public class Exercise5 {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 37, 4, 5 };

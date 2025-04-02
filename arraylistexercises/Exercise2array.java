@@ -1,3 +1,6 @@
+/*
+ * takes an array and prints the items in reverse order
+ */
 public class Exercise2array {
     public static void main(String[] args) {
         int[] arr = { 5, 13, 4, 97 };

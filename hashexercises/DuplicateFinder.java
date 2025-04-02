@@ -1,3 +1,6 @@
+/*
+ * finds duplicate in an array by using HashMap
+ */
 package hashexercises;
 
 import java.util.HashMap;

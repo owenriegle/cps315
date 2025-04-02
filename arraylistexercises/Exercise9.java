@@ -1,3 +1,6 @@
+/*
+ * shuffles items in a given arraylist
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 

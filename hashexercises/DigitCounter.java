@@ -1,3 +1,6 @@
+/*
+ * class that takes BigInteger factorial and counts occurences of digits 0-9
+ */
 package hashexercises;
 
 import java.math.BigInteger;

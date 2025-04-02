@@ -1,3 +1,6 @@
+/*
+ * returns maximum integer in an array and its index by a method
+ */
 import java.util.Arrays;
 
 public class Exercise6 {

@@ -1,3 +1,6 @@
+/*
+ * returns sum of all numbers entered by user by method
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 

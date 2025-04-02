@@ -1,5 +1,6 @@
-
-
+/*
+ * A queue class using the ArrayList implementation
+ */
 import java.util.ArrayList;
 import java.util.Stack;
 

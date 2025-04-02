@@ -1,5 +1,12 @@
-/** Binary Tree with a single field, root of the tree */
-
+/*
+ * binary search tree provided by professor
+ * I developed the following methods:
+ * 1. search()
+ * 2. inOrderScan()
+ * 3. preOrderScan()
+ * 4. postORderScan()
+ * 5. height()
+ */
 public class BSTree<E extends Comparable<E>> {
     BTreeNode<E> root;
 

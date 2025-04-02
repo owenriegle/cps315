@@ -1,3 +1,8 @@
+/*
+ * heap class provided by professor
+ * the following methods I developed:
+ * 
+ */
 public class Heap {
     public static final int INITIAL_CAPACITY = 5;
     int size; // current # of elements

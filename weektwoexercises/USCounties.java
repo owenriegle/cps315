@@ -1,10 +1,14 @@
-
-
+/*
+ * class that takes csv data into County objects from US states, returns County information to user for given state
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+ * County object
+ */
 class County implements Comparable<County> {
     String state;
     String countyName;
@@ -43,6 +47,9 @@ class County implements Comparable<County> {
     }
 }
 
+/*
+ * class that prompts user for state, returns information about that state's counties sorted by several fields
+ */
 public class USCounties {
     public static void main(String[] args) throws FileNotFoundException {
 

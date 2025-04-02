@@ -1,3 +1,6 @@
+/*
+ * class provided by professor to test methods developed in BSTree
+ */
 class TestClass2 {
     public static void main(String[] args) {
         BSTree<String> bst = new BSTree<>();

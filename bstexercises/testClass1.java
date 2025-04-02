@@ -1,3 +1,6 @@
+/*
+ * class provied by professor to test methods of BSTree
+*/
 class TestClass1 {
     public static void main(String[] args) {
         Integer a1 = 9;

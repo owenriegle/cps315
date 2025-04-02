@@ -1,3 +1,6 @@
+/*
+ * class to test LinkedList.java methods, joins existing linkedlists
+ */
 public class Exercise1ll {
     public static void main(String[] args) {
         LinkedList<Integer> ll = new LinkedList<>();

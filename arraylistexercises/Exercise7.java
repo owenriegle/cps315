@@ -1,3 +1,6 @@
+/*
+ * returns number of items, smallest item, and largest item all from a file
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

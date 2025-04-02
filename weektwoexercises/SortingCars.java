@@ -1,10 +1,14 @@
-
-
+/*
+ * class that takes data from csv file and creates Car objects, then returns Car objects sorted by different fields
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/*
+ * Car object
+ */
 class Car implements Comparable<Car> {
     String model;
     String origin;
@@ -35,6 +39,9 @@ class Car implements Comparable<Car> {
     }
 }
 
+/*
+ * Class that creates LinkedList of Car objects then prints by sorting against Car fields
+ */
 public class SortingCars {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File("cars_data.csv"));

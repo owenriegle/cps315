@@ -1,5 +1,13 @@
-
-
+/*
+ * linkedlist class provided by professor
+ * methods i developed:
+ * 1. deleteLast()
+ * 2. delete()
+ * 3. deleteMiddle()
+ * 4. deleteFirst()
+ * 5. join()
+ * 6. addAfter()
+ */
 import java.util.NoSuchElementException;
 
 /**

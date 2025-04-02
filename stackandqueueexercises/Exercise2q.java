@@ -1,5 +1,6 @@
-
-
+/*
+ * class to test enqueue and dequeue CircularQueue methods
+ */
 public class Exercise2q {
     public static void main(String... args) throws Exception {
         CircularQueue iq = new CircularQueue(5);

@@ -1,10 +1,14 @@
-
-
+/*
+ * creates Person objects using data from csv file, then prints sorted by Person's name and bmi
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/*
+ * Person object
+ */
 class Person implements Comparable<Person> {
     String name;
     double height;
@@ -31,6 +35,9 @@ class Person implements Comparable<Person> {
     }
 }
 
+/*
+ * class to use Person objects
+ */
 public class Comparison {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File("namesWithHeightWeight.csv"));

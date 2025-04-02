@@ -1,3 +1,6 @@
+/*
+ * prompts user to enter numbers using a loop, returns arraylist of items entered and maximum value
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 
