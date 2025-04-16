@@ -62,20 +62,6 @@ public class Graph<E> {
         }
     }
 
-    /** Remove an edge between two vertices */
-    public void removeEdge(E source, E destination) throws Exception {
-        try {
-            if (listMap.containsKey(source) && listMap.containsKey(destination)) {
-                listMap.get(source).remove(destination);
-                if (!directed) {
-                    listMap.get(destination).remove(source);
-                }
-            }
-        } catch (Exception e) {
-            throw new Exception("At least one vertex does not exist");
-        }
-    }
-
     /** Method to return number of vertices in the graph */
     public int nodeCount() {
         return listMap.keySet().size();
@@ -101,6 +87,20 @@ public class Graph<E> {
     /** checks if graph contains an edge between two vertices */
     public boolean hasEdge(E source, E dest) {
         return listMap.get(source).contains(dest);
+    }
+
+     /** Remove an edge between two vertices */
+     public void removeEdge(E source, E destination) throws Exception {
+        try {
+            if (listMap.containsKey(source) && listMap.containsKey(destination)) {
+                listMap.get(source).remove(destination);
+                if (!directed) {
+                    listMap.get(destination).remove(source);
+                }
+            }
+        } catch (Exception e) {
+            throw new Exception("At least one vertex does not exist");
+        }
     }
 
     /** returns adjacency list for a given vertex */
