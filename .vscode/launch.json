@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestG2",
+            "request": "launch",
+            "mainClass": "graphexercises.TestG2",
+            "projectName": "cps315_7cea6909"
+        },
+        {
+            "type": "java",
+            "name": "TestG",
+            "request": "launch",
+            "mainClass": "graphexercises.TestG",
+            "projectName": "cps315_7cea6909"
+        },
+        {
+            "type": "java",
             "name": "HeapTest",
             "request": "launch",
             "mainClass": "HeapTest",
