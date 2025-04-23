@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testClass1",
+            "request": "launch",
+            "mainClass": "graphexercises.testClass1",
+            "projectName": "cps315_7cea6909"
+        },
+        {
+            "type": "java",
             "name": "TestG2",
             "request": "launch",
             "mainClass": "graphexercises.TestG2",
