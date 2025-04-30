@@ -34,5 +34,6 @@ public class TestG {
         System.out.println("**********The graph after deleting 2 to 3 edge:\n" + g.toString());
         g.removeEdge(2, 5);
         System.out.println("**********The graph after deleting 2 to 5 edge:\n" + g.toString());
+        System.out.println(g.inDegree());
     }
 }

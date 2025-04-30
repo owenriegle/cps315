@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestWeightedGraph",
+            "request": "launch",
+            "mainClass": "graphexercises.TestWeightedGraph",
+            "projectName": "cps315_7cea6909"
+        },
+        {
+            "type": "java",
+            "name": "testClass2",
+            "request": "launch",
+            "mainClass": "graphexercises.testClass2",
+            "projectName": "cps315_7cea6909"
+        },
+        {
+            "type": "java",
             "name": "testClass1",
             "request": "launch",
             "mainClass": "graphexercises.testClass1",

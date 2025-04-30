@@ -136,13 +136,20 @@ public class BSTree<E extends Comparable<E>> {
     public void postorderscan() {
         this.postorderscan(this.root);
     }
+
     /*********** End of Post-Order Scan **********/
     public void levelorderscan(BTNode<E> b) { // level-order scan of the tree
         if (b != null) {
             Queue<BTNode<E>> q = new LinkedList<>();
-            if ((b.getLeft() == null) && (b.getRight() == null)) {
-                System.out.print(b.getData() + " ");
-            } else {
+            q.add(b);
+            while (!q.isEmpty()) {
+                if (q.peek().left != null) {
+                    q.add(q.peek().left);
+                }
+                if (q.peek().right != null) {
+                    q.add(q.peek().right);
+                }
+                System.out.print(q.remove() + " ");
             }
         }
     }
@@ -150,8 +157,9 @@ public class BSTree<E extends Comparable<E>> {
     public void levelorderscan() {
         this.levelorderscan(this.root);
     }
+
     /*********** Level-Order Scan **********/
-    
+
     /*********** End Level-Order Scan **********/
 
     protected void findLeaves(BTNode<E> r) {
